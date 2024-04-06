@@ -4,4 +4,4 @@
 - Pip
 
 ## Usage
-To collect the dataset, run 
+To collect the dataset, run collect_refactorings.sh
