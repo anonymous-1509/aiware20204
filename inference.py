@@ -83,4 +83,3 @@ with open(f"filtered_test_data.jsonl", "r") as test_file, open(f"CodeLlama-7B-In
                 "generated_response": response
             }
             results_file.write(json.dumps(results) + "\n")
-
