@@ -4,9 +4,13 @@
 - Pip
 
 ## Usage
-To collect the dataset, run collect_refactorings.sh
+To collect the dataset, run:
+`collect_refactorings.sh`
 
 ## RQ1
-Run inference.py, this could take several days depending on the test split of the dataset.
+To generate refactorings and collect code smells, run the following code:
+```
+python3 inference.py
 
-Run 
+extract_code_smells.sh
+```
