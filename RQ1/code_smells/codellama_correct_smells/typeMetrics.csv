@@ -1,0 +1,1826 @@
+Project Name,Package Name,Type Name,NOF,NOPF,NOM,NOPM,LOC,WMC,NC,DIT,LCOM,FANIN,FANOUT
+codellama_correct,org.apache.flink.table.planner.plan.schema,StructuredRelDataType,1,0,10,5,71,18,0,0,0.3,1,1
+codellama_correct,(default package),Connector,26,0,8,8,93,15,0,0,0.625,0,1
+codellama_correct,(default package),StorageService,22,8,3,1,32,3,0,0,1.0,5,2
+codellama_correct,(default package),FunctionParser,1,0,3,0,104,19,0,0,0.6666666666666666,0,0
+codellama_correct,(default package),JDBCSampler,46,0,18,15,169,26,0,0,0.8333333333333334,1,0
+codellama_correct,(default package),PoolConfigGui,8,0,11,8,98,16,0,0,0.5454545454545454,0,1
+codellama_correct,(default package),ConcurrentOpenHashMap,9,0,16,15,105,22,0,0,0.6875,0,0
+codellama_correct,(default package),Section,3,0,0,0,5,0,0,0,-1.0,0,0
+codellama_correct,(default package),ScheduleMessageService,8,0,14,13,110,22,0,0,0.2857142857142857,1,2
+codellama_correct,(default package),MessageStoreConfig,46,0,0,0,48,0,0,0,-1.0,1,1
+codellama_correct,(default package),BrokerOuterAPI,4,0,8,7,95,16,0,0,0.25,0,1
+codellama_correct,(default package),DefaultMQPushConsumer,24,1,16,16,76,16,0,0,0.75,1,0
+codellama_correct,(default package),Consumer,0,0,7,6,87,14,0,0,-1.0,1,1
+codellama_correct,(default package),StatsBenchmarkConsumer,5,0,5,5,23,5,0,0,0.0,0,0
+codellama_correct,(default package),AbstractUnfilteredRowIterator,5,0,5,3,26,6,0,0,0.4,0,0
+codellama_correct,(default package),RowAndDeletionMergeIterator,7,0,4,3,35,7,0,0,0.5,0,0
+codellama_correct,(default package),IFailureDetectionEventListener,0,0,2,0,4,2,0,0,-1.0,0,0
+codellama_correct,(default package),IEndpointStateChangeSubscriber,0,0,1,0,3,1,0,0,-1.0,0,0
+codellama_correct,(default package),GossipDigest,2,0,3,3,14,3,0,0,0.0,0,0
+codellama_correct,(default package),GossipDigestSyn,1,0,2,2,9,2,0,0,0.0,0,0
+codellama_correct,(default package),GossipTask,1,0,2,2,9,2,0,0,0.0,0,1
+codellama_correct,(default package),DebuggableScheduledThreadPoolExecutor,1,0,2,2,10,2,0,0,0.0,0,2
+codellama_correct,(default package),GossiperMBean,1,0,4,4,15,4,0,0,1.0,0,1
+codellama_correct,(default package),ServiceConfig,24,0,19,19,84,19,0,0,0.5263157894736842,0,0
+codellama_correct,(default package),WebServer,9,0,5,5,63,9,0,0,0.8,0,1
+codellama_correct,(default package),ProxyRolesEnforcementTest,3,0,5,0,82,5,0,0,0.8,0,3
+codellama_correct,(default package),ProxyService,19,0,8,8,89,12,0,0,0.375,1,3
+codellama_correct,(default package),ProxyAuthenticationTest,5,0,15,14,73,18,0,0,0.7333333333333333,0,1
+codellama_correct,(default package),BasicAuthenticationData,1,0,5,5,20,5,0,0,0.6,0,0
+codellama_correct,(default package),BasicAuthentication,1,0,5,5,21,5,0,0,0.8,1,0
+codellama_correct,(default package),BasicAuthenticationProvider,0,0,4,4,26,7,0,0,-1.0,1,1
+codellama_correct,(default package),StreamInSession,41,0,13,13,157,29,0,0,0.15384615384615385,0,4
+codellama_correct,(default package),has,11,0,0,0,13,0,0,0,-1.0,3,0
+codellama_correct,(default package),StreamOutSession,59,0,13,12,123,20,0,0,0.0,0,1
+codellama_correct,(default package),RemoveTest,12,1,10,10,111,14,0,0,0.2,0,7
+codellama_correct,(default package),ReplicationSink,0,0,1,1,7,2,0,0,-1.0,0,3
+codellama_correct,(default package),NotificationSink,1,1,1,1,13,2,0,0,0.0,0,3
+codellama_correct,(default package),Gossiper,14,0,8,4,73,12,0,0,0.0,4,3
+codellama_correct,(default package),GossipTask,0,0,1,1,19,2,0,0,-1.0,0,0
+codellama_correct,(default package),CassandraServer,4,0,9,6,97,22,0,0,0.5555555555555556,0,2
+codellama_correct,(default package),DatabaseDescriptor,46,0,0,0,50,0,0,0,-1.0,7,0
+codellama_correct,(default package),TesterContext,0,0,51,51,129,51,0,0,-1.0,0,0
+codellama_correct,(default package),AccessLogValve,14,0,24,24,77,24,0,0,1.0,0,0
+codellama_correct,(default package),V1_AdminApiTest2,9,0,3,3,41,3,0,0,0.0,0,3
+codellama_correct,(default package),AdminApiSchemaTest,6,0,7,6,45,7,0,0,1.0,0,1
+codellama_correct,(default package),Foo,1,0,0,0,3,0,0,0,-1.0,1,0
+codellama_correct,(default package),Foo1,2,0,0,0,4,0,0,0,-1.0,0,0
+codellama_correct,(default package),DefaultCompletedCheckpointStoreTest,2,0,8,4,53,11,0,0,0.625,0,2
+codellama_correct,(default package),CheckpointsCleaner,0,0,1,1,4,1,0,0,-1.0,0,0
+codellama_correct,(default package),TestingStateHandleStore,1,0,5,5,18,5,0,0,0.8,1,0
+codellama_correct,(default package),TestingRetrievableStateStorageHelper,1,0,2,2,9,2,0,0,0.0,0,0
+codellama_correct,(default package),TestingStateHandle,1,0,3,3,11,3,0,0,0.6666666666666666,0,0
+codellama_correct,(default package),CheckpointProperties,2,0,0,0,4,0,0,0,-1.0,1,0
+codellama_correct,(default package),MemoryParameterOverridingAppenderatorConfig,1,0,3,3,13,3,0,0,0.6666666666666666,0,0
+codellama_correct,(default package),SinkQuerySegmentWalker,11,0,3,3,32,3,0,0,0.0,0,0
+codellama_correct,(default package),SinkQueryRunner,12,0,2,2,34,3,0,0,0.0,0,0
+codellama_correct,(default package),TestCluster,8,0,14,14,87,19,0,0,0.21428571428571427,0,2
+codellama_correct,(default package),SchemaChangeMonitor,3,0,3,3,31,5,0,0,0.6666666666666666,0,1
+codellama_correct,(default package),RMContainerTokenSecretManager,5,0,10,7,81,13,0,0,0.5,0,0
+codellama_correct,(default package),MasterKeyRoller,0,0,1,1,5,1,0,0,-1.0,0,0
+codellama_correct,(default package),NextKeyActivator,0,0,1,1,5,1,0,0,-1.0,0,0
+codellama_correct,(default package),ResponseAssertionTest,7,0,10,7,138,10,0,0,0.3,0,0
+codellama_correct,(default package),AbstractCellNameType,8,0,22,21,108,30,0,0,0.6363636363636364,0,1
+codellama_correct,(default package),UtilAll,7,3,9,9,77,14,0,0,1.0,1,2
+codellama_correct,(default package),BaseNCodec,19,2,2,1,90,2,0,0,1.0,0,0
+codellama_correct,(default package),Context,7,0,2,1,43,2,0,0,1.0,6,0
+codellama_correct,(default package),Base64,0,0,0,0,2,0,0,0,-1.0,2,0
+codellama_correct,(default package),Base64,9,0,6,6,33,6,0,0,0.6666666666666666,0,0
+codellama_correct,(default package),AprLifecycleListener,15,0,4,2,101,11,0,0,0.5,1,0
+codellama_correct,(default package),OpenSSLEngine,30,2,5,5,68,5,0,0,1.0,0,0
+codellama_correct,(default package),RuntimeUtils,2,1,3,3,46,13,0,0,1.0,0,0
+codellama_correct,(default package),TestCoyoteAdapter,3,2,11,9,76,13,0,0,1.0,0,1
+codellama_correct,(default package),PathParamServlet,1,0,0,0,3,0,0,0,-1.0,0,0
+codellama_correct,(default package),ZipkinSpanRecord,27,14,1,1,32,1,0,0,0.0,0,0
+codellama_correct,(default package),Builder,0,0,2,2,35,2,0,0,-1.0,0,0
+codellama_correct,(default package),FiltersrvController,11,0,18,17,92,19,0,0,0.16666666666666666,0,2
+codellama_correct,(default package),Enumerator,3,0,2,1,15,2,0,0,0.0,0,1
+codellama_correct,(default package),FileIOChannel,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),ID,0,0,0,0,2,0,0,0,-1.0,1,0
+codellama_correct,(default package),Enumerator,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),FileIOChannel,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),ID,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),Enumerator,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),FileIOChannel,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),ID,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),Enumerator,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),FileIOChannel,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),ID,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),Enumerator,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),FileIOChannel,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),ID,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),Enumerator,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),FileIOChannel,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),ID,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),Enumerator,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),FileIOChannel,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),ID,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),Enumerator,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),FileIOChannel,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),ID,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),Enumerator,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),FileIOChannel,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),ID,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),Enumerator,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),FileIOChannel,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),ID,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),Enumerator,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),FileIOChannel,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),ID,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),Enumerator,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),FileIOChannel,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),ID,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),Enumerator,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),FileIOChannel,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),ID,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),Enumerator,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),FileIOChannel,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),InnerTableModel,3,0,9,9,45,10,0,0,0.3333333333333333,0,0
+codellama_correct,(default package),TitlePanel,1,0,12,1,46,12,0,0,1.0,0,0
+codellama_correct,(default package),InnerTableModel,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),TitlePanel,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),CompactionParams,11,6,9,8,69,12,0,0,0.2222222222222222,0,0
+codellama_correct,(default package),ContainerStatusPBImpl,27,0,22,14,145,32,0,0,0.4090909090909091,0,0
+codellama_correct,(default package),StressAction,8,0,8,8,117,28,0,0,0.25,0,0
+codellama_correct,(default package),Producer,1,0,2,2,18,5,0,0,0.0,1,0
+codellama_correct,(default package),Consumer,3,0,3,3,29,6,0,0,0.6666666666666666,0,0
+codellama_correct,(default package),Media,12,0,27,27,133,41,0,0,0.07407407407407407,0,0
+codellama_correct,(default package),NettyChannel,4,0,15,15,124,30,0,0,0.0,0,0
+codellama_correct,(default package),FastJsonSerializationTest,4,1,6,6,147,18,0,0,0.0,0,0
+codellama_correct,(default package),EnumBak,2,0,8,8,90,8,0,0,0.25,1,1
+codellama_correct,(default package),ZookeeperRegistry,6,0,10,10,103,17,0,0,0.2,0,0
+codellama_correct,(default package),KVConfigManager,18,0,9,8,172,19,0,0,0.2222222222222222,1,3
+codellama_correct,(default package),now,1,0,1,0,4,1,0,0,0.0,2,1
+codellama_correct,(default package),StandardWrapperValve,5,0,1,1,82,9,0,0,0.0,0,1
+codellama_correct,(default package),ApplicationDispatcher,10,0,9,3,88,16,0,0,0.7777777777777778,0,1
+codellama_correct,(default package),StringRefAddr,1,0,2,2,9,2,0,0,0.0,0,0
+codellama_correct,(default package),ContextEjb,1,0,2,2,9,2,0,0,0.0,0,0
+codellama_correct,(default package),ContextEnvironment,1,0,2,2,9,2,0,0,0.0,0,0
+codellama_correct,(default package),ContextLocalEjb,1,0,2,2,9,2,0,0,0.0,0,0
+codellama_correct,(default package),TestClientToAMTokens,7,1,14,12,68,14,0,0,0.6428571428571429,0,1
+codellama_correct,(default package),CustomProtocol,1,1,1,1,4,1,0,0,-1.0,2,0
+codellama_correct,(default package),CustomSecurityInfo,0,0,4,4,16,4,0,0,-1.0,0,0
+codellama_correct,(default package),CustomAM,5,0,5,4,35,5,0,0,0.4,0,1
+codellama_correct,(default package),HeapMemoryTaskStorage,6,0,7,7,88,12,0,0,0.42857142857142855,0,2
+codellama_correct,(default package),Overlap,0,0,1,1,5,1,0,0,-1.0,0,0
+codellama_correct,(default package),Subarray,0,0,1,1,5,1,0,0,-1.0,0,0
+codellama_correct,(default package),Substring,0,0,1,1,5,1,0,0,-1.0,0,0
+codellama_correct,(default package),ToString,0,0,1,1,5,1,0,0,-1.0,0,0
+codellama_correct,(default package),ToArray,0,0,1,1,5,1,0,0,-1.0,0,0
+codellama_correct,(default package),ConcatStrings,1,0,1,1,6,1,0,0,0.0,0,0
+codellama_correct,(default package),ConcatArrays,1,0,1,1,6,1,0,0,0.0,0,0
+codellama_correct,(default package),ArrayContains,1,0,1,1,6,1,0,0,0.0,0,0
+codellama_correct,(default package),ArrayIndexOf,1,0,1,1,6,1,0,0,0.0,0,0
+codellama_correct,(default package),ArraySlice,1,0,0,0,3,0,0,0,-1.0,0,0
+codellama_correct,(default package),EmbeddedServletOptions,42,1,0,0,44,0,0,0,-1.0,0,0
+codellama_correct,(default package),TagFileProcessor,16,0,4,3,36,4,0,0,0.5,0,0
+codellama_correct,(default package),TagFileDirectiveVisitor,15,0,2,2,27,2,0,0,1.0,0,0
+codellama_correct,(default package),RowMutationSerializer,0,0,3,3,11,3,0,0,-1.0,0,0
+codellama_correct,(default package),RowMutationTest,0,0,1,1,12,1,0,0,-1.0,0,1
+codellama_correct,(default package),QueryPath,3,0,6,6,24,6,0,0,0.3333333333333333,1,0
+codellama_correct,(default package),Config,64,64,0,0,66,0,0,0,-1.0,0,0
+codellama_correct,(default package),DefaultHAService,10,0,17,17,104,25,0,0,0.35294117647058826,0,4
+codellama_correct,(default package),BrokerConfig,83,0,0,0,85,0,0,0,-1.0,1,1
+codellama_correct,(default package),ControllerEventHandler,4,0,7,7,53,10,0,0,0.7142857142857143,0,2
+codellama_correct,(default package),RoleChangeHandler,1,0,2,2,16,3,0,0,1.0,0,0
+codellama_correct,(default package),DledgerControllerStateMachine,4,0,5,5,31,7,0,0,0.8,0,1
+codellama_correct,(default package),InnerBrokerController,1,0,18,18,122,33,0,0,0.6111111111111112,0,3
+codellama_correct,(default package),AutoSwitchHAConnection,19,0,12,11,89,14,0,0,0.16666666666666666,0,3
+codellama_correct,(default package),ReadSocketService,4,0,0,0,6,0,0,0,-1.0,1,0
+codellama_correct,(default package),AutoSwitchHAService,3,0,9,9,34,10,0,0,0.7777777777777778,1,0
+codellama_correct,(default package),AutoSwitchAcceptSocketService,0,0,3,2,10,3,0,0,-1.0,0,0
+codellama_correct,(default package),AutoSwitchHAClient,0,0,1,1,5,1,0,0,-1.0,0,0
+codellama_correct,(default package),AutoSwitchHAConnection,0,0,1,1,5,1,0,0,-1.0,0,0
+codellama_correct,(default package),GroupTransferService,0,0,1,1,4,1,0,0,-1.0,2,0
+codellama_correct,(default package),HAConnectionStateNotificationService,0,0,1,1,4,1,0,0,-1.0,2,0
+codellama_correct,(default package),EpochFileCache,0,0,4,4,10,4,0,0,-1.0,1,0
+codellama_correct,(default package),DispatchRequest,0,0,3,3,8,3,0,0,-1.0,0,0
+codellama_correct,(default package),SelectMappedBufferResult,0,0,4,4,10,4,0,0,-1.0,2,0
+codellama_correct,(default package),DefaultMessageStore,0,0,5,5,12,5,0,0,-1.0,3,0
+codellama_correct,(default package),MessageStoreConfig,0,0,3,3,8,3,0,0,-1.0,0,0
+codellama_correct,(default package),InternalLoggerFactory,0,0,2,2,6,2,0,0,-1.0,0,0
+codellama_correct,(default package),InternalLogger,0,0,0,0,2,0,0,0,-1.0,9,0
+codellama_correct,(default package),RetryInvocationHandler,7,0,4,3,96,18,0,0,0.5,0,0
+codellama_correct,(default package),SchemaTools,2,2,3,3,19,5,0,0,1.0,0,0
+codellama_correct,(default package),AsyncStateMachine,53,0,20,1,133,22,0,0,0.15,1,2
+codellama_correct,(default package),AsyncContextCallback,0,0,1,1,4,1,0,0,-1.0,0,0
+codellama_correct,(default package),has,34,0,0,0,35,0,0,0,-1.0,0,1
+codellama_correct,(default package),DefaultHAService,10,0,15,15,96,23,0,0,0.26666666666666666,0,4
+codellama_correct,(default package),ApplicationHomeSubClusterPBImpl,7,0,19,14,139,36,0,0,0.3157894736842105,0,0
+codellama_correct,(default package),SQLFederationStateStore,4,0,10,10,62,10,0,0,0.6,0,0
+codellama_correct,(default package),TestRMNMInfo,6,0,4,4,83,10,0,0,0.75,1,1
+codellama_correct,(default package),UpdateFairSharesThread,0,0,2,1,25,5,0,0,-1.0,0,0
+codellama_correct,(default package),SchedulingThread,0,0,2,1,15,3,0,0,-1.0,0,0
+codellama_correct,(default package),RefactoredClientNamenodeProtocol,1,0,26,26,81,26,0,0,0.0,0,0
+codellama_correct,(default package),SequentialWriter,13,0,15,7,123,20,0,0,0.7333333333333333,1,1
+codellama_correct,(default package),TransactionalProxy,1,0,4,0,36,6,0,0,1.0,0,0
+codellama_correct,(default package),ReferenceCountExchangeClient,2,0,8,8,31,9,0,0,0.25,0,0
+codellama_correct,(default package),DubboProtocolHandler,0,0,1,1,36,8,0,0,-1.0,0,0
+codellama_correct,(default package),ExchangeClientWrapper,1,0,6,6,21,6,0,0,0.0,0,0
+codellama_correct,(default package),DubboProtocolServer,1,0,8,8,25,8,0,0,0.25,0,0
+codellama_correct,(default package),KinesisSupervisorTuningConfig,9,0,9,9,37,9,0,0,0.2222222222222222,0,0
+codellama_correct,(default package),SchemaLoader,0,0,1,1,3,1,0,0,-1.0,2,0
+codellama_correct,(default package),AbstractProcessor,10,0,15,12,71,17,0,0,0.3333333333333333,1,1
+codellama_correct,(default package),HTTPSampler,3,0,5,1,61,11,0,0,0.8,0,1
+codellama_correct,(default package),SegmentRecord,29,14,3,3,66,4,0,0,1.0,0,1
+codellama_correct,(default package),Builder,0,0,2,2,29,3,0,0,-1.0,0,1
+codellama_correct,(default package),MethodConfig,17,0,34,34,120,34,0,0,0.5,0,0
+codellama_correct,(default package),SSTableSliceIterator,22,0,8,4,80,20,0,0,0.25,0,2
+codellama_correct,(default package),ColumnGroupReader,13,0,2,1,25,2,0,0,1.0,0,2
+codellama_correct,(default package),OpenSSLEngine,30,2,5,5,68,5,0,0,1.0,0,0
+codellama_correct,(default package),MutableBucket,4,0,11,11,110,19,0,0,0.36363636363636365,0,1
+codellama_correct,(default package),WebAnnotationSet,2,0,9,1,106,29,0,0,0.8888888888888888,0,1
+codellama_correct,(default package),ManagerServlet,10,0,3,2,104,25,0,0,1.0,0,1
+codellama_correct,(default package),StatusManagerServlet,6,0,3,3,84,6,0,0,0.6666666666666666,0,0
+codellama_correct,(default package),MonitoringThread,0,0,10,7,65,16,0,0,-1.0,0,0
+codellama_correct,(default package),BootStrapper,5,0,7,4,87,20,0,0,0.5714285714285714,0,3
+codellama_correct,(default package),WebServiceSamplerGui,24,0,2,1,32,2,0,0,1.0,0,0
+codellama_correct,(default package),RemotingCommand,18,3,25,25,116,27,0,0,0.12,5,0
+codellama_correct,(default package),JUnitSampler,13,0,25,25,118,30,0,0,0.56,1,1
+codellama_correct,(default package),RetryInvocationHandler,7,0,5,2,110,20,0,0,0.6,0,0
+codellama_correct,(default package),ExtensibleLoadManagerImpl,0,0,3,3,10,3,0,0,-1.0,0,0
+codellama_correct,(default package),BrokerRegistryImpl,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),ServiceUnitStateChannelImpl,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),LoadDataStoreFactory,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),BrokerLoadDataReporter,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),TopBundleLoadDataReporter,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),LoadManagerContextImpl,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),UnloadScheduler,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),LeastResourceUsageWithWeight,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),BrokerVersionFilter,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),BrokerFilterException,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),ServiceConfiguration,0,0,0,0,2,0,0,0,-1.0,2,0
+codellama_correct,(default package),PulsarService,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),LoadBalancer,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),LoadDataStore,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),TopicName,0,0,0,0,2,0,0,0,-1.0,1,0
+codellama_correct,(default package),TopicDomain,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),NamespaceName,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),ServiceUnitId,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),ServiceUnitState,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),BrokerLoadData,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),TopBundlesLoadData,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),SplitCounter,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),UnloadCounter,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),AssignCounter,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),SplitDecision,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),UnloadDecision,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),BrokerLookupData,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),LoadManagerScheduler,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),LoadManagerContext,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),BrokerSelectionStrategy,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),BrokerFilter,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),BrokerRegistry,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),ServiceUnitStateChannel,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),LoadDataStoreException,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),LoadDataStoreFactory,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),Metrics,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),LoadManager,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),PulsarServerException,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),LoadBalancerReportUpdateMinIntervalMillis,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),TimeUnit,0,0,0,0,2,0,0,0,-1.0,8,0
+codellama_correct,(default package),ScheduledFuture,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),CompletableFuture,0,0,0,0,2,0,0,0,-1.0,2,0
+codellama_correct,(default package),Optional,0,0,0,0,2,0,0,0,-1.0,2,0
+codellama_correct,(default package),AtomicReference,0,0,0,0,2,0,0,0,-1.0,1,0
+codellama_correct,(default package),ConcurrentOpenHashMap,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),SplitMetrics,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),UnloadMetrics,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),BrokerLoadMetrics,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),LoadDataReporter,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),TopBundleLoadDataReporter,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),LoadManagerExecutor,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),UnloadScheduler,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),BrokerRegistryImpl,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),ServiceUnitStateChannelImpl,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),LoadDataStoreFactory,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),BrokerLoadDataReporter,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),TopBundleLoadDataReporter,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),LoadManagerContextImpl,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),UnloadScheduler,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),LeastResourceUsageWithWeight,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),BrokerVersionFilter,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),BrokerFilterException,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),ServiceConfiguration,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),PulsarService,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),LoadBalancer,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),LoadDataStore,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),TopicName,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),TopicDomain,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),NamespaceName,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),ServiceUnitId,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),ServiceUnitState,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),BrokerLoadData,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),TopBundlesLoadData,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),SplitCounter,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),UnloadCounter,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),AssignCounter,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),SplitDecision,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),UnloadDecision,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),BrokerLookupData,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),LoadManagerScheduler,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),LoadManagerContext,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),BrokerSelectionStrategy,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),BrokerFilter,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),BrokerRegistry,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),ServiceUnitState,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),Summariser,15,0,10,7,83,15,0,0,0.9,1,0
+codellama_correct,(default package),Totals,3,0,1,0,9,1,0,0,0.0,0,0
+codellama_correct,(default package),RequestTableCellRenderer,1,0,3,3,23,6,0,0,1.0,0,0
+codellama_correct,(default package),RequestViewHttpSearchProvider,48,0,4,3,57,4,0,0,1.0,0,1
+codellama_correct,(default package),RefactoredResultCollector,18,1,25,5,115,30,0,0,0.72,0,1
+codellama_correct,(default package),ElasticSearchModule,1,0,6,6,21,6,0,0,0.3333333333333333,0,0
+codellama_correct,(default package),ElasticSearchClient,3,1,25,25,80,25,0,0,0.0,0,0
+codellama_correct,(default package),ProtobufUtil,0,0,16,16,60,19,0,0,-1.0,0,0
+codellama_correct,(default package),ZookeeperCacheTest,3,0,8,1,85,10,0,0,0.375,0,1
+codellama_correct,(default package),NioEndpoint,31,0,24,24,104,24,0,0,0.5416666666666666,0,0
+codellama_correct,(default package),PulsarAdminTool,0,0,1,1,4,1,0,0,-1.0,0,0
+codellama_correct,(default package),WsServlet,4,0,2,0,68,11,0,0,1.0,0,1
+codellama_correct,(default package),TestPublishedConfigurationOutputter,6,1,8,8,90,10,0,0,0.25,0,0
+codellama_correct,(default package),StandardHost,16,0,19,19,88,19,0,0,0.5263157894736842,0,0
+codellama_correct,(default package),StandardWrapperValve,5,0,2,2,81,10,0,0,1.0,0,1
+codellama_correct,(default package),NioReplicationTask,5,0,4,3,116,23,0,0,0.5,0,0
+codellama_correct,(default package),JDateField,42,0,11,7,119,15,0,0,0.5454545454545454,0,0
+codellama_correct,(default package),KeyFocus,0,0,1,1,10,3,0,0,-1.0,0,0
+codellama_correct,(default package),FocusClass,0,0,2,2,12,2,0,0,-1.0,0,0
+codellama_correct,(default package),to,37,0,1,0,40,1,0,0,0.0,8,0
+codellama_correct,(default package),takes,15,0,1,0,19,1,0,0,0.0,1,0
+codellama_correct,(default package),is,7,0,1,0,9,1,0,0,0.0,4,0
+codellama_correct,(default package),ArgumentsPanel,5,0,12,11,33,12,0,0,1.0,0,0
+codellama_correct,(default package),CompactionManager,3,0,10,10,104,28,0,0,0.4,1,3
+codellama_correct,(default package),ConsumerOffsetManager,6,0,15,13,122,32,0,0,0.3333333333333333,1,1
+codellama_correct,(default package),BufferBuilder,1,0,5,5,17,5,0,0,0.4,0,0
+codellama_correct,(default package),BufferConsumer,62,0,8,8,119,11,0,0,0.75,0,1
+codellama_correct,(default package),TestPooledBufferProvider,1,0,5,5,23,6,0,0,0.8,0,0
+codellama_correct,(default package),Main,0,0,1,1,27,3,0,0,-1.0,0,0
+codellama_correct,(default package),is,7,0,0,0,9,0,0,0,-1.0,0,0
+codellama_correct,(default package),Event,5,5,25,14,104,29,0,0,0.52,1,0
+codellama_correct,(default package),TopologyChange,2,2,10,6,42,11,0,0,0.5,0,0
+codellama_correct,(default package),StatusChange,2,2,9,5,35,9,0,0,0.5555555555555556,0,0
+codellama_correct,(default package),StatsItem,9,0,22,21,134,27,0,0,0.36363636363636365,0,3
+codellama_correct,(default package),DefaultHaConnection,19,0,12,12,122,21,0,0,0.16666666666666666,0,3
+codellama_correct,(default package),WriteSocketService,9,0,2,2,55,10,0,0,0.0,0,1
+codellama_correct,(default package),CapacitySchedulerConfiguration,26,22,8,7,59,9,0,0,0.875,0,0
+codellama_correct,(default package),AbstractReferenceConfig,10,0,28,28,114,31,0,0,0.2857142857142857,0,0
+codellama_correct,(default package),ParsedNodes,2,0,2,1,9,2,0,0,1.0,0,0
+codellama_correct,(default package),CompactionTask,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),CompactionController,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),CompactionAwareWriter,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),CompactionIterator,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),CompactionInterruptedException,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),CompactionStrategyManager,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),SSTableReader,0,0,0,0,2,0,0,0,-1.0,3,0
+codellama_correct,(default package),SSTableWriter,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),LifecycleTransaction,0,0,0,0,2,0,0,0,-1.0,1,0
+codellama_correct,(default package),ColumnFamilyStore,0,0,0,0,2,0,0,0,-1.0,6,0
+codellama_correct,(default package),DatabaseDescriptor,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),SystemKeyspace,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),ActiveRepairService,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),CloseableIterator,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),FBUtilities,0,0,0,0,2,0,0,0,-1.0,7,0
+codellama_correct,(default package),Refs,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),AbstractCompactionStrategy,0,0,0,0,2,0,0,0,-1.0,1,0
+codellama_correct,(default package),CompactionExecutorStatsCollector,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),CompactionAwareWriter,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),CompactionTask,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),CompactionManager,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),CompactionExecutor,0,0,0,0,2,0,0,0,-1.0,1,0
+codellama_correct,(default package),CompactionHistory,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),CompactionInfo,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),CompactionStats,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),CompactionMetrics,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),CompactionExecutorStats,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),CompactionHistory,0,0,0,0,106,0,0,0,-1.0,0,0
+codellama_correct,(default package),CompactionHistory,0,0,0,0,102,0,0,0,-1.0,0,0
+codellama_correct,(default package),CompactionHistory,0,0,0,0,98,0,0,0,-1.0,0,0
+codellama_correct,(default package),CompactionHistory,0,0,0,0,94,0,0,0,-1.0,0,0
+codellama_correct,(default package),CompactionHistory,0,0,0,0,90,0,0,0,-1.0,0,0
+codellama_correct,(default package),CompactionHistory,0,0,0,0,86,0,0,0,-1.0,0,0
+codellama_correct,(default package),CompactionHistory,0,0,0,0,82,0,0,0,-1.0,0,0
+codellama_correct,(default package),CompactionHistory,0,0,0,0,78,0,0,0,-1.0,0,0
+codellama_correct,(default package),CompactionHistory,0,0,0,0,74,0,0,0,-1.0,0,0
+codellama_correct,(default package),CompactionHistory,0,0,0,0,70,0,0,0,-1.0,0,0
+codellama_correct,(default package),CompactionHistory,0,0,0,0,66,0,0,0,-1.0,0,0
+codellama_correct,(default package),CompactionHistory,0,0,0,0,62,0,0,0,-1.0,0,0
+codellama_correct,(default package),CompactionHistory,0,0,0,0,58,0,0,0,-1.0,0,0
+codellama_correct,(default package),CompactionHistory,0,0,0,0,54,0,0,0,-1.0,0,0
+codellama_correct,(default package),CompactionHistory,0,0,0,0,50,0,0,0,-1.0,0,0
+codellama_correct,(default package),CompactionHistory,0,0,0,0,46,0,0,0,-1.0,0,0
+codellama_correct,(default package),CompactionHistory,0,0,0,0,42,0,0,0,-1.0,0,0
+codellama_correct,(default package),CompactionHistory,0,0,0,0,38,0,0,0,-1.0,0,0
+codellama_correct,(default package),CompactionHistory,0,0,0,0,34,0,0,0,-1.0,0,0
+codellama_correct,(default package),CompactionHistory,0,0,0,0,30,0,0,0,-1.0,0,0
+codellama_correct,(default package),CompactionHistory,0,0,0,0,26,0,0,0,-1.0,0,0
+codellama_correct,(default package),CompactionHistory,0,0,0,0,22,0,0,0,-1.0,0,0
+codellama_correct,(default package),CompactionHistory,0,0,0,0,18,0,0,0,-1.0,0,0
+codellama_correct,(default package),CompactionHistory,0,0,0,0,14,0,0,0,-1.0,0,0
+codellama_correct,(default package),CompactionHistory,0,0,0,0,10,0,0,0,-1.0,0,0
+codellama_correct,(default package),CompactionHistory,0,0,0,0,6,0,0,0,-1.0,0,0
+codellama_correct,(default package),CompactionHistory,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,(default package),BrokerConfig,44,0,2,2,52,2,0,0,1.0,0,1
+codellama_correct,(default package),CommitLogStressTest,5,0,7,7,76,13,0,0,0.7142857142857143,0,2
+codellama_correct,(default package),DataOutputTest,0,0,12,11,114,12,0,0,-1.0,0,1
+codellama_correct,(default package),CompressedRandomAccessReader,5,0,4,2,95,12,0,0,0.0,0,1
+codellama_correct,(default package),XPathExtractorGui,8,0,10,7,98,11,0,0,0.5,0,0
+codellama_correct,(default package),DistributionGraph,21,0,12,9,88,15,0,0,0.75,0,1
+codellama_correct,(default package),RegexExtractorGui,11,0,9,6,100,11,0,0,0.6666666666666666,0,0
+codellama_correct,(default package),NamesrvStartup,69,0,3,3,152,11,0,0,0.6666666666666666,0,5
+codellama_correct,(default package),has,45,0,0,0,48,0,0,0,-1.0,0,1
+codellama_correct,(default package),has,38,0,0,0,39,0,0,0,-1.0,0,0
+codellama_correct,(default package),has,27,0,0,0,27,0,0,0,-1.0,0,0
+codellama_correct,(default package),NamesrvController,70,0,13,12,131,13,0,0,0.0,2,3
+codellama_correct,(default package),AbstractCompactionStrategy,5,0,9,9,36,9,0,0,0.6666666666666666,0,1
+codellama_correct,(default package),SizeTieredCompactionStrategyOptions,3,0,2,1,14,2,0,0,1.0,0,0
+codellama_correct,(default package),CompactionTask,2,0,3,3,14,3,0,0,0.6666666666666666,0,2
+codellama_correct,(default package),CompactionAwareWriter,5,0,9,9,36,9,0,0,0.6666666666666666,0,1
+codellama_correct,(default package),SSTableReader,10,0,1,1,14,1,0,0,0.0,0,1
+codellama_correct,(default package),AdminResourceRefactored,2,1,19,19,46,19,0,0,1.0,0,0
+codellama_correct,(default package),PostWriter,8,1,4,4,74,12,0,0,0.75,1,0
+codellama_correct,(default package),Http2Parser,11,0,4,0,110,22,0,0,0.5,0,0
+codellama_correct,(default package),Frame,15,9,10,8,61,13,0,0,0.3,0,0
+codellama_correct,(default package),Header,7,6,3,2,28,6,0,0,0.0,0,0
+codellama_correct,(default package),Decoder,5,0,2,1,11,2,0,0,1.0,0,0
+codellama_correct,(default package),PendingReconstructionBlocks,5,0,11,11,94,18,0,0,0.0,0,0
+codellama_correct,(default package),PendingReconstructionMonitor,31,0,2,1,61,5,0,0,1.0,0,2
+codellama_correct,(default package),NettyRPCTest,1,0,10,10,108,14,0,0,0.5,0,1
+codellama_correct,(default package),Connector,29,0,5,5,71,8,0,0,0.4,0,0
+codellama_correct,(default package),TestCookieParsing,8,0,14,11,86,17,0,0,0.7857142857142857,0,0
+codellama_correct,(default package),Config,36,35,0,0,38,0,0,0,-1.0,0,0
+codellama_correct,(default package),HintsReaderTest,4,0,12,5,103,16,0,0,0.5833333333333334,0,2
+codellama_correct,org.apache.catalina.storeconfig,ConnectorStoreAppender,1,0,2,1,47,10,0,0,0.0,0,0
+codellama_correct,org.apache.cassandra.db,CommitLogTest,0,0,1,1,22,2,0,0,-1.0,0,1
+codellama_correct,org.apache.cassandra.db,PartitionColumns,5,0,20,20,90,29,0,0,0.15,4,2
+codellama_correct,org.apache.cassandra.db,Builder,2,0,4,4,30,12,0,0,0.0,2,2
+codellama_correct,org.apache.cassandra.db,Memtable,9,1,10,5,62,15,0,0,0.2,2,1
+codellama_correct,org.apache.cassandra.db,RowIteratorFactory,7,0,8,5,89,18,0,0,0.25,0,1
+codellama_correct,org.apache.cassandra.db,ConvertToColumnIterator,2,0,2,2,11,2,0,0,0.0,0,0
+codellama_correct,org.apache.cassandra.db,ReadVerbHandler,4,0,1,1,40,4,0,0,0.0,2,3
+codellama_correct,org.apache.cassandra.db,ReadContext,2,0,0,0,4,0,0,0,-1.0,2,0
+codellama_correct,org.apache.cassandra.db,BinaryVerbHandler,1,0,1,1,19,1,0,0,0.0,0,2
+codellama_correct,org.apache.cassandra.db,DataFileVerbHandler,1,0,1,1,22,2,0,0,0.0,0,2
+codellama_correct,org.apache.cassandra.db,CommitLogHeader,3,0,17,3,105,24,0,0,0.11764705882352941,2,2
+codellama_correct,org.apache.cassandra.db,CommitLogHeaderSerializer,0,0,2,2,17,4,0,0,-1.0,1,1
+codellama_correct,org.apache.cassandra.db,ColumnFamilyStoreTest,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,org.apache.cassandra.db,ColumnsTest,1,0,8,5,47,14,0,0,0.625,0,0
+codellama_correct,org.apache.cassandra.db,AbstractColumnContainer,5,2,23,21,101,31,0,0,0.08695652173913043,1,3
+codellama_correct,org.apache.cassandra.db,DeletionInfo,2,2,2,2,11,2,0,0,1.0,1,0
+codellama_correct,org.apache.cassandra.db,CounterMutation,5,0,11,8,77,20,0,0,0.18181818181818182,3,2
+codellama_correct,org.apache.cassandra.db,SuperColumn,4,0,19,18,118,30,0,0,0.21052631578947367,3,1
+codellama_correct,org.apache.cassandra.db,CounterMutationTest,0,0,1,1,36,1,0,0,-1.0,0,2
+codellama_correct,org.apache.cassandra.db,ColumnIndex,114,0,9,4,172,16,0,0,0.0,3,4
+codellama_correct,org.apache.cassandra.db,Builder,12,0,7,2,61,14,0,0,0.0,0,2
+codellama_correct,org.apache.cassandra.db,has,65,0,0,0,66,0,0,0,-1.0,1,1
+codellama_correct,org.apache.cassandra.db,and,55,0,0,0,54,0,0,0,-1.0,3,0
+codellama_correct,org.apache.cassandra.db,RowIndexEntry,4,1,14,10,65,15,0,0,0.6428571428571429,7,2
+codellama_correct,org.apache.cassandra.db,IndexSerializer,0,0,3,0,5,3,1,0,-1.0,0,1
+codellama_correct,org.apache.cassandra.db,Serializer,2,0,2,2,17,2,0,1,0.0,0,1
+codellama_correct,org.apache.cassandra.db,ReadVerbHandler,4,0,1,1,40,4,0,0,0.0,0,3
+codellama_correct,org.apache.cassandra.db,ReadContext,2,0,0,0,4,0,0,0,-1.0,0,0
+codellama_correct,org.apache.cassandra.db,SliceFromReadCommand,4,0,4,4,25,4,0,0,0.0,2,1
+codellama_correct,org.apache.cassandra.db,SliceFromReadCommandSerializer,0,0,2,2,19,2,0,0,-1.0,0,1
+codellama_correct,org.apache.cassandra.db,SliceByNamesReadCommand,1,0,6,6,49,9,0,0,0.3333333333333333,4,2
+codellama_correct,org.apache.cassandra.db,SliceByNamesReadCommandSerializer,0,0,2,2,29,5,0,0,-1.0,0,1
+codellama_correct,org.apache.cassandra.db,TypeSizes,7,2,13,13,59,16,2,0,0.9230769230769231,14,1
+codellama_correct,org.apache.cassandra.db,NativeDBTypeSizes,0,0,4,4,14,4,0,1,-1.0,0,0
+codellama_correct,org.apache.cassandra.db,VIntEncodedTypeSizes,1,0,5,5,33,8,0,1,0.4,0,0
+codellama_correct,org.apache.cassandra.db,SliceFromReadCommand,5,0,7,6,58,14,0,0,0.0,0,1
+codellama_correct,org.apache.cassandra.db,SliceFromReadCommandSerializer,0,0,3,3,20,3,0,0,-1.0,0,1
+codellama_correct,org.apache.cassandra.db,Truncation,3,3,3,3,15,3,0,0,0.6666666666666666,1,0
+codellama_correct,org.apache.cassandra.db,TruncationSerializer,0,0,3,3,14,3,0,0,-1.0,0,1
+codellama_correct,org.apache.cassandra.db,TruncateResponse,4,4,5,5,30,5,0,0,0.6,2,3
+codellama_correct,org.apache.cassandra.db,TruncateResponseSerializer,0,0,3,3,16,3,0,0,-1.0,1,2
+codellama_correct,org.apache.cassandra.db,CounterMutation,4,1,14,13,80,24,0,0,0.2857142857142857,0,2
+codellama_correct,org.apache.cassandra.db,CounterMutationSerializer,0,0,3,3,15,3,0,0,-1.0,1,3
+codellama_correct,org.apache.cassandra.db,RowMutation,7,0,13,12,85,20,0,0,0.0,10,2
+codellama_correct,org.apache.cassandra.db,SliceByNamesReadCommand,1,0,7,7,67,12,0,0,0.2857142857142857,0,3
+codellama_correct,org.apache.cassandra.db,SliceByNamesReadCommandSerializer,0,0,3,3,47,8,0,0,-1.0,0,2
+codellama_correct,org.apache.cassandra.db,SnapshotCommand,5,5,3,3,19,3,0,0,0.6666666666666666,2,0
+codellama_correct,org.apache.cassandra.db,SnapshotCommandSerializer,0,0,3,3,18,3,0,0,-1.0,0,2
+codellama_correct,org.apache.cassandra.db,SystemTable,8,1,6,5,112,9,0,0,0.3333333333333333,2,3
+codellama_correct,com.alibaba.rocketmq.common.protocol.header,SendMessageRequestHeader,11,0,23,23,92,23,0,0,0.0,2,0
+codellama_correct,com.alibaba.rocketmq.common.protocol.header,PullMessageRequestHeader,10,0,22,22,86,22,0,0,0.09090909090909091,0,0
+codellama_correct,com.alibaba.rocketmq.common.protocol.header,SendMessageRequestHeaderV2,12,0,29,29,123,29,0,0,0.10344827586206896,1,2
+codellama_correct,eu.stratosphere.api.java.operators,Grouping,4,0,11,8,61,15,0,0,0.5454545454545454,0,0
+codellama_correct,org.apache.coyote.http11,Http11Processor,9,0,4,3,85,9,0,0,0.5,0,0
+codellama_correct,org.apache.coyote.http11,Http11AprProcessor,32,0,5,4,85,8,0,0,0.6,0,1
+codellama_correct,org.apache.coyote.http11,Http11Processor,1,0,5,5,23,5,0,0,1.0,0,0
+codellama_correct,org.apache.coyote.http11,Http11NioProtocol,12,0,10,10,76,12,0,0,0.3,0,1
+codellama_correct,org.apache.coyote.http11,InternalNioOutputBuffer,14,0,13,13,99,21,0,0,0.23076923076923078,0,0
+codellama_correct,org.apache.coyote.http11,AbstractOutputBuffer,15,0,9,8,66,13,0,0,0.4444444444444444,0,0
+codellama_correct,org.apache.jorphan.math,StatCalculator,11,0,20,16,119,28,0,0,0.3,1,0
+codellama_correct,org.apache.jorphan.math,StatCalculator,16,0,22,17,135,29,0,0,0.2727272727272727,0,1
+codellama_correct,org.apache.flink.test.util,JavaProgramTestBase,3,0,11,7,128,14,0,0,0.0,0,0
+codellama_correct,com.ai.cloud.skywalking.analysis,AnalysisServerDriver,1,0,3,2,38,5,0,0,0.6666666666666666,1,2
+codellama_correct,com.ai.cloud.skywalking.analysis.categorize2chain.model,ChainNode,11,0,26,25,111,29,0,0,0.15384615384615385,1,0
+codellama_correct,com.ai.cloud.skywalking.analysis.categorize2chain.model,ChainInfo,7,0,18,17,97,25,0,0,0.16666666666666666,2,1
+codellama_correct,com.ai.cloud.skywalking.analysis.categorize2chain,Summary,2,0,6,3,39,9,0,0,0.0,0,1
+codellama_correct,org.apache.jmeter.protocol.jdbc.util,DBConnectionManager,3,0,9,5,72,13,0,0,0.4444444444444444,1,1
+codellama_correct,org.apache.pulsar.tests.integration.suites,PulsarTestSuite,0,0,5,5,32,10,1,0,-1.0,1,1
+codellama_correct,org.apache.pulsar.tests.integration.suites,PulsarTieredStorageTestSuite,1,0,5,3,21,6,0,0,0.8,0,0
+codellama_correct,org.apache.pulsar.tests.integration.suites,PulsarSQLTestSuite,4,4,3,1,26,4,0,1,1.0,0,0
+codellama_correct,org.apache.pulsar.tests.integration.topologies,PulsarClusterTestBase,1,0,9,6,37,10,0,0,0.3333333333333333,0,0
+codellama_correct,org.apache.pulsar.tests.integration.topologies,PulsarTestBase,0,0,7,3,83,16,0,0,-1.0,1,1
+codellama_correct,org.apache.flink.runtime.resourcemanager,TestingResourceManagerFactory,9,0,13,10,67,13,0,0,0.23076923076923078,0,0
+codellama_correct,org.apache.flink.runtime.resourcemanager,Builder,4,0,5,5,31,5,0,0,0.0,0,0
+codellama_correct,org.apache.flink.runtime.resourcemanager,MockResourceManager,1,0,5,2,18,5,0,0,0.4,0,0
+codellama_correct,org.apache.flink.runtime.leaderelection,LeaderChangeClusterComponentsTest,9,1,6,6,57,7,0,0,0.3333333333333333,0,0
+codellama_correct,org.apache.flink.runtime.leaderelection,JobManagerLeaderElectionTest,2,0,5,4,61,8,0,0,0.0,0,0
+codellama_correct,org.apache.dubbo.qos.command.util,CommandHelperTest,1,0,3,0,56,3,0,0,0.0,0,0
+codellama_correct,org.apache.pulsar.proxy.server,BrokerDiscoveryProvider,6,0,6,5,87,12,0,0,0.5,3,2
+codellama_correct,org.apache.pulsar.proxy.server,ProxyRolesEnforcementTest,3,0,17,15,85,19,0,0,0.7647058823529411,0,3
+codellama_correct,org.apache.pulsar.proxy.server,BasicAuthenticationData,1,0,5,5,20,5,0,0,0.6,0,0
+codellama_correct,org.apache.pulsar.proxy.server,BasicAuthentication,1,0,5,5,21,5,0,0,0.8,2,0
+codellama_correct,org.apache.pulsar.proxy.server,BasicAuthenticationProvider,0,0,4,4,18,6,0,0,-1.0,2,1
+codellama_correct,org.apache.pulsar.proxy.server,ProxyAuthenticationTest,3,0,15,14,71,18,0,0,0.7333333333333333,0,1
+codellama_correct,org.apache.pulsar.proxy.server,BasicAuthenticationData,1,0,5,5,20,5,0,0,0.6,0,0
+codellama_correct,org.apache.pulsar.proxy.server,BasicAuthentication,1,0,5,5,21,5,0,0,0.8,0,0
+codellama_correct,org.apache.pulsar.proxy.server,BasicAuthenticationProvider,0,0,4,4,26,7,0,0,-1.0,0,1
+codellama_correct,org.apache.pulsar.proxy.server,ProxyForwardAuthDataTest,5,0,5,0,75,5,0,0,0.4,0,3
+codellama_correct,org.apache.pulsar.proxy.server,ProxyConfiguration,24,0,0,0,26,0,0,0,-1.0,4,0
+codellama_correct,org.apache.pulsar.proxy.server,SuperUserAuthedAdminProxyHandlerTest,4,0,6,2,61,6,0,0,0.3333333333333333,1,3
+codellama_correct,org.apache.pulsar.proxy.server,ParserProxyHandler,9,0,3,2,34,7,0,0,0.6666666666666666,1,1
+codellama_correct,org.apache.flink.runtime.jobmaster.slotpool,SlotPoolUtils,0,0,11,5,39,12,0,0,-1.0,1,1
+codellama_correct,org.apache.rocketmq.common.filter,FilterAPI,0,0,3,3,36,8,0,0,-1.0,4,1
+codellama_correct,org.apache.rocketmq.common.filter,FilterAPITest,3,0,1,1,16,2,0,0,0.0,0,1
+codellama_correct,org.apache.rocketmq.broker.processor,ClientManageProcessor,2,0,5,5,74,15,0,0,0.4,0,2
+codellama_correct,org.apache.rocketmq.broker.longpolling,NotifyMessageArrivingListener,1,0,2,2,9,2,0,0,0.0,0,1
+codellama_correct,org.apache.rocketmq.broker.longpolling,PullRequestHoldService,68,0,8,6,171,23,0,0,0.0,2,2
+codellama_correct,org.apache.rocketmq.store,DefaultMessageStoreTest,6,0,5,5,84,9,0,0,0.4,0,2
+codellama_correct,org.apache.rocketmq.store,MyMessageArrivingListener,0,0,1,1,4,1,0,0,-1.0,0,0
+codellama_correct,org.apache.rocketmq.store,MessageStore,0,0,40,0,42,40,0,0,-1.0,6,1
+codellama_correct,org.apache.rocketmq.store,DefaultMessageFilter,0,0,2,1,20,6,0,0,-1.0,0,0
+codellama_correct,org.apache.rocketmq.store,ConsumeQueue,12,1,3,3,76,10,0,0,0.0,3,0
+codellama_correct,org.apache.rocketmq.store,DefaultMessageStoreTest,7,0,8,7,98,12,0,0,0.375,0,2
+codellama_correct,org.apache.rocketmq.store,AppendMessageCallback,0,0,2,0,4,2,0,0,-1.0,0,1
+codellama_correct,org.apache.rocketmq.store,DefaultMessageStoreTest,10,0,6,6,104,12,0,0,0.5,0,2
+codellama_correct,org.apache.rocketmq.store,MyMessageArrivingListener,0,0,1,1,4,1,0,0,-1.0,0,0
+codellama_correct,org.apache.rocketmq.store,DefaultMessageStoreTest,7,0,3,3,16,3,0,0,1.0,0,0
+codellama_correct,org.apache.rocketmq.store,StoreCheckpointTest,1,0,3,3,21,3,0,0,0.0,0,0
+codellama_correct,org.apache.rocketmq.store,MappedFileQueueTest,1,0,6,6,32,8,0,0,1.0,0,0
+codellama_correct,org.apache.rocketmq.store,MappedFileTest,2,0,4,4,38,4,0,0,0.75,0,0
+codellama_correct,org.apache.rocketmq.store,MultiDispatchTest,283,0,5,4,294,6,0,0,0.6,0,5
+codellama_correct,org.apache.rocketmq.store,has,6,0,0,0,7,0,0,0,-1.0,1,0
+codellama_correct,org.apache.rocketmq.store,has,20,0,0,0,19,0,0,0,-1.0,0,0
+codellama_correct,org.apache.rocketmq.common.protocol,ResponseCode,26,26,0,0,28,0,0,0,-1.0,1,0
+codellama_correct,org.apache.rocketmq.common.protocol,RequestCode,81,81,0,0,83,0,0,0,-1.0,2,0
+codellama_correct,org.apache.rocketmq.common.protocol,RequestCode,79,79,0,0,81,0,0,0,-1.0,0,0
+codellama_correct,org.apache.rocketmq.broker.client,ConsumerManager,4,0,9,9,74,20,0,0,0.2222222222222222,0,0
+codellama_correct,org.apache.rocketmq.broker.client,ProducerManagerTest,4,0,7,7,124,13,0,0,0.0,0,0
+codellama_correct,org.apache.rocketmq.common.protocol.header,PullMessageRequestHeader,10,0,22,22,86,22,0,0,0.09090909090909091,4,0
+codellama_correct,org.apache.rocketmq.client.consumer,MQPushConsumer,0,0,11,0,13,11,0,0,-1.0,0,0
+codellama_correct,org.apache.rocketmq.client.consumer,DefaultMQPullConsumerTest,6,0,7,7,54,7,0,0,0.5714285714285714,0,1
+codellama_correct,org.apache.rocketmq.client.consumer,DefaultMQPullConsumerTest,6,0,9,8,79,9,0,0,0.6666666666666666,0,1
+codellama_correct,org.apache.rocketmq.common.message,Message,5,0,28,27,109,32,0,0,0.07142857142857142,0,0
+codellama_correct,org.apache.rocketmq.common.message,MessageExtBrokerInner,5,0,12,12,56,15,0,0,0.4166666666666667,7,1
+codellama_correct,org.apache.rocketmq.broker.plugin,AbstractPluginMessageStore,2,0,40,40,125,40,0,0,0.0,0,2
+codellama_correct,org.apache.rocketmq.broker.plugin,AbstractPluginMessageStore,2,0,20,20,65,20,0,0,0.0,0,2
+codellama_correct,org.apache.cassandra.repair.consistent,PendingAntiCompaction,12,0,11,4,96,20,0,0,0.0,0,1
+codellama_correct,org.apache.cassandra.repair.consistent,AcquireResult,3,0,2,0,14,2,0,0,0.0,3,0
+codellama_correct,org.apache.cassandra.repair.consistent,AcquisitionCallable,3,0,4,1,26,7,0,0,0.0,0,1
+codellama_correct,org.apache.cassandra.repair.consistent,AcquisitionCallback,2,0,3,1,32,8,0,0,0.0,0,1
+codellama_correct,org.apache.catalina.filters,CsrfPreventionFilter,4,0,3,3,58,15,0,0,1.0,0,0
+codellama_correct,org.apache.pulsar.broker.service.persistent,MessageRedeliveryController,2,0,10,10,64,17,0,0,0.0,0,0
+codellama_correct,org.apache.cassandra.db.partitions,CachedBTreePartition,6,0,8,7,60,14,0,0,0.375,1,2
+codellama_correct,org.apache.cassandra.db.partitions,Serializer,0,0,1,1,4,1,0,0,-1.0,0,0
+codellama_correct,org.apache.cassandra.db.partitions,FilteredPartition,4,0,12,12,46,12,0,0,0.5,1,2
+codellama_correct,com.alibaba.rocketmq.tools.command.topic,UpdateTopicSubCommand,0,0,4,4,40,4,0,0,-1.0,0,0
+codellama_correct,org.apache.hadoop.hdfs.server.namenode,TestAuditLogger,4,0,7,7,78,8,0,0,0.5714285714285714,0,2
+codellama_correct,org.apache.hadoop.hdfs.server.namenode,DummyAuditLogger,3,0,2,2,14,3,0,0,1.0,1,0
+codellama_correct,org.apache.hadoop.hdfs.server.namenode,BrokenAuditLogger,0,0,2,2,7,2,0,0,-1.0,1,0
+codellama_correct,org.apache.hadoop.hdfs.server.namenode,InotifyFSEditLogOpTranslator,0,0,1,0,3,1,0,0,-1.0,0,0
+codellama_correct,org.apache.hadoop.hdfs.server.namenode,FSEditLogOp,29,29,15,15,120,15,15,0,0.2,1,0
+codellama_correct,org.apache.hadoop.hdfs.server.namenode,AddOp,2,2,1,1,8,1,0,1,0.0,0,0
+codellama_correct,org.apache.hadoop.hdfs.server.namenode,CloseOp,1,1,1,1,6,1,0,1,0.0,0,0
+codellama_correct,org.apache.hadoop.hdfs.server.namenode,SetReplicationOp,2,2,1,1,8,1,0,1,0.0,0,0
+codellama_correct,org.apache.hadoop.hdfs.server.namenode,ConcatDeleteOp,2,2,1,1,8,1,0,1,0.0,0,0
+codellama_correct,org.apache.hadoop.hdfs.server.namenode,RenameOldOp,2,2,1,1,8,1,0,1,0.0,0,0
+codellama_correct,org.apache.hadoop.hdfs.server.namenode,RenameOp,2,2,1,1,8,1,0,1,0.0,0,0
+codellama_correct,org.apache.hadoop.hdfs.server.namenode,DeleteOp,1,1,1,1,6,1,0,1,0.0,0,0
+codellama_correct,org.apache.hadoop.hdfs.server.namenode,MkdirOp,1,1,1,1,6,1,0,1,0.0,0,0
+codellama_correct,org.apache.hadoop.hdfs.server.namenode,SetPermissionsOp,2,2,1,1,8,1,0,1,0.0,0,0
+codellama_correct,org.apache.hadoop.hdfs.server.namenode,SetOwnerOp,3,3,1,1,10,1,0,1,0.0,0,0
+codellama_correct,org.apache.hadoop.hdfs.server.namenode,TimesOp,3,3,1,1,10,1,0,1,0.0,0,0
+codellama_correct,org.apache.hadoop.hdfs.server.namenode,SymlinkOp,2,2,1,1,8,1,0,1,0.0,0,0
+codellama_correct,org.apache.hadoop.hdfs.server.namenode,RemoveXAttrOp,2,2,1,1,8,1,0,1,0.0,0,0
+codellama_correct,org.apache.hadoop.hdfs.server.namenode,SetXAttrOp,2,2,1,1,8,1,0,1,0.0,0,0
+codellama_correct,org.apache.hadoop.hdfs.server.namenode,SetAclOp,2,2,1,1,8,1,0,1,0.0,0,0
+codellama_correct,org.apache.hadoop.hdfs.server.namenode,Event,16,16,6,6,58,6,6,0,0.0,2,2
+codellama_correct,org.apache.hadoop.hdfs.server.namenode,CreateEvent,4,4,1,1,12,1,0,1,0.0,0,0
+codellama_correct,org.apache.hadoop.hdfs.server.namenode,AppendEvent,1,1,1,1,6,1,0,1,0.0,0,0
+codellama_correct,org.apache.hadoop.hdfs.server.namenode,CloseEvent,3,3,1,1,10,1,0,1,0.0,0,0
+codellama_correct,org.apache.hadoop.hdfs.server.namenode,RenameEvent,3,3,1,1,10,1,0,1,0.0,0,0
+codellama_correct,org.apache.hadoop.hdfs.server.namenode,UnlinkEvent,2,2,1,1,8,1,0,1,0.0,0,0
+codellama_correct,org.apache.hadoop.hdfs.server.namenode,MetadataUpdateEvent,3,3,1,1,10,1,0,1,0.0,2,2
+codellama_correct,org.apache.hadoop.hdfs.server.namenode,InotifyFSEditLogOpTranslator,0,0,1,1,10,3,0,0,-1.0,0,1
+codellama_correct,org.apache.flink.contrib.streaming.state,RocksDBAggregatingState,1,0,8,6,84,16,0,0,0.625,0,0
+codellama_correct,eu.stratosphere.api.datastream,StreamExecutionEnvironment,4,0,8,8,73,10,0,0,0.375,1,0
+codellama_correct,eu.stratosphere.api.datastream,DummySource,1,0,1,1,9,2,0,0,0.0,0,0
+codellama_correct,eu.stratosphere.api.datastream,DummySink,1,0,1,1,8,2,0,0,0.0,0,0
+codellama_correct,eu.stratosphere.api.datastream,StreamOperator,0,0,1,0,5,1,0,0,-1.0,0,1
+codellama_correct,org.apache.cassandra.thrift,Constants,1,1,0,0,3,0,0,0,-1.0,0,0
+codellama_correct,org.apache.rocketmq.proxy.grpc.service.cluster,PullMessageService,3,0,4,3,80,8,0,0,0.5,0,1
+codellama_correct,org.apache.rocketmq.proxy.common.utils,FilterUtil,0,0,1,1,5,1,0,0,-1.0,0,0
+codellama_correct,org.apache.cassandra.config,YamlConfigurationLoader,3,0,6,4,72,12,0,0,0.5,0,2
+codellama_correct,org.apache.cassandra.config,MissingPropertiesChecker,1,0,3,3,18,5,0,0,0.6666666666666666,1,0
+codellama_correct,org.apache.cassandra.config,Config,0,0,0,0,2,0,0,0,-1.0,2,0
+codellama_correct,org.apache.cassandra.config,ColumnDefinition,7,1,14,14,102,24,0,0,0.0,5,1
+codellama_correct,org.apache.flink.sql.parser,FlinkSqlParserImplTest,0,0,17,0,47,17,0,0,-1.0,0,0
+codellama_correct,org.apache.skywalking.apm.plugin.vertx3,HandlerRegistrationInterceptor,0,0,3,3,50,9,0,0,-1.0,0,0
+codellama_correct,org.apache.skywalking.apm.plugin.vertx3,EventBusImplDeliverToHandlerInterceptor,0,0,3,3,38,8,0,0,-1.0,0,0
+codellama_correct,org.apache.skywalking.apm.plugin.vertx3,ClusteredEventBusSendRemoteInterceptor,0,0,3,3,36,7,0,0,-1.0,0,0
+codellama_correct,org.apache.skywalking.apm.plugin.vertx3.define,HttpClientRequestImplHandleResponseInstrumentation,3,0,6,5,25,6,0,0,0.6666666666666666,0,0
+codellama_correct,org.apache.skywalking.apm.plugin.vertx3.define,HttpServerResponseImplHandleExceptionInstrumentation,3,0,6,5,25,6,0,0,0.6666666666666666,0,0
+codellama_correct,org.apache.jmeter.visualizers,ResultRenderer,0,0,10,0,12,10,0,0,-1.0,0,0
+codellama_correct,org.apache.jmeter.visualizers,GraphListener,0,0,2,0,4,2,1,0,-1.0,1,0
+codellama_correct,org.apache.jmeter.visualizers,RequestView,0,0,5,0,7,5,0,0,-1.0,0,0
+codellama_correct,org.apache.jmeter.visualizers,ModelListener,0,0,2,0,4,2,0,0,-1.0,0,0
+codellama_correct,org.apache.jmeter.visualizers,ImageVisualizer,0,0,1,0,3,1,1,0,-1.0,0,0
+codellama_correct,org.apache.jmeter.visualizers,PropertyControlGui,14,0,13,9,106,21,0,0,0.5384615384615384,0,0
+codellama_correct,org.apache.jmeter.visualizers,BSFListenerBeanInfo,0,0,1,1,5,1,0,0,-1.0,0,0
+codellama_correct,org.apache.jmeter.visualizers,GraphListener,0,0,2,0,4,2,0,0,-1.0,0,0
+codellama_correct,org.apache.jmeter.visualizers,Graph,10,0,19,17,138,32,0,0,0.3157894736842105,1,0
+codellama_correct,org.apache.jmeter.visualizers,LineGraph,13,0,15,12,95,19,0,0,0.26666666666666666,0,0
+codellama_correct,org.apache.jmeter.visualizers,BeanShellListenerBeanInfo,0,0,1,1,5,1,0,0,-1.0,0,0
+codellama_correct,org.apache.jmeter.visualizers,DistributionGraphVisualizer,6,0,13,9,94,15,0,1,0.23076923076923078,0,0
+codellama_correct,org.apache.jmeter.visualizers,GraphVisualizer,18,0,10,8,84,15,0,0,0.3,0,1
+codellama_correct,org.apache.jmeter.visualizers,AxisGraph,11,0,16,13,106,21,0,0,0.4375,0,0
+codellama_correct,org.apache.jmeter.visualizers,GraphAccumListener,0,0,2,2,4,2,0,0,-1.0,0,0
+codellama_correct,org.apache.jmeter.visualizers,AssertionVisualizer,1,0,6,4,56,9,0,0,0.3333333333333333,0,1
+codellama_correct,org.apache.jmeter.visualizers,XMLDefaultMutableTreeNode,2,0,11,4,86,21,0,0,0.2727272727272727,1,1
+codellama_correct,org.apache.jmeter.visualizers,BeanShellListener,3,0,6,6,36,7,0,0,1.0,0,0
+codellama_correct,org.apache.jmeter.visualizers,BeanShellListener,3,0,6,6,36,7,0,0,1.0,0,0
+codellama_correct,org.apache.jmeter.visualizers,BeanShellListener,3,0,6,6,36,7,0,0,1.0,0,0
+codellama_correct,org.apache.jmeter.visualizers,BeanShellListener,3,0,6,6,36,7,0,0,1.0,0,0
+codellama_correct,org.apache.jmeter.visualizers,BeanShellListener,3,0,2,2,9,2,0,0,1.0,0,0
+codellama_correct,org.apache.jmeter.visualizers,SplineModel,8,0,18,18,83,23,0,0,0.3333333333333333,0,1
+codellama_correct,javax.el,ListELResolver,1,0,9,8,114,28,0,0,0.3333333333333333,1,1
+codellama_correct,javax.el,ArrayELResolver,1,0,10,8,106,29,0,0,0.3,1,1
+codellama_correct,javax.el,MapELResolver,2,0,9,8,89,21,0,0,0.5555555555555556,0,0
+codellama_correct,org.apache.skywalking.apm.plugin.lettuce.v5.define,RedisClusterClientInstrumentation,2,0,5,5,21,5,0,0,0.8,0,0
+codellama_correct,org.apache.skywalking.apm.plugin.lettuce.v5.define,RedisClientInstrumentation,2,0,5,5,21,5,0,0,0.8,0,0
+codellama_correct,org.apache.skywalking.apm.plugin.lettuce.v5.define,ClientOptionsInstrumentation,2,0,5,5,21,5,0,0,0.8,0,0
+codellama_correct,org.apache.skywalking.apm.plugin.lettuce.v5,ClientOptionsConstructorInterceptor,0,0,1,1,8,1,0,0,-1.0,0,0
+codellama_correct,org.apache.tomcat.jdbc.pool,StatementFacade,6,0,9,8,109,21,0,0,0.6666666666666666,0,1
+codellama_correct,org.apache.tomcat.jdbc.pool,StatementProxy,3,0,5,5,63,14,0,0,0.0,2,1
+codellama_correct,org.apache.skywalking.apm.plugin.spring.annotations,SpringAnnotationInterceptor,0,0,3,3,13,3,0,0,-1.0,0,0
+codellama_correct,org.apache.hadoop.yarn.server.resourcemanager.recovery,TestLeveldbRMStateStore,16,0,20,19,115,24,0,0,0.6,0,0
+codellama_correct,org.apache.hadoop.yarn.server.resourcemanager.recovery,LeveldbStateStoreTester,0,0,6,6,32,9,0,0,-1.0,0,0
+codellama_correct,org.apache.catalina.valves.rewrite,ResolverImpl,1,0,7,6,178,55,0,0,0.0,1,1
+codellama_correct,org.apache.skywalking.apm.collector.cache.guava,CacheModuleGuavaProvider,0,0,6,6,21,6,0,0,-1.0,0,0
+codellama_correct,org.apache.pulsar.broker.loadbalance,NoopLoadManager,5,0,16,16,63,17,0,0,0.8125,0,1
+codellama_correct,org.apache.pulsar.broker.loadbalance,ResourceUnit,0,0,3,0,5,3,0,0,-1.0,1,0
+codellama_correct,org.apache.pulsar.broker.admin,BrokerAdminClientTlsAuthTest,1,0,7,4,70,7,0,0,0.2857142857142857,2,2
+codellama_correct,org.apache.pulsar.broker.admin,BrokerAdminClientTlsAuthTest,1,0,7,4,76,7,0,0,0.8571428571428571,0,2
+codellama_correct,org.apache.pulsar.broker.admin,AdminApiDelayedDelivery,1,0,6,6,55,9,0,0,1.0,0,0
+codellama_correct,org.apache.pulsar.broker.admin,IncrementPartitionsTest,1,0,6,6,51,6,0,0,0.8333333333333334,0,0
+codellama_correct,org.apache.pulsar.broker.admin,TopicAutoCreationTest,0,0,3,1,33,4,0,0,-1.0,0,0
+codellama_correct,org.apache.pulsar.compaction,CompactorTool,4,0,1,1,50,4,0,0,0.0,0,2
+codellama_correct,org.apache.pulsar.compaction,Arguments,3,0,0,0,5,0,0,0,-1.0,1,0
+codellama_correct,org.apache.pulsar.broker,ServiceConfiguration,60,0,0,0,62,0,0,0,-1.0,17,0
+codellama_correct,org.apache.pulsar.broker,ServiceConfiguration,14,0,0,0,18,0,0,0,-1.0,0,0
+codellama_correct,org.apache.pulsar.broker,Server,14,0,0,0,16,0,0,0,-1.0,1,0
+codellama_correct,org.apache.pulsar.websocket.service,WebSocketProxyConfiguration,35,3,9,9,67,9,0,0,0.5555555555555556,1,0
+codellama_correct,org.apache.pulsar.websocket.proxy,ProxyPublishConsumeTlsTest,5,0,3,2,89,3,0,0,0.0,0,1
+codellama_correct,org.apache.pulsar.functions.worker,WorkerConfig,66,0,9,9,116,11,0,0,0.4444444444444444,5,4
+codellama_correct,org.apache.pulsar.functions.worker,ThreadContainerFactory,1,0,0,0,3,0,0,0,-1.0,1,0
+codellama_correct,org.apache.pulsar.functions.worker,ProcessContainerFactory,4,0,0,0,6,0,0,0,-1.0,1,0
+codellama_correct,org.apache.pulsar.functions.worker,KubernetesContainerFactory,15,0,0,0,17,0,0,0,-1.0,1,0
+codellama_correct,org.apache.pulsar.functions.worker,WorkerApiV2ResourceConfigTest,1,0,2,2,30,2,0,0,1.0,0,1
+codellama_correct,org.apache.pulsar.functions.worker,FunctionActioner,6,0,7,4,108,15,0,0,0.0,0,2
+codellama_correct,org.apache.pulsar.discovery.service,BaseDiscoveryTestSetup,6,0,4,1,35,4,0,0,0.0,0,1
+codellama_correct,org.apache.pulsar.discovery.service,DiscoveryService,14,0,16,16,110,20,0,0,0.0,1,1
+codellama_correct,org.apache.pulsar.discovery.service,DiscoveryService,13,0,7,6,84,11,0,0,0.2857142857142857,0,1
+codellama_correct,org.apache.pulsar.client.api,ServiceUrlProviderTest,4,0,10,10,81,13,0,0,0.6,0,1
+codellama_correct,org.apache.pulsar.client.api,TestServiceUrlProvider,2,0,4,4,16,4,1,0,0.5,0,0
+codellama_correct,org.apache.pulsar.client.api,AutoChangedServiceUrlProvider,0,0,2,2,8,2,0,1,-1.0,1,0
+codellama_correct,org.apache.pulsar.client.api,MessageDispatchThrottlingTest,1,0,7,5,36,9,0,0,0.7142857142857143,0,0
+codellama_correct,org.apache.pulsar.broker.web,WebService,8,3,4,4,65,7,0,0,0.5,1,2
+codellama_correct,org.apache.pulsar.functions.worker.rest,WorkerServer,4,0,5,4,86,9,0,0,0.0,1,2
+codellama_correct,org.apache.pulsar.common.configuration,PulsarConfigurationLoaderTest,8,0,8,8,105,9,0,0,0.875,0,2
+codellama_correct,org.apache.pulsar.common.configuration,MockConfiguration,8,0,2,2,16,2,0,0,0.0,1,0
+codellama_correct,org.apache.cassandra.utils,EstimatedHistogram,3,1,17,16,102,34,0,0,0.23529411764705882,2,2
+codellama_correct,org.apache.cassandra.utils,EstimatedHistogramSerializer,0,0,3,3,22,5,0,0,-1.0,1,1
+codellama_correct,org.apache.cassandra.utils,CounterId,4,1,12,10,56,14,0,0,0.25,2,2
+codellama_correct,org.apache.cassandra.utils,LocalId,1,0,3,2,14,3,0,0,0.0,2,2
+codellama_correct,org.apache.cassandra.service,AbstractWriteResponseHandler,5,0,5,4,34,7,0,0,0.6,0,1
+codellama_correct,org.apache.cassandra.service,ReadResponseResolver,82,0,8,6,154,20,0,0,0.0,3,5
+codellama_correct,org.apache.cassandra.service,IndexScanVerbHandler,1,0,1,1,17,2,0,0,0.0,0,1
+codellama_correct,org.apache.cassandra.service,ConsistencyChecker,10,0,7,6,95,17,0,0,0.0,0,3
+codellama_correct,org.apache.cassandra.service,DigestResponseHandler,2,0,1,1,32,6,0,0,0.0,0,1
+codellama_correct,org.apache.cassandra.service,DataRepairHandler,2,0,3,3,26,5,0,0,0.0,0,3
+codellama_correct,org.apache.cassandra.service,StorageServiceMBean,0,0,10,0,12,10,1,0,-1.0,0,0
+codellama_correct,org.apache.cassandra.service,StorageServiceMBean,0,0,40,0,42,40,0,0,-1.0,0,0
+codellama_correct,org.apache.cassandra.service,StorageService,19,1,11,10,75,12,0,1,0.2727272727272727,19,1
+codellama_correct,org.apache.cassandra.service,ReplicationStrategy,3,1,4,4,18,4,0,0,0.5,0,0
+codellama_correct,org.apache.cassandra.service,DigestMismatchException,0,0,1,1,5,1,0,0,-1.0,0,0
+codellama_correct,org.apache.cassandra.service,AntiEntropyService,4,0,7,5,58,14,0,0,0.42857142857142855,1,3
+codellama_correct,org.apache.cassandra.service,SnapshotVerbHandler,1,0,1,1,15,2,0,0,0.0,0,1
+codellama_correct,org.apache.cassandra.locator,DynamicEndpointSnitch,9,0,12,10,92,22,0,0,0.5833333333333334,0,1
+codellama_correct,org.apache.cassandra.locator,DatacenterShardStategy,6,0,4,2,112,23,0,0,0.5,0,0
+codellama_correct,org.apache.cassandra.locator,RackUnawareStrategy,3,0,2,2,31,6,0,0,0.0,0,0
+codellama_correct,org.apache.cassandra.locator,ReplicationFactorTest,0,0,4,2,30,4,0,0,-1.0,1,2
+codellama_correct,org.apache.druid.query.lookup,LookupIntrospectionResourceTest,5,0,8,8,63,9,0,0,0.0,0,1
+codellama_correct,org.apache.druid.query.lookup,RegisteredLookupExtractionFn,6,0,16,15,79,20,0,0,0.0,2,2
+codellama_correct,org.apache.druid.query.lookup,RegisteredLookupExtractionFnTest,4,1,6,6,60,7,0,0,0.3333333333333333,0,2
+codellama_correct,org.apache.druid.query.lookup,LookupExtractorFactoryContainerProvider,0,0,1,0,3,1,0,0,-1.0,4,0
+codellama_correct,org.apache.druid.guice,JoinableFactoryModuleTest,1,0,5,4,37,6,0,0,0.4,0,1
+codellama_correct,org.apache.druid.query.dimension,LookupDimensionSpec,8,0,10,10,50,11,0,0,0.5,0,1
+codellama_correct,org.apache.druid.segment.join,InlineJoinableFactoryTest,3,0,4,3,21,4,0,0,0.0,1,2
+codellama_correct,org.apache.druid.segment.join,InlineJoinableFactory,0,0,1,1,12,2,0,0,-1.0,2,0
+codellama_correct,org.apache.flink.api.java.operators.translation,WrappingFunction,2,0,5,4,25,6,0,0,0.0,0,0
+codellama_correct,org.apache.flink.api.java.operators.translation,WrappingRuntimeContext,1,0,13,13,47,14,1,0,0.0,0,0
+codellama_correct,org.apache.flink.api.java.operators.translation,WrappingIterationRuntimeContext,0,0,4,4,14,4,0,1,-1.0,0,0
+codellama_correct,org.apache.flink.runtime.operators.udf,RuntimeUDFContext,6,0,16,15,89,19,0,0,0.0,0,0
+codellama_correct,com.alibaba.rocketmq.common,MQVersion,2,1,3,3,19,3,0,0,1.0,1,0
+codellama_correct,com.alibaba.rocketmq.common,MQVersion,1,1,2,2,10,2,0,0,1.0,0,0
+codellama_correct,com.alibaba.rocketmq.common,MQVersion,1,1,2,2,10,2,0,0,1.0,0,0
+codellama_correct,com.alibaba.rocketmq.common,MQVersion,2,1,3,3,19,3,0,0,1.0,0,0
+codellama_correct,org.apache.flink.api.common.typeutils.base,GenericArraySerializerConfigSnapshot,2,0,8,7,35,8,0,0,0.375,0,0
+codellama_correct,org.skywalking.apm.collector.worker.span.persistence,SpanSearchWithIdTestCase,1,0,5,4,42,5,0,0,0.8,0,0
+codellama_correct,org.skywalking.apm.collector.worker.segment.analysis,SegmentAnalysis,1,0,9,7,39,10,0,0,1.0,2,1
+codellama_correct,org.skywalking.apm.collector.worker.segment.analysis,Factory,0,0,3,3,11,3,0,0,-1.0,0,1
+codellama_correct,org.skywalking.apm.collector.worker.segment.persistence,SegmentTopSearchWithTimeSlice,10,0,3,1,87,13,0,0,1.0,0,1
+codellama_correct,org.skywalking.apm.collector.worker.segment.persistence,RequestEntity,0,0,0,0,2,0,0,0,-1.0,1,0
+codellama_correct,com.alibaba.rocketmq.broker.api,SendMessageTest,0,0,1,1,34,2,0,0,-1.0,0,1
+codellama_correct,com.alibaba.rocketmq.client.producer,DefaultMQProducer,9,0,19,19,69,19,0,0,0.15789473684210525,0,0
+codellama_correct,org.apache.jasper.compiler,TestParserNoStrictWhitespace,0,0,7,6,85,7,0,0,-1.0,1,1
+codellama_correct,org.apache.jasper.compiler,TestValidator,2,0,8,8,89,8,0,0,0.75,0,0
+codellama_correct,org.apache.jasper.compiler,Echo,2,0,3,3,19,3,0,0,0.0,0,0
+codellama_correct,org.apache.jasper.compiler,TestScriptingVariabler,2,0,4,4,58,4,0,0,1.0,0,0
+codellama_correct,org.apache.jasper.compiler,Bug48616aTag,1,0,0,0,3,0,0,0,-1.0,0,0
+codellama_correct,org.apache.jasper.compiler,Bug48616bTag,1,0,0,0,3,0,0,0,-1.0,0,0
+codellama_correct,org.apache.jasper.compiler,Bug48616bTei,0,0,1,1,8,1,0,0,-1.0,0,0
+codellama_correct,org.apache.jasper.compiler,TestGenerator,2,0,12,11,79,12,0,0,0.5833333333333334,0,0
+codellama_correct,org.apache.jasper.compiler,Bug48701,2,0,3,3,12,3,0,0,0.6666666666666666,0,0
+codellama_correct,org.apache.jasper.compiler,Collector,6,0,16,14,129,30,0,0,0.3125,0,1
+codellama_correct,org.apache.jasper.compiler,CollectVisitor,6,0,15,13,122,29,0,0,0.26666666666666666,1,0
+codellama_correct,org.apache.jasper.compiler,TagPluginManager,11,0,6,4,108,16,0,0,0.0,2,1
+codellama_correct,org.apache.jasper.compiler,NodeVisitor,2,0,2,2,12,2,0,0,0.0,0,1
+codellama_correct,org.apache.jasper.compiler,TagPluginContextImpl,4,0,0,0,6,0,0,0,-1.0,0,0
+codellama_correct,org.apache.jasper.compiler,AntCompiler,5,0,5,0,88,14,0,0,0.4,0,1
+codellama_correct,org.apache.jasper.compiler,JasperAntLogger,1,0,3,0,14,3,0,0,0.6666666666666666,1,0
+codellama_correct,org.apache.jasper.compiler,SmapUtil,9,0,6,2,85,12,0,0,0.5,1,1
+codellama_correct,org.apache.jasper.compiler,SDEInstaller,8,0,3,0,36,5,0,0,0.0,0,0
+codellama_correct,org.apache.jasper.compiler,TagLibraryInfoImpl,12,0,1,1,74,9,0,0,0.0,0,0
+codellama_correct,org.apache.jasper.compiler,ImplicitTagLibraryInfo,11,0,2,2,86,16,0,0,1.0,0,1
+codellama_correct,org.apache.catalina.realm,TestRealmBase,3,0,1,1,22,1,0,0,0.0,0,0
+codellama_correct,org.apache.catalina.realm,TestJNDIRealm,9,1,9,5,90,9,0,0,0.2222222222222222,0,0
+codellama_correct,org.apache.catalina.realm,DataSourceRealm,9,0,17,15,91,25,0,0,0.47058823529411764,0,0
+codellama_correct,org.apache.catalina.realm,JDBCRealm,11,0,22,21,102,25,0,0,0.3181818181818182,1,1
+codellama_correct,org.apache.catalina.realm,UserDatabaseRealm,46,0,12,11,139,24,0,0,0.4166666666666667,0,0
+codellama_correct,org.apache.catalina.realm,name,19,0,0,0,21,0,0,0,-1.0,0,0
+codellama_correct,org.apache.catalina.realm,has,15,0,1,0,17,1,0,0,0.0,0,0
+codellama_correct,org.apache.catalina.realm,CombinedRealm,2,0,6,5,78,14,0,0,0.0,0,0
+codellama_correct,com.ai.cloud.skywalking.reciever.storage,StorageChainController,2,0,1,1,42,4,0,0,0.0,1,0
+codellama_correct,org.apache.cassandra.db.compaction,LeveledCompactionTask,3,0,4,2,21,5,0,0,0.5,1,0
+codellama_correct,org.apache.cassandra.db.compaction,LeveledCompactionStrategy,4,0,12,12,85,18,0,0,0.4166666666666667,0,2
+codellama_correct,org.apache.cassandra.db.compaction,LongCompactionsTest,2,2,7,6,59,10,0,0,0.2857142857142857,0,0
+codellama_correct,org.apache.cassandra.db.compaction,LeveledCompactionTask,3,0,4,2,21,5,0,0,0.5,0,0
+codellama_correct,org.apache.cassandra.db.compaction,Scrubber,25,0,3,2,50,3,0,0,0.6666666666666666,0,1
+codellama_correct,org.apache.cassandra.db.compaction.writers,MaxSSTableSizeWriter,6,0,5,5,34,6,0,1,0.4,0,1
+codellama_correct,org.apache.cassandra.db.compaction.writers,CompactionAwareWriter,12,0,13,7,85,24,3,0,0.23076923076923078,0,1
+codellama_correct,org.apache.cassandra.db.compaction.writers,CompactionAwareWriter,7,0,9,6,45,10,0,0,0.3333333333333333,0,0
+codellama_correct,org.apache.cassandra.db.compaction.writers,SplittingSizeTieredCompactionWriter,7,0,2,2,47,6,0,1,0.0,0,1
+codellama_correct,org.apache.cassandra.db.compaction.writers,MajorLeveledCompactionWriter,10,0,2,2,44,5,0,1,0.0,0,1
+codellama_correct,org.apache.skywalking.apm.agent,SkyWalkingAgent,2,0,4,3,75,8,0,0,0.75,0,0
+codellama_correct,org.apache.skywalking.apm.agent,Transformer,1,0,2,1,21,6,0,0,0.0,0,0
+codellama_correct,org.apache.tomcat.websocket,WsSession,1,0,22,22,66,22,0,0,0.8636363636363636,3,0
+codellama_correct,org.apache.tomcat.websocket,Constants,2,2,1,0,6,1,0,0,0.0,4,0
+codellama_correct,org.apache.tomcat.websocket,WsProtocolHandler,6,0,10,7,77,10,0,0,0.3,3,3
+codellama_correct,org.apache.tomcat.websocket,WsReadListener,2,0,4,3,22,4,0,0,0.5,0,2
+codellama_correct,org.apache.tomcat.websocket,WsWriteListener,1,0,3,2,11,3,0,0,0.6666666666666666,0,1
+codellama_correct,org.apache.tomcat.websocket,WsFrame,12,0,8,2,125,31,0,0,0.0,3,3
+codellama_correct,org.apache.tomcat.websocket,AsyncChannelWrapperSecure,11,0,11,11,108,19,0,0,0.2727272727272727,0,0
+codellama_correct,org.apache.tomcat.websocket,ReadTask,2,0,2,2,49,10,0,0,0.0,0,0
+codellama_correct,org.apache.tomcat.websocket,WriteTask,4,0,2,2,13,2,0,0,1.0,0,0
+codellama_correct,org.apache.flink.table.client.config,Execution,1,0,15,14,74,20,0,0,0.13333333333333333,0,0
+codellama_correct,org.apache.pulsar.broker.admin.v3,PackagesApiTest,0,0,4,2,86,4,0,0,-1.0,0,0
+codellama_correct,org.apache.tomcat.util.net,AprEndpoint,17,0,25,25,98,26,0,0,0.6,1,1
+codellama_correct,org.apache.tomcat.util.net,Acceptor,0,0,0,0,2,0,0,0,-1.0,1,0
+codellama_correct,org.apache.tomcat.util.net,Poller,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,org.apache.tomcat.util.net,Sendfile,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,org.apache.tomcat.util.net,SocketBufferHandler,5,0,15,13,116,26,0,0,0.0,0,0
+codellama_correct,org.apache.tomcat.util.net,NioEndpoint,32,0,36,36,144,38,0,0,0.5,1,0
+codellama_correct,org.apache.flink.runtime.state,SharedStateRegistryImpl,5,0,11,9,111,19,0,0,0.18181818181818182,0,1
+codellama_correct,org.apache.flink.runtime.state,AsyncDisposalRunnable,1,0,2,2,17,2,0,0,0.0,1,0
+codellama_correct,org.apache.catalina.core,StandardWrapperValve,6,0,2,2,13,2,0,0,1.0,0,0
+codellama_correct,org.apache.catalina.core,TestStandardContextValve,50,0,8,6,118,10,0,0,0.5,0,1
+codellama_correct,org.apache.catalina.core,Bug51653ErrorTrigger,1,0,1,0,6,1,0,0,0.0,0,0
+codellama_correct,org.apache.catalina.core,Bug51653ErrorPage,2,0,2,1,12,2,0,0,0.0,0,0
+codellama_correct,org.apache.catalina.core,Bug51653RequestListener,1,0,3,3,12,3,0,0,0.0,1,0
+codellama_correct,org.apache.catalina.core,StandardWrapper,23,0,8,8,54,9,0,0,0.875,0,0
+codellama_correct,org.apache.catalina.core,DummyRequest,8,0,45,45,131,45,0,0,0.8222222222222222,0,0
+codellama_correct,org.apache.catalina.core,TestStandardContextResources,1,0,4,2,60,7,0,0,0.5,0,0
+codellama_correct,org.apache.catalina.core,GetResourceServlet,1,0,1,0,27,3,0,0,0.0,0,0
+codellama_correct,org.apache.tomcat.util.http,TestParameters,6,0,5,4,71,8,0,0,0.8,0,0
+codellama_correct,org.apache.tomcat.util.http,TestMimeHeadersIntegration,3,1,10,8,110,16,0,0,0.5,0,3
+codellama_correct,org.apache.tomcat.util.http,HeaderCountLogValve,1,1,1,1,15,1,0,0,0.0,1,0
+codellama_correct,org.apache.tomcat.util.http,Client,0,0,2,2,8,2,0,0,-1.0,1,0
+codellama_correct,org.apache.dubbo.common.beans.factory,ScopeBeanFactory,6,0,18,12,120,31,0,0,0.5555555555555556,1,1
+codellama_correct,org.apache.cassandra.gms,VersionedValue,51,13,22,22,132,22,0,0,0.0,5,2
+codellama_correct,org.apache.cassandra.gms,VersionedValueFactory,1,0,16,16,51,16,0,0,0.5,0,0
+codellama_correct,org.apache.cassandra.gms,VersionedValueSerializer,0,0,2,2,11,2,0,0,-1.0,0,1
+codellama_correct,org.apache.cassandra.gms,has,9,0,0,0,14,0,0,0,-1.0,0,0
+codellama_correct,org.apache.cassandra.gms,has,4,0,0,0,8,0,0,0,-1.0,0,0
+codellama_correct,org.apache.cassandra.gms,names,0,0,0,0,2,0,0,0,-1.0,1,0
+codellama_correct,org.apache.cassandra.gms,VersionedValue,15,12,26,24,109,29,0,0,0.3076923076923077,0,1
+codellama_correct,org.apache.cassandra.gms,VersionedValueFactory,1,0,18,18,57,18,0,0,0.7222222222222222,0,0
+codellama_correct,org.apache.cassandra.gms,VersionedValueSerializer,0,0,3,2,20,6,0,0,-1.0,0,1
+codellama_correct,org.apache.cassandra.gms,GossipDigestSyn,3,1,2,1,12,2,0,0,0.0,1,0
+codellama_correct,org.apache.cassandra.gms,GossipDigestSynSerializer,0,0,3,3,14,3,0,0,-1.0,0,2
+codellama_correct,org.apache.cassandra.gms,GossipDigestSerializationHelper,0,0,3,0,17,6,0,0,-1.0,1,1
+codellama_correct,org.apache.cassandra.gms,Gossiper,13,0,11,6,76,15,0,0,0.36363636363636365,3,1
+codellama_correct,org.apache.jmeter.reporters.gui,ResultSaverGui,5,0,9,6,78,9,0,0,0.2222222222222222,0,1
+codellama_correct,io.druid.cli,QueryJettyServerInitializer,3,0,2,2,36,4,0,0,0.0,0,0
+codellama_correct,io.druid.cli,MiddleManagerJettyServerInitializer,1,0,1,1,20,1,0,0,0.0,0,0
+codellama_correct,io.druid.cli,CoordinatorJettyServerInitializer,4,0,2,2,46,5,0,0,0.0,0,0
+codellama_correct,io.druid.cli,RouterJettyServerInitializer,3,0,2,2,34,2,0,0,0.0,0,0
+codellama_correct,io.druid.cli,CliMiddleManager,1,0,4,3,27,4,0,0,1.0,0,0
+codellama_correct,io.druid.server.http,CoordinatorResource,1,0,9,9,65,18,0,0,0.5555555555555556,0,0
+codellama_correct,io.druid.server,StatusResource,7,0,18,15,99,22,0,0,0.3888888888888889,2,3
+codellama_correct,io.druid.server,Status,0,0,7,5,37,9,0,0,-1.0,2,3
+codellama_correct,io.druid.server,ModuleVersion,3,0,5,5,27,6,0,0,0.0,0,0
+codellama_correct,io.druid.server,Memory,4,0,5,5,24,5,0,0,0.0,2,0
+codellama_correct,io.druid.server,SetAndVerifyContextQueryRunner,2,0,3,3,17,3,0,0,0.0,0,0
+codellama_correct,io.druid.server.security,UnsecuredResourceFilter,0,0,3,3,10,3,0,0,-1.0,0,0
+codellama_correct,org.apache.rocketmq.client,ClientConfig,12,0,27,27,116,27,0,0,0.07407407407407407,1,1
+codellama_correct,org.apache.rocketmq.remoting,RemotingServerTest,2,0,10,10,64,10,0,0,0.4,1,1
+codellama_correct,org.apache.rocketmq.remoting,RequestHeader,2,0,5,5,18,5,0,0,0.6,0,0
+codellama_correct,org.apache.cassandra.distributed,InvokableInstance,2,0,16,14,92,17,0,0,0.25,1,8
+codellama_correct,org.apache.cassandra.distributed,SerializableCallable,0,0,1,1,3,1,0,0,-1.0,1,0
+codellama_correct,org.apache.cassandra.distributed,SerializableRunnable,0,0,0,0,2,0,0,0,-1.0,1,0
+codellama_correct,org.apache.cassandra.distributed,SerializableConsumer,0,0,0,0,2,0,0,0,-1.0,1,0
+codellama_correct,org.apache.cassandra.distributed,SerializableBiConsumer,0,0,0,0,2,0,0,0,-1.0,1,0
+codellama_correct,org.apache.cassandra.distributed,SerializableFunction,0,0,0,0,2,0,0,0,-1.0,1,0
+codellama_correct,org.apache.cassandra.distributed,SerializableBiFunction,0,0,0,0,2,0,1,0,-1.0,1,0
+codellama_correct,org.apache.cassandra.distributed,SerializableTriFunction,0,0,1,0,3,1,0,0,-1.0,1,0
+codellama_correct,org.apache.cassandra.distributed,InstanceFunction,0,0,0,0,2,0,0,1,-1.0,0,0
+codellama_correct,org.apache.hadoop.yarn.server.nodemanager.webapp,MockContainer,7,0,33,33,109,33,0,0,0.7575757575757576,0,0
+codellama_correct,org.apache.hadoop.yarn.server.nodemanager.webapp,WebServer,8,0,6,4,61,7,0,0,0.0,1,2
+codellama_correct,org.apache.hadoop.yarn.server.nodemanager.webapp,NMWebApp,3,0,2,2,25,2,0,0,0.0,1,0
+codellama_correct,org.apache.catalina.connector,CoyoteInputStream,1,0,14,14,140,24,0,0,0.21428571428571427,0,0
+codellama_correct,org.apache.catalina.connector,TestSendFile,4,2,4,3,87,12,0,0,0.0,0,1
+codellama_correct,org.apache.catalina.connector,WritingServlet,2,0,2,1,34,5,0,0,0.0,2,0
+codellama_correct,org.apache.catalina.connector,TestRequest,8,4,4,2,103,8,0,0,1.0,0,1
+codellama_correct,org.apache.catalina.connector,Bug37794Servlet,0,0,1,0,14,2,0,0,-1.0,0,0
+codellama_correct,org.apache.catalina.connector,Bug37794Client,0,0,2,1,45,5,0,1,-1.0,1,0
+codellama_correct,org.apache.catalina.connector,SimpleHttpClient,8,4,0,0,13,0,2,0,-1.0,2,0
+codellama_correct,org.apache.catalina.connector,TestMaxConnections,6,2,9,4,96,13,0,0,0.4444444444444444,2,4
+codellama_correct,org.apache.catalina.connector,ConnectThread,0,0,1,1,10,1,0,0,-1.0,0,1
+codellama_correct,org.apache.catalina.connector,TestClient,0,0,2,1,21,2,0,1,-1.0,2,0
+codellama_correct,org.apache.catalina.connector,SimpleServlet,3,0,4,1,29,5,0,0,0.0,2,2
+codellama_correct,org.apache.catalina.connector,TestSendFile,4,2,4,3,86,12,0,0,0.5,0,1
+codellama_correct,org.apache.catalina.connector,WritingServlet,2,0,2,1,34,5,0,0,0.0,0,0
+codellama_correct,org.apache.coyote.http11.filters,ChunkedInputFilter,10,0,11,7,128,34,0,0,0.36363636363636365,0,0
+codellama_correct,com.ai.cloud.skywalking.plugin,AbstractClassEnhancePluginDefine,1,0,4,1,38,8,0,0,0.5,0,0
+codellama_correct,com.ai.cloud.skywalking.plugin,TracingBootstrap,1,0,2,1,36,7,0,0,1.0,0,0
+codellama_correct,com.ai.cloud.skywalking.agent,SkywalkingAgent,2,0,7,3,49,9,0,0,0.0,1,1
+codellama_correct,org.apache.jmeter.protocol.http.proxy,TestProxyControl,2,0,9,9,98,9,0,0,0.2222222222222222,0,0
+codellama_correct,org.apache.jmeter.functions,TestTimeFunction,6,0,15,15,118,15,0,0,0.13333333333333333,0,1
+codellama_correct,org.apache.jmeter.functions,XPathFileContainer,5,0,12,10,114,15,0,0,0.3333333333333333,2,1
+codellama_correct,org.apache.jmeter.functions,Test,0,0,5,5,43,6,0,0,-1.0,0,1
+codellama_correct,org.apache.jmeter.functions,TestIsVarDefined,5,0,6,6,44,6,0,0,0.0,0,1
+codellama_correct,org.apache.jmeter.functions,Function,0,0,4,4,6,4,1,0,-1.0,2,0
+codellama_correct,org.apache.jmeter.functions,AbstractFunction,1,0,6,4,50,9,0,1,0.8333333333333334,1,0
+codellama_correct,org.apache.jmeter.functions,InvalidVariableException,0,0,2,2,7,2,0,0,-1.0,0,0
+codellama_correct,org.apache.jmeter.protocol.http.util.accesslog,TestLogFilter,11,0,8,7,97,16,0,0,0.25,0,1
+codellama_correct,org.apache.jmeter.protocol.http.util.accesslog,TestData,5,0,1,0,14,1,0,0,0.0,1,0
+codellama_correct,org.apache.jmeter.assertions,XMLSchemaAssertionTest,4,0,13,9,104,14,0,0,0.3076923076923077,0,1
+codellama_correct,org.apache.jmeter.assertions,SizeAssertionTest,8,0,10,8,114,11,0,0,0.2,0,1
+codellama_correct,org.apache.jmeter.assertions,JSONPathAssertion,9,6,19,15,167,39,0,1,0.15789473684210525,1,2
+codellama_correct,org.apache.jmeter.assertions,Assertion,0,0,1,0,3,1,2,0,-1.0,0,0
+codellama_correct,org.apache.jmeter.assertions,AssertionImpl,0,0,1,1,5,1,0,1,-1.0,0,0
+codellama_correct,org.apache.jmeter.assertions,AssertionResult,0,0,0,0,2,0,0,0,-1.0,5,0
+codellama_correct,org.apache.jmeter.assertions,XMLSchemaAssertionTest,3,0,12,9,101,13,0,0,0.4166666666666667,0,1
+codellama_correct,org.apache.jmeter.extractor,TestXPathExtractor,6,0,6,6,99,6,0,0,0.3333333333333333,0,0
+codellama_correct,org.apache.jmeter.extractor,BSFPostProcessorBeanInfo,0,0,1,1,5,1,0,0,-1.0,0,0
+codellama_correct,org.apache.jmeter.extractor,DebugPostProcessorBeanInfo,0,0,1,1,5,1,0,0,-1.0,0,0
+codellama_correct,org.apache.jmeter.extractor,DebugPostProcessor,0,0,1,1,24,2,0,0,-1.0,0,0
+codellama_correct,org.apache.jmeter.extractor,BeanShellPostProcessorBeanInfo,0,0,1,1,5,1,0,0,-1.0,0,0
+codellama_correct,org.apache.jmeter.protocol.http.control,TestHTTPMirrorThread,5,0,6,4,48,10,0,0,0.5,1,1
+codellama_correct,org.apache.jmeter.protocol.http.sampler,HTTPNullSampler,0,0,2,1,7,2,0,0,-1.0,0,0
+codellama_correct,org.apache.jorphan.reflect,TestFunctor,2,0,20,18,139,20,0,0,0.85,0,1
+codellama_correct,org.apache.jorphan.reflect,HasName,0,0,1,0,3,1,2,0,-1.0,0,0
+codellama_correct,org.apache.jorphan.reflect,HasString,0,0,1,0,3,1,1,0,-1.0,0,0
+codellama_correct,org.apache.jorphan.reflect,Test1,1,0,4,4,15,4,1,1,0.75,0,0
+codellama_correct,org.apache.jorphan.reflect,Test1a,0,0,3,3,11,3,0,2,-1.0,0,0
+codellama_correct,org.apache.jorphan.reflect,Test2,1,0,4,4,15,4,0,1,0.75,1,0
+codellama_correct,org.apache.jmeter.control,TestWhileController,2,0,10,6,86,14,0,0,0.4,0,0
+codellama_correct,org.apache.jmeter.control,ForeachController,11,0,13,8,74,13,0,0,0.46153846153846156,0,0
+codellama_correct,org.apache.jmeter.control,Controller,0,0,4,0,6,4,0,0,-1.0,0,0
+codellama_correct,org.apache.jmeter.control,ThroughputController,12,2,24,20,150,34,0,0,0.16666666666666666,2,1
+codellama_correct,org.apache.jmeter.control,ForeachController,6,0,17,7,101,24,0,0,0.5294117647058824,0,0
+codellama_correct,org.apache.jmeter.control,ModuleController,2,0,13,7,102,28,0,0,0.3076923076923077,1,1
+codellama_correct,org.apache.jmeter.threads,TestTestCompiler,1,0,4,4,30,4,0,0,1.0,0,2
+codellama_correct,org.apache.jmeter.threads,TestSampler,0,0,2,2,8,2,0,0,-1.0,1,0
+codellama_correct,org.apache.jmeter.threads,TestCompiler,14,0,12,9,77,17,0,0,0.5833333333333334,1,1
+codellama_correct,org.apache.jmeter.threads,SamplePackage,10,0,3,3,28,3,0,0,0.0,1,0
+codellama_correct,org.apache.jmeter.threads,ThreadGroup,20,7,15,14,74,16,0,0,0.4666666666666667,3,1
+codellama_correct,org.apache.jmeter.threads,ThreadGroup,17,5,12,10,69,15,0,0,0.6666666666666666,0,1
+codellama_correct,org.apache.jmeter.threads,TestUnmodifiableJMeterVariables,4,0,20,18,80,21,0,0,0.1,0,0
+codellama_correct,org.apache.jmeter.engine.util,TestValueReplacer,1,0,5,4,44,5,0,0,0.6,0,0
+codellama_correct,org.apache.jmeter.testbeans.gui,PackageTest,7,0,8,7,106,20,0,0,0.25,0,0
+codellama_correct,org.apache.coyote.http2,TestHttp2Section_6_3,0,0,6,3,37,6,0,0,-1.0,0,0
+codellama_correct,org.apache.coyote.http2,TestHttp2Section_5_1,3,0,6,6,57,6,0,0,0.6666666666666666,0,0
+codellama_correct,com.alibaba.rocketmq.client,ClientConfig,13,0,21,21,95,21,0,0,0.14285714285714285,1,1
+codellama_correct,com.alibaba.rocketmq.client.consumer,DefaultMQPullConsumer,12,0,23,23,82,23,0,0,0.43478260869565216,1,0
+codellama_correct,compressionFilters,CompressionServletResponseWrapper,8,0,13,13,82,22,0,0,0.38461538461538464,0,0
+codellama_correct,org.apache.cassandra.cql3.statements,AlterTypeStatement,1,0,12,10,37,14,0,0,0.4166666666666667,0,0
+codellama_correct,org.apache.cassandra.db.composites,CellNameType,1,0,32,6,48,32,0,0,-1.0,0,1
+codellama_correct,org.apache.cassandra.db.composites,Deserializer,1,0,6,6,20,6,0,0,1.0,0,0
+codellama_correct,org.apache.dubbo.config,ApplicationConfig,31,0,3,3,40,3,0,0,1.0,0,0
+codellama_correct,org.apache.dubbo.config,MetricsConfig,3,0,5,5,19,5,0,0,0.6,0,0
+codellama_correct,org.apache.dubbo.registry.consul,ConsulServiceDiscovery,187,0,18,10,266,20,0,0,0.4444444444444444,0,0
+codellama_correct,org.apache.dubbo.registry.consul,ConsulNotifier,3,0,4,1,20,5,0,0,0.0,0,0
+codellama_correct,org.apache.dubbo.registry.consul,name,30,0,0,0,31,0,0,0,-1.0,0,0
+codellama_correct,org.apache.dubbo.registry.consul,has,121,0,0,0,122,0,0,0,-1.0,0,0
+codellama_correct,org.apache.dubbo.registry.consul,has,116,0,0,0,116,0,0,0,-1.0,0,0
+codellama_correct,io.druid.server.coordination,BaseZkCoordinator,9,0,7,7,112,16,0,0,0.42857142857142855,0,0
+codellama_correct,org.skywalking.apm.agent.core.sampling,SamplingService,3,0,3,3,42,9,0,0,0.0,0,0
+codellama_correct,org.apache.cassandra.db.filter,TombstoneOverwhelmingException,0,0,2,1,24,8,0,0,-1.0,1,1
+codellama_correct,org.apache.dubbo.rpc.protocol.tri,GrpcDataDecoder,7,0,7,2,63,14,0,0,0.2857142857142857,1,2
+codellama_correct,org.apache.dubbo.rpc.protocol.tri,UnaryServerStream,1,0,6,3,103,14,0,0,1.0,0,1
+codellama_correct,org.apache.dubbo.rpc.protocol.tri,UnaryServerTransportObserver,0,0,3,2,91,11,0,0,-1.0,0,1
+codellama_correct,org.apache.dubbo.rpc.protocol.tri,UnaryClientStream,1,0,9,7,93,14,0,0,1.0,4,2
+codellama_correct,org.apache.dubbo.rpc.protocol.tri,UnaryClientTransportObserver,0,0,3,1,67,8,0,0,-1.0,0,2
+codellama_correct,org.apache.dubbo.rpc.protocol.tri,UnaryClientStreamObserverImpl,0,0,3,3,14,3,0,0,-1.0,0,0
+codellama_correct,org.apache.dubbo.rpc.protocol.tri,GrpcStatus,4,0,14,13,135,36,0,0,0.21428571428571427,9,1
+codellama_correct,org.apache.dubbo.rpc.protocol.tri,GracefulShutdown,7,0,3,2,38,4,0,0,0.0,0,0
+codellama_correct,org.apache.dubbo.rpc.protocol.tri,SingleProtobufUtils,76,0,10,6,154,13,0,0,0.2,2,1
+codellama_correct,org.apache.dubbo.rpc.protocol.tri,SingleMessageMarshaller,2,0,3,1,15,3,0,0,0.0,0,1
+codellama_correct,org.apache.dubbo.rpc.protocol.tri,was,32,0,0,0,38,0,0,0,-1.0,0,0
+codellama_correct,org.apache.dubbo.rpc.protocol.tri,was,22,0,0,0,26,0,0,0,-1.0,0,0
+codellama_correct,org.apache.dubbo.rpc.protocol.tri,of,16,0,0,0,18,0,0,0,-1.0,0,0
+codellama_correct,org.apache.dubbo.rpc.protocol.tri,was,13,0,0,0,13,0,0,0,-1.0,0,0
+codellama_correct,org.apache.dubbo.rpc.protocol.tri,CancelableStreamObserver,3,0,4,4,26,7,1,0,0.5,0,0
+codellama_correct,org.apache.dubbo.rpc.protocol.tri,ClientStream,1,0,10,7,62,14,0,0,0.8,0,1
+codellama_correct,org.apache.dubbo.rpc.protocol.tri,ClientStreamObserverImpl,1,0,5,5,30,7,0,1,0.6,0,0
+codellama_correct,org.apache.dubbo.rpc.protocol.tri,UnaryClientStream,3,0,6,2,95,12,0,0,1.0,0,2
+codellama_correct,org.apache.dubbo.rpc.protocol.tri,UnaryClientTransportObserver,0,0,3,1,80,9,0,0,-1.0,0,2
+codellama_correct,org.apache.dubbo.rpc.protocol.tri,TripleProtocolTest,2,0,1,1,16,1,0,0,0.0,0,0
+codellama_correct,org.apache.pulsar.broker.resourcegroup,ResourceGroupRateLimiterTest,5,0,7,4,80,8,0,0,0.2857142857142857,0,1
+codellama_correct,org.apache.pulsar.broker.protocol,ProtocolHandlerWithClassLoaderTest,0,0,9,9,75,9,0,0,-1.0,0,1
+codellama_correct,org.apache.bookkeeper.mledger.offload.jcloud.impl,BufferedOffloadStreamTest,1,0,4,4,60,7,0,0,0.5,0,0
+codellama_correct,org.apache.pulsar.admin.cli,TestCmdClusters,3,0,4,4,27,4,0,0,0.0,0,0
+codellama_correct,org.apache.pulsar.admin.cli,CmdTopics,1,0,2,2,9,2,0,1,1.0,0,0
+codellama_correct,org.apache.pulsar.admin.cli,CmdBase,1,0,2,2,8,2,1,0,1.0,0,0
+codellama_correct,org.apache.pulsar.admin.cli,Parameters,16,0,1,1,21,1,0,0,0.0,0,0
+codellama_correct,org.apache.flink.streaming.api.checkpoint,CheckpointedFunction,0,0,2,0,19,2,0,0,-1.0,0,0
+codellama_correct,org.apache.hadoop.ozone.container.common.impl,ContainerStorageLocation,8,0,10,8,112,19,0,0,0.0,0,0
+codellama_correct,org.apache.cassandra.auth,IAuthorizer,0,0,9,0,11,9,0,0,-1.0,0,0
+codellama_correct,org.apache.cassandra.auth,PermissionsCacheMBean,0,0,5,0,7,5,0,0,-1.0,0,0
+codellama_correct,org.apache.cassandra.auth,RolesCache,5,0,11,10,71,14,0,0,0.2727272727272727,0,0
+codellama_correct,org.apache.cassandra.auth,PasswordAuthenticator,11,3,13,9,81,18,0,0,0.46153846153846156,0,0
+codellama_correct,org.apache.cassandra.auth,PlainTextSaslAuthenticator,3,0,4,3,20,5,0,0,0.0,0,0
+codellama_correct,com.metamx.druid.aggregation,Histogram,5,0,11,11,102,28,0,0,0.2727272727272727,1,1
+codellama_correct,org.apache.flink.yarn.entrypoint,YarnApplicationClusterEntryPoint,0,0,6,1,56,6,0,0,-1.0,1,1
+codellama_correct,org.apache.pulsar.functions.runtime,RuntimeSpawner,9,0,6,6,94,13,0,0,0.0,1,0
+codellama_correct,org.apache.pulsar.functions.runtime,FunctionIDTest,0,0,2,2,12,2,0,0,-1.0,0,0
+codellama_correct,org.apache.pulsar.standalone,PulsarStandaloneStarter,13,0,4,3,103,17,0,0,0.0,1,3
+codellama_correct,eu.stratosphere.pact.compiler.plan,SingleInputNode,2,0,8,8,72,20,0,0,0.25,0,0
+codellama_correct,org.apache.coyote.ajp,AjpProcessor,23,0,1,1,56,1,0,0,0.0,0,0
+codellama_correct,com.alibaba.rocketmq.example.transaction,TransactionProducer,0,0,1,1,24,3,0,0,-1.0,0,0
+codellama_correct,com.alibaba.rocketmq.example.transaction,TransactionProducer,0,0,1,1,24,3,0,0,-1.0,0,0
+codellama_correct,org.apache.flink.table.runtime.operators.rank,TopNBuffer,5,0,13,6,96,25,0,0,0.0,0,0
+codellama_correct,org.apache.pulsar.client.admin,ResourceQuotas,0,0,4,0,26,4,0,0,-1.0,0,0
+codellama_correct,org.apache.pulsar.client.admin,BrokerStats,0,0,12,0,14,12,0,0,-1.0,0,0
+codellama_correct,org.apache.pulsar.client.admin,Bookies,0,0,8,0,10,8,0,0,-1.0,0,0
+codellama_correct,org.apache.pulsar.client.admin,Sink,0,0,1,0,3,1,0,0,-1.0,0,0
+codellama_correct,org.apache.pulsar.client.admin,ProxyStats,0,0,2,0,4,2,0,0,-1.0,0,0
+codellama_correct,org.apache.pulsar.client.admin,PulsarAdminException,3,0,25,24,131,25,10,0,0.6,1,1
+codellama_correct,org.apache.pulsar.client.admin,NotAuthorizedException,0,0,1,1,5,1,0,1,-1.0,0,0
+codellama_correct,org.apache.pulsar.client.admin,NotFoundException,0,0,1,1,5,1,0,1,-1.0,0,0
+codellama_correct,org.apache.pulsar.client.admin,NotAllowedException,0,0,1,1,5,1,0,1,-1.0,0,0
+codellama_correct,org.apache.pulsar.client.admin,ConflictException,0,0,1,1,5,1,0,1,-1.0,0,0
+codellama_correct,org.apache.pulsar.client.admin,PreconditionFailedException,0,0,1,1,5,1,0,1,-1.0,0,0
+codellama_correct,org.apache.pulsar.client.admin,TimeoutException,0,0,1,1,5,1,0,1,-1.0,1,0
+codellama_correct,org.apache.pulsar.client.admin,ServerSideErrorException,0,0,2,2,8,2,0,1,-1.0,0,0
+codellama_correct,org.apache.pulsar.client.admin,HttpErrorException,0,0,2,2,8,2,0,1,-1.0,0,0
+codellama_correct,org.apache.pulsar.client.admin,ConnectException,0,0,2,2,8,2,0,1,-1.0,0,0
+codellama_correct,org.apache.pulsar.client.admin,GettingAuthenticationDataException,0,0,2,2,8,2,0,1,-1.0,0,0
+codellama_correct,org.apache.pulsar.functions.runtime.process,ProcessRuntimeFactory,12,0,3,2,33,3,0,0,0.0,0,0
+codellama_correct,org.apache.pulsar.functions.instance,InstanceUtils,0,0,8,7,96,21,0,0,-1.0,2,1
+codellama_correct,org.apache.pulsar.functions.instance,ContextImplTest,5,0,12,12,67,12,0,0,0.0,0,0
+codellama_correct,org.apache.pulsar.client.admin.internal,PulsarAdminBuilderImpl,1,0,36,22,134,36,0,0,0.16666666666666666,0,0
+codellama_correct,org.apache.pulsar.functions.runtime.thread,ThreadRuntimeFactory,10,0,6,5,61,9,0,0,0.0,0,1
+codellama_correct,org.apache.pulsar.functions.runtime.thread,ThreadRuntime,11,0,10,10,76,14,0,0,0.0,0,0
+codellama_correct,org.apache.pulsar.common.functions,ExternalPulsarConfig,4,0,0,0,6,0,0,0,-1.0,0,0
+codellama_correct,org.apache.cassandra.net,Message,4,0,19,16,71,19,0,0,0.21052631578947367,16,1
+codellama_correct,org.apache.cassandra.net,MessageSerializer,0,0,2,2,15,2,0,0,-1.0,0,1
+codellama_correct,org.apache.jasper.xmlparser,TreeNode,5,0,15,14,131,34,0,0,0.0,2,1
+codellama_correct,org.apache.rocketmq.store.ha.autoswitch,MetadataFile,1,0,9,9,27,9,0,0,0.2222222222222222,0,0
+codellama_correct,org.apache.rocketmq.store.ha.autoswitch,AutoSwitchHAClient,20,0,10,9,86,15,0,0,0.4,2,1
+codellama_correct,org.apache.rocketmq.store.ha.autoswitch,AutoSwitchHAClient,20,0,12,11,89,16,0,0,0.6666666666666666,0,1
+codellama_correct,org.apache.rocketmq.store.ha.autoswitch,AutoSwitchHAConnection,16,0,12,11,86,14,0,0,0.16666666666666666,0,0
+codellama_correct,org.apache.rocketmq.store.ha.autoswitch,ReadSocketService,1,0,0,0,3,0,0,0,-1.0,0,0
+codellama_correct,org.apache.tomcat.jni,TestSocketServer,5,0,6,6,78,12,0,0,0.3333333333333333,0,0
+codellama_correct,org.apache.skywalking.oap.server.core.storage.type,Convert2Entity,0,0,2,0,4,2,0,0,-1.0,4,0
+codellama_correct,org.apache.skywalking.oap.server.core.analysis.manual.segment,SegmentRecord,22,11,3,3,59,3,0,0,0.6666666666666666,2,2
+codellama_correct,org.apache.skywalking.oap.server.core.analysis.manual.segment,Builder,0,0,2,2,29,2,0,0,-1.0,0,2
+codellama_correct,org.apache.skywalking.oap.server.core.analysis.manual.log,AbstractLogRecord,23,11,3,1,63,3,0,0,0.6666666666666666,0,1
+codellama_correct,org.apache.skywalking.oap.server.core.analysis.manual.log,Builder,0,0,2,0,29,2,0,0,-1.0,0,1
+codellama_correct,org.apache.cassandra.distributed.impl,DistributedTestSnitch,1,0,4,4,24,4,0,0,0.0,0,1
+codellama_correct,org.apache.cassandra.distributed.test,DistributedTestBase,1,1,16,14,74,21,1,0,0.625,1,1
+codellama_correct,org.apache.cassandra.distributed.test,NetworkTopologyTest,0,0,6,6,33,6,0,1,-1.0,0,0
+codellama_correct,org.apache.cassandra.distributed.api,IInstanceConfig,0,0,11,2,17,11,0,0,-1.0,0,0
+codellama_correct,org.apache.catalina.tribes.io,BufferPool,7,1,7,6,49,13,0,0,0.2857142857142857,2,1
+codellama_correct,com.alibaba.rocketmq.common.sysflag,MessageSysFlag,7,6,3,2,17,3,0,0,0.6666666666666666,0,0
+codellama_correct,com.alibaba.rocketmq.filtersrv.processor,DefaultRequestProcessor,2,0,4,2,40,8,0,0,0.0,0,1
+codellama_correct,com.alibaba.rocketmq.remoting.netty,NettyRequestProcessor,0,0,1,0,3,1,0,0,-1.0,0,0
+codellama_correct,com.alibaba.rocketmq.remoting.netty,NettyEncoder,1,0,1,1,24,4,0,0,0.0,0,0
+codellama_correct,org.apache.rocketmq.tools.command.topic,UpdateTopicSubCommand,0,0,4,4,40,4,0,0,-1.0,0,0
+codellama_correct,org.apache.rocketmq.tools.command.topic,TopicListSubCommand,0,0,5,4,71,13,0,0,-1.0,0,0
+codellama_correct,org.apache.rocketmq.tools.command.topic,UpdateTopicSubCommand,0,0,4,4,40,4,0,0,-1.0,0,0
+codellama_correct,org.apache.jmeter.protocol.system.gui,SystemSamplerGui,7,0,11,5,90,13,0,0,0.18181818181818182,0,0
+codellama_correct,org.apache.jmeter.gui.action,Load,3,0,5,3,117,21,0,1,0.6,1,1
+codellama_correct,org.apache.jmeter.gui.action,Save,6,3,9,6,114,17,0,1,0.3333333333333333,2,1
+codellama_correct,org.apache.jmeter.gui.action,Test,1,0,3,3,20,3,0,0,0.6666666666666666,0,1
+codellama_correct,org.apache.jmeter.gui.action,ResetSearchCommand,1,0,2,2,28,5,0,0,1.0,0,0
+codellama_correct,org.apache.jmeter.gui.action,Command,0,0,2,0,4,2,2,0,-1.0,0,0
+codellama_correct,org.apache.jorphan.collections,SearchByClass,3,0,6,6,54,7,0,0,0.5,1,0
+codellama_correct,org.apache.hadoop.hdfs.server.datanode,TestDatanodeJsp,2,0,5,2,77,9,0,0,0.0,1,1
+codellama_correct,org.apache.hadoop.hdfs.server.datanode,BlockVolumeChoosingPolicy,0,0,1,0,3,1,0,0,-1.0,0,0
+codellama_correct,org.apache.skywalking.oap.server.library.client.jdbc.hikaricp,JDBCHikariCPClient,4,0,10,9,113,18,0,0,0.0,1,0
+codellama_correct,org.apache.skywalking.oap.server.storage.plugin.banyandb,BanyanDBIndexInstaller,2,0,3,1,13,3,0,0,1.0,0,0
+codellama_correct,org.apache.skywalking.oap.server.storage.plugin.jdbc.h2.dao,H2TableInstaller,1,0,9,1,91,22,0,0,0.4444444444444444,0,0
+codellama_correct,org.apache.skywalking.oap.server.storage.plugin.jdbc.mysql,MySQLTableInstaller,0,0,4,1,83,18,0,0,-1.0,0,0
+codellama_correct,org.apache.skywalking.oap.server.storage.plugin.jdbc.shardingsphere.dao,ShardingMetricsQueryDAO,0,0,7,5,38,7,0,0,-1.0,0,1
+codellama_correct,org.apache.skywalking.oap.server.storage.plugin.jdbc.postgresql,PostgreSQLTableInstaller,0,0,3,1,65,17,0,0,-1.0,0,0
+codellama_correct,io.druid.server.coordinator,HttpLoadQueuePeonTest,2,0,6,6,47,6,0,0,1.0,0,0
+codellama_correct,io.druid.server.coordinator,TestDruidCoordinatorConfig,1,0,3,3,12,3,0,0,0.6666666666666666,0,0
+codellama_correct,io.druid.server.coordinator,TestHttpClient,1,0,1,1,6,1,0,0,0.0,0,0
+codellama_correct,com.alibaba.rocketmq.common.help,FAQUrl,1,0,2,2,24,4,0,0,1.0,0,0
+codellama_correct,org.apache.catalina.valves,CometConnectionManagerValve,3,0,3,3,33,6,0,0,1.0,0,0
+codellama_correct,org.apache.skywalking.oap.server.receiver.envoy.als.tcp.k8s,K8sALSServiceMeshTCPAnalysis,2,0,6,4,55,13,0,0,0.6666666666666666,0,1
+codellama_correct,org.apache.skywalking.oap.server.receiver.envoy.als,K8sALSServiceMeshHTTPAnalysis,2,0,5,3,59,14,0,0,0.6,0,1
+codellama_correct,org.apache.skywalking.oap.server.receiver.envoy,EnvoyMetricReceiverConfig,6,0,4,4,31,6,0,0,1.0,2,0
+codellama_correct,org.apache.tomcat.util.compat,Jre22Compat,2,0,1,1,24,1,0,0,0.0,0,1
+codellama_correct,org.apache.tomcat.util.compat,Jre22CompatHolder,0,0,0,0,17,0,0,0,-1.0,1,0
+codellama_correct,org.apache.skywalking.apm.plugin.httpclient.v3,HttpClientExecuteInterceptor,0,0,4,3,42,8,0,0,-1.0,0,0
+codellama_correct,io.druid.segment.data,CompressedLongsIndexedSupplierTest,6,0,13,11,74,15,0,0,0.15384615384615385,0,0
+codellama_correct,com.ai.cloud.skywalking.sender,DataSenderWithCopies,2,0,4,4,38,9,0,0,0.0,1,0
+codellama_correct,com.ai.cloud.skywalking.sender,DataSenderFactoryWithBalance,4,0,4,3,92,17,0,0,0.5,2,1
+codellama_correct,com.ai.cloud.skywalking.sender,DataSenderChecker,0,0,2,2,32,8,0,0,-1.0,0,0
+codellama_correct,com.ai.cloud.skywalking.sender,DataSenderFactoryWithBalance,4,0,6,4,136,21,0,0,0.3333333333333333,0,0
+codellama_correct,com.ai.cloud.skywalking.sender,DataSenderChecker,0,0,2,2,56,10,0,0,-1.0,0,0
+codellama_correct,com.ai.cloud.skywalking.buffer,BufferGroup,6,0,5,4,89,16,0,0,0.0,0,1
+codellama_correct,com.ai.cloud.skywalking.buffer,ConsumerWorker,2,0,2,1,59,10,0,0,0.0,0,1
+codellama_correct,io.druid.indexing.overlord.scaling,SimpleResourceManagementStrategy,11,0,2,2,54,6,0,0,0.0,0,0
+codellama_correct,io.druid.indexing.overlord.scaling,EC2AutoScalingStrategy,5,0,8,8,71,11,0,0,0.625,0,0
+codellama_correct,org.apache.rocketmq.client.impl.consumer,PullMessageService,4,0,14,12,109,21,0,0,0.0,1,1
+codellama_correct,org.apache.jmeter.util,ScriptingBeanInfoSupport,1,0,11,11,98,19,0,0,0.6363636363636364,0,1
+codellama_correct,org.apache.jmeter.util,JSR223ScriptCacheCheckboxEditor,1,0,10,10,58,15,0,0,0.2,1,0
+codellama_correct,org.apache.jmeter.util,LocaleChangeEvent,1,0,3,3,13,3,0,0,0.6666666666666666,1,0
+codellama_correct,org.apache.jmeter.util,LocaleChangeListener,0,0,1,0,3,1,0,0,-1.0,0,1
+codellama_correct,org.apache.jmeter.util,BSFTestElement,5,0,15,10,89,16,0,0,0.0,1,1
+codellama_correct,org.apache.pulsar,PulsarStandalone,8,0,19,19,66,19,0,0,1.0,0,2
+codellama_correct,com.alibaba.dubbo.remoting,ChannelHandlerWrapper,0,0,1,0,3,1,0,0,-1.0,0,0
+codellama_correct,com.alibaba.dubbo.remoting,PerformanceServerTest,2,0,7,4,114,30,0,0,0.42857142857142855,1,1
+codellama_correct,com.alibaba.dubbo.remoting.transport.mina,MinaClient,4,0,8,2,109,21,0,0,0.375,1,2
+codellama_correct,com.alibaba.dubbo.remoting.transport.mina,MinaChannel,3,0,15,12,116,30,0,0,0.0,2,1
+codellama_correct,com.alibaba.dubbo.common.utils,CompatibleTypeUtilsTest,0,0,9,9,111,12,0,0,-1.0,0,1
+codellama_correct,com.alibaba.dubbo.common.utils,CompatibleTypeUtils,3,0,9,8,102,23,0,0,0.7777777777777778,1,0
+codellama_correct,com.alibaba.dubbo.common.utils,AtomicPositiveIntegerTest,3,0,9,9,99,9,0,0,0.0,0,0
+codellama_correct,com.alibaba.dubbo.common.utils,CollectionUtilsTest,0,0,8,8,84,10,0,0,-1.0,0,0
+codellama_correct,com.alibaba.dubbo.common.model.person,BigPerson,7,0,17,17,92,36,0,0,0.11764705882352941,1,2
+codellama_correct,com.alibaba.dubbo.common.model.person,FullAddress,8,0,13,13,117,41,0,0,0.15384615384615385,2,1
+codellama_correct,com.alibaba.dubbo.common.model.person,PersonInfo,11,0,23,23,132,52,0,0,0.0,2,2
+codellama_correct,com.alibaba.dubbo.common.extensionloader.ext1.impl,Ext1Impl1,0,0,3,3,11,3,0,0,-1.0,0,0
+codellama_correct,com.alibaba.dubbo.rpc.protocol.hessian,HessianRpcInvoker,2,0,2,1,38,4,0,0,0.0,0,0
+codellama_correct,com.alibaba.dubbo.registry.support,SimpleRegistryExporter,2,0,2,2,17,2,0,0,0.0,1,1
+codellama_correct,com.alibaba.dubbo.registry.zookeeper,ZookeeperRegistryFactory,0,0,1,1,5,1,0,0,-1.0,0,0
+codellama_correct,com.alibaba.dubbo.registry.zookeeper,ZookeeperRegistry,0,0,1,1,5,1,0,0,-1.0,0,0
+codellama_correct,com.alibaba.dubbo.common.extensionloader.ext3.impl,Ext3Impl1,0,0,3,3,11,3,0,0,-1.0,0,0
+codellama_correct,com.alibaba.dubbo.common.extensionloader.ext6_inject,Ext6,39,0,1,0,36,1,0,0,-1.0,0,0
+codellama_correct,com.alibaba.dubbo.common.logger.support,FailsafeLogger,1,0,20,20,143,20,0,0,0.0,0,0
+codellama_correct,com.alibaba.dubbo.common.serialize.serialization,Hessian2SerializationTest,1,0,8,8,84,8,0,0,0.375,0,0
+codellama_correct,com.alibaba.dubbo.common.serialize.serialization,CompactedJavaSerializationTest,0,0,0,0,5,0,0,1,-1.0,0,0
+codellama_correct,com.alibaba.dubbo.common.serialize.serialization,AbstractSerializationPersionFailTest,0,0,7,7,102,7,2,0,-1.0,0,0
+codellama_correct,com.alibaba.dubbo.common.serialize.serialization,JavaSerializationTest,1,0,0,0,3,0,0,1,-1.0,0,0
+codellama_correct,com.alibaba.dubbo.common.serialize.serialization,JsonSerializationTest,1,0,46,46,95,46,0,0,1.0,0,0
+codellama_correct,com.alibaba.dubbo.common.serialize.serialization,AbstractSerializationTest,4,0,3,3,44,6,0,0,0.6666666666666666,0,0
+codellama_correct,com.alibaba.dubbo.common.extensionloader.ext2.impl,Ext2Impl1,0,0,3,3,11,3,0,0,-1.0,0,0
+codellama_correct,com.alibaba.dubbo.monitor.dubbo,DubboMonitor,8,0,4,4,71,8,0,0,0.5,0,0
+codellama_correct,com.alibaba.dubbo.rpc.filter,AccessLogFilter,9,0,4,2,81,15,0,0,0.5,0,0
+codellama_correct,com.alibaba.dubbo.rpc.filter,LogTask,0,0,1,1,48,8,0,0,-1.0,0,0
+codellama_correct,com.alibaba.dubbo.rpc.filter,TpsLimitFilter,1,0,1,1,9,2,0,0,0.0,0,1
+codellama_correct,com.alibaba.dubbo.rpc.filter,GenericImplFilter,2,0,1,1,6,1,0,0,0.0,0,0
+codellama_correct,com.alibaba.dubbo.rpc.filter,AccessLogFilter,9,0,3,1,80,14,0,0,1.0,0,0
+codellama_correct,com.alibaba.dubbo.container.page,PageServlet,4,0,4,1,65,8,0,0,0.0,0,0
+codellama_correct,com.alibaba.dubbo.rpc.proxy,RemoteService,0,0,2,0,4,2,0,0,-1.0,0,0
+codellama_correct,com.alibaba.dubbo.rpc.protocol.dubbo,ChannelWrappedInvoker,4,0,19,18,100,21,0,0,0.10526315789473684,0,1
+codellama_correct,com.alibaba.dubbo.rpc.protocol.dubbo,ChannelWrapper,2,0,16,16,52,16,0,0,0.125,0,0
+codellama_correct,com.alibaba.dubbo.rpc.protocol.dubbo,LazyConnectExchangeClient,6,0,22,20,106,29,0,0,0.0,0,0
+codellama_correct,com.alibaba.dubbo.rpc.protocol.dubbo,LazyConnectExchangeClient,9,0,24,21,132,36,0,0,0.08333333333333333,0,0
+codellama_correct,com.alibaba.dubbo.common.extensionloader.ext5,Ext5NoAdaptiveMethod,2,0,3,0,7,3,0,0,-1.0,0,0
+codellama_correct,com.alibaba.dubbo.remoting.transport,AbstractPeer,4,0,14,13,78,21,0,0,0.0,0,0
+codellama_correct,com.alibaba.dubbo.config.spring,ReferenceBean,2,0,5,4,92,29,0,0,0.6,1,1
+codellama_correct,com.alibaba.dubbo.config.spring,ServiceBean,5,0,6,5,107,31,0,0,0.0,0,1
+codellama_correct,com.alibaba.dubbo.remoting.transport.netty,NettyClientToServerTest,0,0,2,2,11,2,0,0,-1.0,0,0
+codellama_correct,com.alibaba.dubbo.remoting.handler,WrappedChannelHandlerTest,2,0,6,6,27,6,0,0,0.3333333333333333,0,1
+codellama_correct,com.alibaba.dubbo.remoting.handler,BizChannelHander,1,0,5,5,28,8,0,0,0.4,0,0
+codellama_correct,com.alibaba.dubbo.remoting.handler,BizException,1,0,0,0,3,0,0,0,-1.0,1,0
+codellama_correct,com.alibaba.dubbo.remoting.handler,MockedChannel,0,0,7,7,23,7,0,0,-1.0,0,0
+codellama_correct,com.alibaba.dubbo.rpc.util,RpcConfigGetSetProxy,36,0,10,4,142,21,0,0,0.0,1,1
+codellama_correct,com.alibaba.dubbo.rpc.cluster,Router,0,0,1,0,15,1,0,0,-1.0,0,0
+codellama_correct,com.alibaba.dubbo.rpc.cluster,StickyTest,8,0,12,11,95,16,0,0,0.3333333333333333,1,2
+codellama_correct,com.alibaba.dubbo.rpc.cluster,StickyClusterInvoker,1,0,4,3,17,4,0,0,0.75,1,0
+codellama_correct,com.alibaba.dubbo.demo.api,IDemoCallback,0,0,1,0,3,1,0,0,-1.0,0,0
+codellama_correct,com.alibaba.dubbo.rpc.cluster.router.file,FileRouterEngineTest,9,0,13,7,109,20,0,0,0.3076923076923077,1,2
+codellama_correct,com.alibaba.dubbo.rpc.cluster.router.file,MockClusterInvoker,1,0,3,2,11,3,0,0,1.0,1,0
+codellama_correct,com.alibaba.dubbo.registry.dubbo,MockedClient,6,0,50,50,143,50,0,0,0.76,0,0
+codellama_correct,com.alibaba.dubbo.rpc.cluster.loadbalance,LoadBalanceTest,7,0,6,6,88,11,0,0,0.3333333333333333,1,1
+codellama_correct,com.alibaba.dubbo.rpc.cluster.loadbalance,ConsistentHashLoadBalance,5,0,7,2,94,16,0,0,0.7142857142857143,0,1
+codellama_correct,com.alibaba.dubbo.rpc.cluster.loadbalance,ConsistentHashSelector,4,0,6,1,78,14,0,0,0.0,1,0
+codellama_correct,org.apache.skywalking.apm.plugin.elasticsearch.v6.interceptor,RestHighLevelClientConInterceptor,0,0,1,1,12,2,0,0,-1.0,0,0
+codellama_correct,org.apache.rocketmq.logappender,LogbackTest,0,0,2,2,19,3,0,0,-1.0,0,0
+codellama_correct,org.apache.rocketmq.logappender,Log4jTest,1,0,3,3,13,4,0,0,0.6666666666666666,0,0
+codellama_correct,org.apache.pulsar.functions.runtime.functioncache,FunctionCacheManagerImplTest,4,0,9,8,72,9,0,0,0.0,0,0
+codellama_correct,org.apache.pulsar.functions.runtime.functioncache,FunctionCacheManager,0,0,6,0,8,6,0,0,-1.0,0,0
+codellama_correct,org.apache.pulsar.functions.runtime.functioncache,FunctionCacheEntryTest,4,0,6,6,70,6,0,0,0.0,0,0
+codellama_correct,org.apache.pulsar.functions.runtime.spawner,AssignmentInfo,3,0,0,0,5,0,0,0,-1.0,1,0
+codellama_correct,org.apache.pulsar.functions.runtime.spawner,Spawner,5,0,6,5,39,8,0,0,0.0,0,1
+codellama_correct,org.apache.cassandra.io.compress,CompressionParameters,6,3,9,6,103,24,0,0,0.0,3,2
+codellama_correct,org.apache.cassandra.io.compress,CompressedRandomAccessReaderTest,0,0,5,4,64,13,0,0,-1.0,0,2
+codellama_correct,org.apache.cassandra.io.compress,CompressorTest,2,0,9,1,63,10,0,0,0.0,0,2
+codellama_correct,org.apache.cassandra.io.compress,ICompressor,0,0,6,0,8,6,0,0,-1.0,3,0
+codellama_correct,org.apache.cassandra.io.compress,WrappedByteBuffer,1,0,1,1,6,1,0,0,0.0,1,0
+codellama_correct,org.apache.cassandra.io.compress,CompressedSequentialWriterTest,3,0,11,5,89,16,0,0,0.36363636363636365,0,3
+codellama_correct,org.apache.cassandra.io.compress,TestableCSW,1,0,2,0,7,2,0,0,1.0,1,0
+codellama_correct,org.apache.jmeter.protocol.http.gui,CookiePanel,17,0,2,1,23,2,0,0,0.0,0,0
+codellama_correct,org.apache.catalina.ha.context,ReplicatedContext,6,0,20,18,128,36,0,0,0.6,4,2
+codellama_correct,org.apache.catalina.ha.context,ReplApplContext,1,0,9,7,49,13,0,0,0.6666666666666666,0,1
+codellama_correct,org.apache.catalina.ha.context,MultiEnumeration,1,0,3,3,18,7,0,0,0.0,0,0
+codellama_correct,org.apache.catalina.ha.context,ReplicatedContext,6,0,19,19,107,29,0,0,0.42105263157894735,0,2
+codellama_correct,org.apache.catalina.ha.context,ReplApplContext,0,0,8,8,35,10,0,0,-1.0,0,1
+codellama_correct,org.apache.catalina.ha.context,MultiEnumeration,1,0,3,3,18,7,0,0,0.0,0,0
+codellama_correct,org.apache.dubbo.rpc.protocol.dubbo,LazyConnectExchangeClient,9,0,20,17,129,31,0,0,0.0,1,0
+codellama_correct,org.apache.dubbo.rpc.protocol.dubbo,DecodeableRpcResult,7,0,8,4,132,26,0,0,0.0,0,1
+codellama_correct,org.apache.dubbo.rpc.protocol.dubbo,ReferenceCountExchangeClient,3,0,26,25,89,27,0,0,0.0,0,1
+codellama_correct,org.apache.jmeter.testelement,AbstractTestElement,3,0,26,20,155,42,0,0,0.0,1,1
+codellama_correct,io.druid.indexing.overlord,TaskRunnerListener,0,0,3,0,5,3,0,0,-1.0,0,1
+codellama_correct,io.druid.indexing.overlord,TaskLockBoxConcurrencyTest,5,1,3,3,18,3,0,0,0.6666666666666666,0,0
+codellama_correct,io.druid.indexing.overlord,RemoteTaskRunnerTestUtils,9,0,10,2,55,10,0,0,0.2,1,0
+codellama_correct,io.druid.indexing.overlord,MetadataTaskStorage,4,0,8,8,48,10,0,0,0.375,0,1
+codellama_correct,io.druid.indexing.overlord,RemoteTaskRunnerRunPendingTasksConcurrencyTest,4,0,6,3,74,10,0,0,0.0,0,2
+codellama_correct,io.druid.indexing.worker,WorkerTaskMonitorTest,14,0,4,3,44,4,0,0,0.0,0,0
+codellama_correct,io.druid.indexing.common,TaskStatus,6,3,14,13,54,14,0,0,0.14285714285714285,6,0
+codellama_correct,io.druid.indexing.common,TaskInfoProvider,0,0,2,0,4,2,0,0,-1.0,0,0
+codellama_correct,io.druid.testing.clients,OverlordResourceTestClient,4,0,11,9,72,13,0,0,0.18181818181818182,0,1
+codellama_correct,io.druid.testing.clients,OverlordResourceTestClient,5,0,14,11,111,18,0,0,0.5,0,1
+codellama_correct,io.druid.indexing.test,TestIndexerMetadataStorageCoordinator,3,0,15,15,61,17,0,0,0.6666666666666666,0,0
+codellama_correct,org.apache.flink.runtime.rpc,RpcEndpoint,6,0,7,6,77,7,0,0,0.2857142857142857,0,0
+codellama_correct,org.apache.flink.runtime.rpc.akka,AkkaRpcActor,2,0,6,1,91,15,0,0,0.0,1,0
+codellama_correct,org.apache.flink.runtime.rpc.akka,AkkaRpcService,6,0,7,7,91,12,0,0,0.0,0,1
+codellama_correct,com.alibaba.rocketmq.research.fastjson,Test,2,0,4,4,26,4,0,0,0.75,0,1
+codellama_correct,com.alibaba.rocketmq.research.fastjson,TestTable,2,0,3,3,13,3,0,0,0.6666666666666666,1,0
+codellama_correct,org.apache.pulsar.client.kafka.compat,PulsarConsumerKafkaConfig,4,4,1,1,22,5,0,0,0.0,0,0
+codellama_correct,org.apache.flink.runtime.checkpoint,StateHandleDummyUtil,2,0,20,15,99,28,0,0,0.45,1,1
+codellama_correct,org.apache.flink.runtime.checkpoint,DummyKeyedStateHandle,2,0,8,7,27,8,0,0,0.5,0,0
+codellama_correct,org.apache.flink.runtime.checkpoint,ZooKeeperCompletedCheckpointStoreITCase,20,0,7,6,82,9,0,0,0.2857142857142857,0,1
+codellama_correct,org.apache.flink.runtime.checkpoint,ExecutionGraphCheckpointCoordinatorTest,1,0,5,4,40,5,0,0,0.0,0,0
+codellama_correct,org.apache.flink.runtime.checkpoint,CompletedCheckpoint,6,0,12,12,77,15,0,0,0.0,2,1
+codellama_correct,org.apache.jmeter.testelement.property,CollectionProperty,1,0,25,24,133,37,0,0,0.12,6,1
+codellama_correct,org.apache.jmeter.testelement.property,Test,0,0,2,2,12,2,0,0,-1.0,0,1
+codellama_correct,org.apache.jmeter.testelement.property,CollectionProperty,2,0,24,23,132,36,0,0,0.25,0,1
+codellama_correct,org.apache.jmeter.testelement.property,Test,0,0,2,2,12,2,0,0,-1.0,0,1
+codellama_correct,org.apache.jmeter.testelement.property,CollectionProperty,3,0,23,21,124,35,0,0,0.17391304347826086,0,1
+codellama_correct,org.apache.pulsar.client.impl.auth.oauth2.protocol,ClientCredentialsExchanger,0,0,2,0,4,2,0,0,-1.0,0,0
+codellama_correct,org.apache.pulsar.client.impl.auth.oauth2,Flow,0,0,3,0,5,3,0,0,-1.0,0,0
+codellama_correct,org.apache.flink.streaming.runtime.io.benchmark,StreamNetworkThroughputBenchmark,4,0,3,3,34,6,0,0,0.0,0,0
+codellama_correct,org.apache.flink.streaming.runtime.io.benchmark,LongRecordWriterThread,3,0,5,4,33,6,0,0,0.4,0,0
+codellama_correct,org.apache.flink.streaming.runtime.io.benchmark,ReceiverThread,3,0,4,3,31,6,0,0,0.0,0,0
+codellama_correct,org.apache.flink.streaming.runtime.io.benchmark,StreamNetworkBenchmarkEnvironment,3,0,5,4,32,9,0,0,0.0,0,0
+codellama_correct,org.apache.flink.streaming.runtime.io.benchmark,RecordWriter,3,0,6,5,19,6,0,0,1.0,0,0
+codellama_correct,org.apache.flink.streaming.runtime.io.benchmark,RecordReader,1,0,4,3,12,4,0,0,1.0,0,0
+codellama_correct,org.apache.flink.streaming.runtime.io.benchmark,LongValue,1,0,4,2,14,4,0,0,0.5,0,0
+codellama_correct,org.apache.tomcat.websocket.server,WsRemoteEndpointImplServer,8,0,8,2,93,20,0,0,0.25,0,1
+codellama_correct,org.apache.tomcat.websocket.server,WsProtocolHandler,14,0,11,7,111,12,0,0,0.18181818181818182,3,3
+codellama_correct,org.apache.tomcat.websocket.server,WsReadListener,2,0,4,3,29,4,0,0,0.5,0,1
+codellama_correct,org.apache.tomcat.websocket.server,WsWriteListener,2,0,3,2,14,3,0,0,0.0,0,1
+codellama_correct,org.apache.druid.indexing.common.actions,SegmentAllocateAction,9,0,10,10,48,10,0,0,0.3,0,0
+codellama_correct,org.apache.druid.query,JoinDataSourceTest,6,1,16,16,67,16,0,0,0.25,0,1
+codellama_correct,org.apache.druid.query,JoinDataSource,6,0,13,12,68,14,0,0,0.0,1,0
+codellama_correct,org.apache.druid.query,GroupByMergedQueryRunner,5,0,6,5,87,16,0,0,0.3333333333333333,0,0
+codellama_correct,org.apache.catalina.util,ManifestResource,7,3,11,8,104,22,0,0,0.0,0,1
+codellama_correct,org.apache.catalina.util,Extension,8,0,20,19,132,44,0,0,0.0,2,1
+codellama_correct,org.apache.coyote,AbstractProtocol,13,0,27,27,96,27,0,0,0.2962962962962963,0,0
+codellama_correct,org.apache.coyote,RequestGroupInfo,7,0,16,16,105,29,0,0,0.125,0,0
+codellama_correct,org.apache.jasper.runtime,JspFactoryImpl,14,0,15,11,124,24,0,0,0.26666666666666666,3,2
+codellama_correct,org.apache.jasper.runtime,PrivilegedGetPageContext,8,0,2,1,23,2,0,0,0.0,0,1
+codellama_correct,org.apache.jasper.runtime,PrivilegedReleasePageContext,2,0,2,1,12,2,0,0,0.0,0,1
+codellama_correct,org.apache.jasper.runtime,PageContextPool,2,0,3,3,21,5,0,0,0.0,1,0
+codellama_correct,org.apache.el.lang,FunctionMapperImpl,176,0,11,11,276,16,0,0,0.0,0,1
+codellama_correct,org.apache.el.lang,Function,6,0,7,7,53,10,0,0,0.2857142857142857,1,0
+codellama_correct,org.apache.el.lang,has,148,0,0,0,177,0,0,0,-1.0,0,0
+codellama_correct,org.apache.el.lang,has,144,0,0,0,172,0,0,0,-1.0,0,0
+codellama_correct,org.apache.el.lang,has,133,0,0,0,160,0,0,0,-1.0,0,0
+codellama_correct,org.apache.el.lang,anymore,128,0,0,0,153,0,0,0,-1.0,0,0
+codellama_correct,org.apache.el.lang,has,114,0,0,0,137,0,0,0,-1.0,0,0
+codellama_correct,org.apache.el.lang,has,109,0,0,0,130,0,0,0,-1.0,0,0
+codellama_correct,org.apache.el.lang,has,104,0,0,0,123,0,0,0,-1.0,0,0
+codellama_correct,org.apache.el.lang,has,92,0,0,0,112,0,0,0,-1.0,0,0
+codellama_correct,org.apache.el.lang,has,86,0,0,0,104,0,0,0,-1.0,0,0
+codellama_correct,org.apache.el.lang,has,77,0,0,0,93,0,0,0,-1.0,0,0
+codellama_correct,org.apache.el.lang,name,75,0,0,0,89,0,0,0,-1.0,0,0
+codellama_correct,org.apache.el.lang,has,71,0,0,0,83,0,0,0,-1.0,0,0
+codellama_correct,org.apache.el.lang,has,65,0,0,0,75,0,0,0,-1.0,0,0
+codellama_correct,org.apache.el.lang,has,59,0,0,0,67,0,0,0,-1.0,0,0
+codellama_correct,org.apache.el.lang,has,52,0,0,0,59,0,0,0,-1.0,0,0
+codellama_correct,org.apache.el.lang,has,45,0,0,0,51,0,0,0,-1.0,0,0
+codellama_correct,org.apache.el.lang,has,38,0,0,0,43,0,0,0,-1.0,0,0
+codellama_correct,org.apache.el.lang,has,33,0,0,0,36,0,0,0,-1.0,0,0
+codellama_correct,org.apache.el.lang,has,27,0,0,0,28,0,0,0,-1.0,0,0
+codellama_correct,org.apache.el.lang,has,15,0,0,0,17,0,0,0,-1.0,0,0
+codellama_correct,org.apache.druid.indexing.worker.executor,ExecutorLifecycle,6,0,5,5,50,8,0,0,0.8,0,0
+codellama_correct,org.apache.druid.java.util.metrics.cgroups,CpuSetTest,7,1,4,4,47,4,0,0,0.0,0,0
+codellama_correct,org.apache.druid.server.coordination,SegmentLoadDropHandlerCacheTest,7,1,2,2,26,2,0,0,1.0,0,0
+codellama_correct,org.apache.druid.benchmark.compression,BaseColumnarLongsFromSegmentsBenchmark,6,0,2,0,17,2,0,0,0.0,0,0
+codellama_correct,org.apache.druid.query.groupby.epinephelinae,LimitedTemporaryStorage,9,0,14,12,99,22,0,0,0.0,0,0
+codellama_correct,org.apache.druid.query.groupby.epinephelinae,LimitedOutputStream,2,0,8,6,34,9,0,0,0.0,0,0
+codellama_correct,org.apache.druid.segment.realtime.plumber,FlushingPlumber,6,0,5,3,64,16,0,0,0.0,0,0
+codellama_correct,org.apache.druid.java.util.metrics,CgroupCpuSetMonitorTest,501,2,2,2,435,2,0,0,0.0,0,0
+codellama_correct,org.apache.druid.java.util.metrics,CpuAcctDeltaMonitorTest,5,2,3,3,43,4,0,0,0.6666666666666666,0,0
+codellama_correct,org.apache.druid.indexer.hadoop,FSSpideringIteratorTest,0,0,4,4,64,5,0,0,-1.0,0,0
+codellama_correct,org.apache.druid.benchmark.indexing,IndexMergeBenchmark,13,0,4,3,61,5,0,0,0.0,0,1
+codellama_correct,org.apache.druid.benchmark.indexing,IncrementalIndexReadBenchmark,7,0,5,4,46,8,0,0,0.4,0,2
+codellama_correct,org.apache.druid.benchmark.indexing,IndexMergeBenchmark,13,0,4,3,62,8,0,0,0.5,0,1
+codellama_correct,org.apache.druid.benchmark.indexing,IndexPersistBenchmark,15,0,8,7,65,12,0,0,0.0,1,3
+codellama_correct,org.apache.druid.segment.loading,SegmentLocalCacheManagerConcurrencyTest,74,2,6,3,114,8,0,0,0.5,0,0
+codellama_correct,org.apache.druid.segment.loading,LocalDataSegmentKillerTest,1,1,4,2,57,4,0,0,0.0,0,0
+codellama_correct,org.apache.druid.segment.loading,LocalDataSegmentPusherTest,7,2,7,7,66,8,0,0,0.0,0,0
+codellama_correct,org.apache.druid.indexing.common.tasklogs,FileTaskLogs,2,0,10,9,78,18,0,0,0.3,0,0
+codellama_correct,org.apache.druid.indexing.common.task.batch.parallel,HttpShuffleClient,2,0,2,2,32,3,0,0,0.0,0,0
+codellama_correct,org.apache.druid.indexing.common.task.batch.parallel,PartialSegmentMergeTask,5,0,6,5,28,6,0,0,0.5,0,0
+codellama_correct,org.apache.druid.server.log,FileRequestLogger,8,0,9,7,72,9,0,0,0.0,0,0
+codellama_correct,org.apache.druid.storage.aliyun,OssDataSegmentPuller,4,0,5,4,64,10,0,0,0.4,0,0
+codellama_correct,org.apache.druid.math.expr,Function,0,0,2,0,4,2,3,0,-1.0,1,0
+codellama_correct,org.apache.druid.math.expr,SingleParam,0,0,2,1,10,3,1,1,-1.0,0,0
+codellama_correct,org.apache.druid.math.expr,DoubleParam,0,0,2,1,11,3,2,1,-1.0,0,0
+codellama_correct,org.apache.druid.math.expr,SingleParamMath,0,0,3,0,20,6,0,2,-1.0,0,0
+codellama_correct,org.apache.druid.math.expr,DoubleParamMath,0,0,3,0,19,5,0,2,-1.0,0,0
+codellama_correct,org.apache.druid.math.expr,DoubleParamString,0,0,2,0,9,3,0,2,-1.0,0,0
+codellama_correct,org.apache.druid.math.expr,ParseLong,0,0,2,2,6,2,0,1,-1.0,0,0
+codellama_correct,org.apache.druid.sql.calcite.expression.builtin,CastOperatorConversion,1,0,5,2,80,14,0,0,0.4,1,2
+codellama_correct,org.apache.rocketmq.test.grpc.v2,LocalGrpcIT,2,0,9,9,43,9,0,0,0.8888888888888888,0,0
+codellama_correct,org.apache.cassandra.db.marshal,TimeUUIDType,3,1,9,4,60,13,0,0,0.6666666666666666,1,1
+codellama_correct,org.apache.pulsar.broker.loadbalance.extensions.data,BrokerLoadData,13,0,9,4,71,9,0,0,0.0,2,2
+codellama_correct,org.apache.pulsar.broker.loadbalance.extensions,ExtensibleLoadManagerWrapper,2,0,19,19,62,19,0,0,0.5789473684210527,0,0
+codellama_correct,org.apache.pulsar.tests.integration.functions,PulsarFunctionsTestBase,24,23,9,5,80,13,0,0,0.6666666666666666,0,0
+codellama_correct,org.apache.pulsar.tests.integration.functions.go,PulsarFunctionsGoTest,1,0,2,2,10,2,0,0,1.0,0,0
+codellama_correct,org.apache.rocketmq.store.ha,HAService,0,0,18,0,20,18,0,0,-1.0,1,0
+codellama_correct,org.apache.rocketmq.store.ha,HAService,0,0,17,0,19,17,0,0,-1.0,0,0
+codellama_correct,org.apache.rocketmq.store.ha,GroupTransferService,6,0,8,5,106,25,0,0,0.0,1,2
+codellama_correct,org.apache.rocketmq.namesrv.controller.manager.event,EventSerializer,1,0,4,2,45,11,0,0,0.0,1,1
+codellama_correct,org.apache.rocketmq.namesrv.controller,Controller,0,0,9,0,11,9,0,0,-1.0,0,1
+codellama_correct,org.apache.rocketmq.common.protocol.header.namesrv.controller,ElectMasterRequestHeader,1,0,4,4,14,4,0,0,0.5,1,0
+codellama_correct,org.apache.hadoop.hdfs.protocolPB,ClientProtocolPB,0,0,19,17,60,19,1,0,-1.0,3,2
+codellama_correct,org.apache.hadoop.hdfs.protocolPB,AddBlockRequestProto,0,0,18,17,56,18,0,1,-1.0,0,2
+codellama_correct,org.apache.hadoop.hdfs.protocolPB,Builder,0,0,16,16,48,16,1,5891,-1.0,2,1
+codellama_correct,org.skywalking.apm.collector.agentserver,AgentServerModuleInstaller,1,0,1,1,14,2,0,0,0.0,0,0
+codellama_correct,org.skywalking.apm.collector.agentregister,AgentRegisterModuleInstaller,1,0,1,1,13,2,0,0,0.0,0,0
+codellama_correct,org.skywalking.apm.collector.core.framework,Define,0,0,2,0,4,2,0,0,-1.0,0,0
+codellama_correct,org.skywalking.apm.collector.cluster,ClusterModuleInstaller,1,0,1,1,9,1,0,0,0.0,0,0
+codellama_correct,org.skywalking.apm.collector.core.module,ModuleInstaller,0,0,1,0,3,1,0,0,-1.0,0,0
+codellama_correct,org.skywalking.apm.collector.boot,CollectorStarter,1,0,1,1,26,2,0,0,0.0,0,0
+codellama_correct,org.skywalking.apm.collector.stream,StreamModuleDefine,1,0,3,3,18,3,0,0,0.6666666666666666,0,0
+codellama_correct,org.skywalking.apm.collector.ui,UIModuleInstaller,1,0,1,1,13,2,0,0,0.0,0,0
+codellama_correct,org.apache.pulsar.client.impl.conf,ConsumerConfigurationData,44,0,3,3,65,3,0,0,0.6666666666666666,1,1
+codellama_correct,org.apache.skywalking.oap.server.core.storage.model,ModelInstaller,2,0,7,3,49,14,0,0,0.0,0,0
+codellama_correct,org.apache.flink.runtime.scheduler.adaptive,WaitingForResources,52,0,21,11,144,27,0,0,0.3333333333333333,0,1
+codellama_correct,org.apache.flink.runtime.scheduler.adaptive,Context,0,0,6,0,8,6,0,0,-1.0,2,0
+codellama_correct,org.apache.flink.runtime.scheduler.adaptive,Factory,5,0,3,3,20,3,0,0,0.6666666666666666,0,1
+codellama_correct,org.apache.flink.runtime.scheduler.adaptive,name,30,0,0,0,31,0,0,0,-1.0,0,0
+codellama_correct,com.alibaba.dubbo.rpc,RpcInvocation,6,0,20,20,100,30,0,0,0.1,1,0
+codellama_correct,com.alibaba.dubbo.rpc.filter.tps,TPSLimiter,0,0,1,0,3,1,0,0,-1.0,1,0
+codellama_correct,org.apache.catalina.startup,ClassLoaderFactory,5,0,2,2,131,32,0,0,0.0,0,0
+codellama_correct,org.apache.catalina.startup,CatalinaBaseConfigurationSource,4,0,4,4,93,15,0,0,0.0,0,0
+codellama_correct,org.apache.rocketmq.test.schema,SchemaTest,7,0,6,5,70,10,0,0,1.0,1,1
+codellama_correct,org.apache.rocketmq.test.schema,SchemaDefiner,2,0,3,2,10,3,0,0,1.0,2,0
+codellama_correct,org.apache.rocketmq.test.schema,SchemaTools,0,0,2,2,6,2,0,0,-1.0,1,0
+codellama_correct,org.apache.rocketmq.test.schema,SchemaTest,6,0,3,3,70,9,0,0,1.0,0,3
+codellama_correct,org.apache.druid.query.aggregation,LongMaxAggregationTest,4,0,8,6,58,8,0,0,0.25,0,0
+codellama_correct,org.apache.rocketmq.namesrv,NamesrvStartup,7,0,5,1,86,11,0,0,0.0,1,1
+codellama_correct,org.apache.rocketmq.namesrv,NamesrvStartup,2,2,4,4,91,12,0,0,1.0,0,0
+codellama_correct,org.apache.jasper.servlet,TestJspServlet,1,0,3,2,30,3,0,0,1.0,0,0
+codellama_correct,org.apache.jasper.servlet,Bug56568aServlet,1,0,1,0,6,1,0,0,0.0,0,0
+codellama_correct,org.apache.jasper.servlet,JspServletWrapper,20,0,10,9,80,13,0,0,0.3,0,0
+codellama_correct,org.apache.hadoop.tools.rumen.state,StateDeserializer,558,0,2,2,577,2,0,0,1.0,0,0
+codellama_correct,org.apache.hadoop.yarn.sls,RumenToSLSConverter,3,0,4,1,83,11,0,0,0.0,1,1
+codellama_correct,org.apache.hadoop.yarn.util.timeline,TimelineUtils,1,0,2,2,18,3,0,0,0.0,0,0
+codellama_correct,org.apache.rocketmq.proxy.grpc.v2.service.cluster,PullMessageService,2,0,5,3,94,10,0,0,0.4,0,1
+codellama_correct,org.apache.skywalking.oap.server.core.remote.selector,RemoteClientSelector,0,0,1,0,3,1,1,0,-1.0,0,0
+codellama_correct,org.apache.skywalking.oap.server.core.remote.selector,HashCodeSelector,0,0,1,1,7,1,0,1,-1.0,0,0
+codellama_correct,org.apache.skywalking.oap.server.core.analysis.data,NonMergeDataCache,1,0,4,4,16,4,0,1,0.5,0,0
+codellama_correct,org.apache.skywalking.oap.server.core.analysis.data,NonMergeDataCollection,1,0,19,19,60,19,0,1,0.0,0,0
+codellama_correct,org.apache.skywalking.oap.server.core.analysis.data,Window,1,0,2,2,9,2,2,0,0.0,0,0
+codellama_correct,org.apache.skywalking.oap.server.core.analysis.data,NonMergeDataCollection,1,0,19,19,60,19,0,0,0.0,0,0
+codellama_correct,org.apache.skywalking.oap.server.core.remote.client,RemoteClient,0,0,3,0,5,3,0,0,-1.0,0,0
+codellama_correct,org.apache.skywalking.oap.server.storage.plugin.elasticsearch,StorageModuleElasticsearchProvider,4,0,8,8,44,8,0,0,0.625,0,0
+codellama_correct,org.apache.skywalking.oap.server.core.storage,IRegisterLockDAO,0,0,2,0,4,2,0,0,-1.0,0,0
+codellama_correct,org.apache.skywalking.oap.server.core.storage,StorageInstallerTestCase,0,0,6,2,29,6,0,0,-1.0,0,0
+codellama_correct,org.apache.skywalking.oap.server.core.storage,TestStorageInstaller,0,0,5,1,14,5,0,0,-1.0,0,0
+codellama_correct,org.apache.skywalking.oap.server.core.storage,StorageModule,0,0,2,2,8,2,0,0,-1.0,2,0
+codellama_correct,org.apache.skywalking.oap.server.core.remote,RemoteSenderService,4,0,2,2,27,5,0,0,0.0,0,0
+codellama_correct,org.apache.skywalking.oap.server.library.util,CollectionUtils,0,0,7,7,23,7,0,0,-1.0,1,1
+codellama_correct,org.apache.skywalking.oap.server.core.analysis.worker,AbstractAggregatorWorker,7,0,12,7,88,19,0,1,0.25,2,2
+codellama_correct,org.apache.skywalking.oap.server.core.analysis.worker,AggregatorConsumer,1,0,5,4,25,7,0,0,0.8,0,1
+codellama_correct,org.apache.skywalking.oap.server.core.analysis.worker,Worker,0,0,1,0,3,1,1,0,-1.0,1,0
+codellama_correct,org.apache.skywalking.oap.server.core.analysis.worker,TopNStreamProcessor,5,0,3,3,34,5,0,0,0.6666666666666666,2,2
+codellama_correct,org.apache.skywalking.oap.server.core.analysis.worker,RecordStreamProcessor,2,0,3,3,30,5,0,0,0.6666666666666666,2,2
+codellama_correct,org.apache.cassandra.io.util,BufferedRandomAccessFileTest,1,0,3,3,80,6,0,0,0.6666666666666666,0,1
+codellama_correct,org.apache.cassandra.io.util,SequentialWriter,17,1,8,4,92,13,0,0,0.5,5,1
+codellama_correct,org.apache.cassandra.io.util,TransactionalProxy,0,0,4,0,39,6,0,0,-1.0,1,0
+codellama_correct,org.apache.cassandra.streaming.compression,CompressedInputStreamTest,0,0,3,2,59,9,0,0,-1.0,0,0
+codellama_correct,javax.websocket.server,ServerApplicationConfig,0,0,2,0,4,2,0,0,-1.0,0,0
+codellama_correct,javax.websocket.server,ServerEndpointConfig,10,0,19,11,115,28,0,0,-1.0,2,2
+codellama_correct,javax.websocket.server,Builder,7,0,7,6,61,12,0,0,0.0,0,1
+codellama_correct,javax.websocket.server,Configurator,3,0,7,5,47,11,0,0,0.2857142857142857,3,2
+codellama_correct,org.apache.dubbo.rpc.protocol.dubbo.filter,TraceFilter,269,0,4,4,354,14,0,0,0.5,0,0
+codellama_correct,org.apache.dubbo.rpc.protocol.dubbo.filter,has,221,0,0,0,241,0,0,0,-1.0,0,0
+codellama_correct,org.apache.dubbo.rpc.protocol.dubbo.filter,has,212,0,0,0,231,0,0,0,-1.0,0,0
+codellama_correct,org.apache.dubbo.rpc.protocol.dubbo.filter,has,208,0,0,0,225,0,0,0,-1.0,0,0
+codellama_correct,org.apache.dubbo.rpc.protocol.dubbo.filter,has,204,0,0,0,219,0,0,0,-1.0,0,0
+codellama_correct,org.apache.dubbo.rpc.protocol.dubbo.filter,has,200,0,0,0,213,0,0,0,-1.0,0,0
+codellama_correct,org.apache.dubbo.rpc.protocol.dubbo.filter,has,192,0,0,0,203,0,0,0,-1.0,0,0
+codellama_correct,org.apache.dubbo.rpc.protocol.dubbo.filter,has,183,0,0,0,192,0,0,0,-1.0,0,0
+codellama_correct,org.apache.dubbo.rpc.protocol.dubbo.filter,has,178,0,0,0,186,0,0,0,-1.0,0,0
+codellama_correct,org.apache.dubbo.rpc.protocol.dubbo.filter,has,173,0,0,0,180,0,0,0,-1.0,0,0
+codellama_correct,org.apache.dubbo.rpc.protocol.dubbo.filter,has,168,0,0,0,174,0,0,0,-1.0,0,0
+codellama_correct,org.apache.dubbo.rpc.protocol.dubbo.filter,has,163,0,0,0,168,0,0,0,-1.0,0,0
+codellama_correct,org.apache.dubbo.rpc.protocol.dubbo.filter,has,158,0,0,0,162,0,0,0,-1.0,0,0
+codellama_correct,org.apache.dubbo.rpc.protocol.dubbo.filter,has,153,0,0,0,156,0,0,0,-1.0,0,0
+codellama_correct,org.apache.dubbo.rpc.protocol.dubbo.filter,has,120,0,0,0,123,0,0,0,-1.0,0,0
+codellama_correct,org.apache.dubbo.rpc.protocol.dubbo.filter,has,115,0,0,0,116,0,0,0,-1.0,0,0
+codellama_correct,org.apache.skywalking.apm.collector.storage.dao.ui,IInstanceMetricUIDAO,0,0,3,0,5,3,0,0,-1.0,0,0
+codellama_correct,org.apache.flink.table.planner.plan.nodes.exec.stream,WindowTableFunctionJsonPlanTest,2,0,3,3,25,3,0,0,0.0,0,0
+codellama_correct,org.apache.skywalking.oap.server.core.analysis.generated.all,AllP99Indicator,0,0,12,12,89,16,0,0,-1.0,2,1
+codellama_correct,org.apache.skywalking.oap.server.core.analysis.generated.all,Builder,0,0,2,2,18,2,0,0,-1.0,0,1
+codellama_correct,org.apache.skywalking.oap.server.core.analysis.generated.all,AllP90Indicator,0,0,12,12,89,16,0,0,-1.0,2,1
+codellama_correct,org.apache.skywalking.oap.server.core.analysis.generated.all,Builder,0,0,2,2,18,2,0,0,-1.0,0,1
+codellama_correct,org.apache.skywalking.oap.server.core.analysis.generated.all,AllP50Indicator,0,0,12,12,89,16,0,0,-1.0,2,1
+codellama_correct,org.apache.skywalking.oap.server.core.analysis.generated.all,Builder,0,0,2,2,18,2,0,0,-1.0,0,1
+codellama_correct,org.apache.skywalking.oap.server.core.analysis.generated.all,AllP75Indicator,0,0,12,12,89,16,0,0,-1.0,2,1
+codellama_correct,org.apache.skywalking.oap.server.core.analysis.generated.all,Builder,0,0,2,2,18,2,0,0,-1.0,0,1
+codellama_correct,org.apache.skywalking.oap.server.core.analysis.generated.all,AllHeatmapIndicator,4,0,14,14,105,18,0,0,0.42857142857142855,2,1
+codellama_correct,org.apache.skywalking.oap.server.core.analysis.generated.all,Builder,0,0,2,2,18,2,0,0,-1.0,0,1
+codellama_correct,org.apache.skywalking.oap.server.core.analysis.generated.all,AllP95Indicator,4,0,14,14,97,18,0,0,0.42857142857142855,2,1
+codellama_correct,org.apache.skywalking.oap.server.core.analysis.generated.all,Builder,0,0,2,2,18,2,0,0,-1.0,0,1
+codellama_correct,org.apache.skywalking.oap.query.graphql,GraphQLQueryProvider,2,0,7,7,26,7,0,0,0.7142857142857143,0,0
+codellama_correct,org.apache.pulsar.broker.service,MessagePublishBufferThrottleTest,1,0,5,3,61,9,0,0,0.8,0,1
+codellama_correct,org.apache.pulsar.broker.service,TransportCnx,0,0,25,0,27,25,0,0,-1.0,1,0
+codellama_correct,org.apache.pulsar.broker.service,Subscription,0,0,39,0,60,42,0,0,-1.0,1,0
+codellama_correct,org.apache.catalina.servlets,WebdavServlet,20,0,4,3,41,5,0,0,0.5,0,0
+codellama_correct,org.apache.flink.batch.connectors.hive,HiveTableOutputFormatTest,2,0,7,3,60,9,0,0,0.0,0,0
+codellama_correct,org.apache.tomcat.util.http.fileupload,FileItem,6,0,13,13,54,14,0,0,0.38461538461538464,0,0
+codellama_correct,org.apache.tomcat.util.http.fileupload,FileItemStream,0,0,5,0,7,5,0,0,-1.0,0,0
+codellama_correct,org.apache.cassandra.dht,BootStrapperTest,0,0,9,7,75,11,0,0,-1.0,0,1
+codellama_correct,org.apache.rocketmq.namesrv.routeinfo,BatchUnRegisterService,3,0,5,4,34,7,0,0,0.4,1,1
+codellama_correct,org.apache.druid.indexing.seekablestream.supervisor,SeekableStreamSupervisorSpec,14,0,15,14,70,15,0,0,0.2,0,0
+codellama_correct,org.apache.druid.indexing.kinesis.supervisor,KinesisSupervisorSpec,2,0,1,1,5,1,0,0,0.0,0,0
+codellama_correct,org.apache.druid.indexing.kafka.supervisor,KafkaSupervisorSpec,1,0,8,7,27,8,0,0,0.5,0,1
+codellama_correct,org.apache.druid.indexing.kafka.supervisor,KafkaSupervisorTuningConfig,7,0,10,10,43,10,0,0,0.3,1,0
+codellama_correct,com.alibaba.rocketmq.client.impl.consumer,MQConsumerInner,0,0,6,0,8,6,0,0,-1.0,0,0
+codellama_correct,com.alibaba.dubbo.config,ProtocolConfig,26,1,23,23,101,23,0,0,0.391304347826087,1,0
+codellama_correct,com.alibaba.dubbo.config,MethodConfig,16,0,32,32,128,32,0,0,0.0625,0,0
+codellama_correct,com.alibaba.rocketmq.store,DefaultMessageFilter,0,0,1,1,16,3,0,0,-1.0,0,0
+codellama_correct,org.apache.cassandra.tools,LoaderOptions,59,41,8,6,106,8,0,0,0.375,0,1
+codellama_correct,org.apache.cassandra.tools,Builder,18,0,7,6,44,7,0,0,1.0,1,0
+codellama_correct,org.apache.cassandra.tools,StandaloneUpgraderTest,0,0,6,6,52,6,0,0,-1.0,0,0
+codellama_correct,org.apache.cassandra.tools,StandaloneSSTableUtilTest,0,0,8,8,80,8,0,0,-1.0,0,0
+codellama_correct,org.apache.cassandra.tools,SSTableImportTest,5,0,3,3,45,4,0,0,0.0,0,0
+codellama_correct,org.apache.druid.testing.utils,AbstractTestQueryHelper,7,0,9,8,78,14,0,0,0.0,0,0
+codellama_correct,org.apache.tomcat.util.openssl,Constants,9,9,0,0,11,0,0,0,-1.0,0,0
+codellama_correct,org.apache.tomcat.util.openssl,SSL_CTX_set_tmp_dh_callback$dh,0,0,3,0,18,3,0,0,-1.0,1,1
+codellama_correct,org.apache.tomcat.util.openssl,SSL_set_info_callback$cb,0,0,3,0,18,3,0,0,-1.0,1,1
+codellama_correct,org.apache.tomcat.util.openssl,SSL_CTX_set_cert_verify_callback$cb,0,0,3,0,18,3,0,0,-1.0,1,1
+codellama_correct,org.apache.tomcat.util.openssl,constants$29,1,0,0,0,3,0,0,0,-1.0,0,0
+codellama_correct,org.apache.pulsar.broker.service.nonpersistent,NonPersistentDispatcherSingleActiveConsumer,5,0,11,9,79,15,0,0,0.5454545454545454,0,2
+codellama_correct,org.apache.pulsar.zookeeper,ZooKeeperDataCache,244,0,12,12,310,15,0,0,0.16666666666666666,0,1
+codellama_correct,org.apache.pulsar.zookeeper,and,172,0,0,0,178,0,0,0,-1.0,2,0
+codellama_correct,org.apache.pulsar.zookeeper,and,169,0,0,0,173,0,0,0,-1.0,0,0
+codellama_correct,org.apache.pulsar.zookeeper,and,166,0,0,0,168,0,0,0,-1.0,0,0
+codellama_correct,org.skywalking.apm.agent.core.context.trace,TraceSegment,10,0,18,18,85,22,0,0,0.16666666666666666,2,0
+codellama_correct,org.skywalking.apm.agent.core.context.trace,ExitSpan,3,0,15,15,88,22,0,0,0.26666666666666666,0,1
+codellama_correct,org.skywalking.apm.agent.core.context.trace,name,49,0,0,0,53,0,0,0,-1.0,0,0
+codellama_correct,org.skywalking.apm.agent.core.context.trace,has,3,0,0,0,5,0,0,0,-1.0,0,0
+codellama_correct,org.skywalking.apm.agent.core.remote,TraceSegmentServiceClient,4,0,12,12,77,21,0,0,0.5,0,1
+codellama_correct,org.apache.jmeter.functions.gui,FunctionHelper,6,0,6,4,101,11,0,0,0.0,0,1
+codellama_correct,org.apache.jmeter.functions.gui,HelpListener,0,0,1,1,7,1,0,0,-1.0,0,0
+codellama_correct,org.apache.flink.runtime.blob,BlobUtilsTest,3,1,5,5,24,5,0,0,0.0,0,0
+codellama_correct,org.apache.tomcat.util.descriptor.web,ResourceBase,7,0,17,17,125,37,0,0,0.17647058823529413,1,1
+codellama_correct,org.apache.tomcat.util.descriptor,WebXml,4,0,32,32,72,32,0,0,0.96875,0,0
+codellama_correct,io.druid.indexing.kafka.supervisor,KafkaSupervisorReport,13,0,21,21,93,21,0,0,0.0,0,1
+codellama_correct,io.druid.indexing.kafka.supervisor,TaskReportData,5,0,7,7,32,7,0,0,0.0,0,0
+codellama_correct,io.druid.indexing.kafka.supervisor,KafkaSupervisorReportPayload,7,0,9,9,42,9,0,0,0.0,1,0
+codellama_correct,io.druid.indexing.kafka.supervisor,KafkaSupervisorSpec,8,0,6,6,35,6,0,0,0.0,0,0
+codellama_correct,org.apache.tomcat.jdbc.bugs,Bug51582,0,0,3,2,74,10,0,0,-1.0,1,1
+codellama_correct,org.apache.catalina.manager,DummyProxySession,1,0,39,39,104,39,0,0,0.8974358974358975,0,0
+codellama_correct,org.apache.catalina.manager,JspHelper,3,0,13,11,137,24,0,0,0.6153846153846154,2,1
+codellama_correct,org.apache.catalina.manager,HTMLManagerServlet,3,0,3,2,85,17,0,0,0.6666666666666666,0,0
+codellama_correct,org.apache.catalina.manager,JspHelper,3,0,13,11,125,25,0,0,0.9230769230769231,0,1
+codellama_correct,org.apache.catalina.manager,DummyProxySession,1,0,33,33,87,33,0,0,0.9090909090909091,0,0
+codellama_correct,org.apache.catalina.manager.host,HostManagerServlet,6,0,6,4,76,15,0,0,0.5,0,0
+codellama_correct,org.apache.hadoop.yarn.server.timelineservice.collector,PerNodeTimelineCollectorsAuxService,69,0,18,12,145,20,0,0,0.3333333333333333,2,1
+codellama_correct,org.apache.hadoop.yarn.server.timelineservice.collector,ShutdownHook,1,0,2,2,9,2,0,0,0.0,0,1
+codellama_correct,org.apache.catalina.websocket,WsOutbound,7,0,11,8,161,33,0,0,0.0,0,0
+codellama_correct,org.apache.catalina.websocket,MessageInbound,6,0,10,4,75,18,0,0,0.2,0,0
+codellama_correct,org.apache.cassandra.streaming,StreamReply,4,4,6,6,33,6,0,0,0.5,2,2
+codellama_correct,org.apache.cassandra.streaming,FileStatusSerializer,0,0,3,3,16,3,0,0,-1.0,0,2
+codellama_correct,org.apache.cassandra.streaming,PendingFile,19,9,10,10,94,24,0,0,0.2,4,3
+codellama_correct,org.apache.cassandra.streaming,PendingFileSerializer,0,0,3,3,41,15,0,0,-1.0,1,2
+codellama_correct,org.apache.cassandra.streaming,StreamRequest,8,0,7,5,112,24,0,0,0.0,2,3
+codellama_correct,org.apache.cassandra.streaming,StreamRequestSerializer,0,0,3,3,61,18,0,0,-1.0,0,3
+codellama_correct,org.apache.rocketmq.tools.command.offset,ResetOffsetByTimeOldCommand,0,0,2,2,29,3,0,0,-1.0,1,1
+codellama_correct,org.apache.skywalking.oap.server.core.analysis,StreamAnnotationListener,1,0,3,3,35,9,0,0,0.6666666666666666,0,2
+codellama_correct,com.alibaba.dubbo.registry.multicast,MutilcastRegistryHeartbeatTest,2,0,2,2,20,2,0,0,1.0,0,0
+codellama_correct,org.apache.rocketmq.common,BrokerConfig,38,0,4,4,88,4,0,0,0.0,1,0
+codellama_correct,org.apache.rocketmq.common,ThreadFactoryImpl,2,0,2,2,10,2,0,0,0.0,0,0
+codellama_correct,org.apache.skywalking.apm.plugin.mongodb.v3.define,MongoDBInstrumentation,2,0,8,7,32,8,0,0,0.625,0,0
+codellama_correct,org.apache.dubbo.config.dynamic.support.archaius.sources,ZooKeeperConfigurationSource,8,0,10,8,103,24,0,0,0.0,0,0
+codellama_correct,org.apache.dubbo.registry.integration,RegistryProtocol,8,0,12,11,77,18,0,0,0.6666666666666666,1,1
+codellama_correct,org.apache.dubbo.registry.integration.parser,ConfigParser,0,0,7,3,139,25,0,0,-1.0,1,1
+codellama_correct,org.apache.flink.runtime.io.network.partition,SubpartitionTestBase,0,0,9,7,102,11,0,0,-1.0,0,0
+codellama_correct,org.apache.flink.runtime.io.network.partition,BufferWritingResultPartition,1,0,12,11,73,16,0,0,0.25,0,0
+codellama_correct,org.skywalking.apm.collector.cluster.redis.service,RedisModuleRegisterService,0,0,1,1,4,1,0,0,-1.0,0,0
+codellama_correct,org.skywalking.apm.collector.cluster.standalone.service,StandaloneModuleRegisterService,0,0,1,1,4,1,0,0,-1.0,0,0
+codellama_correct,org.apache.catalina.tribes.membership,McastServiceImpl,23,0,4,3,89,12,0,0,0.0,0,0
+codellama_correct,org.apache.catalina.tribes.transport,PooledSender,79,0,25,25,226,37,0,0,0.16,2,2
+codellama_correct,org.apache.catalina.tribes.transport,SenderQueue,5,0,10,10,103,22,0,0,0.0,1,1
+codellama_correct,org.apache.catalina.tribes.transport,name,47,0,0,0,49,0,0,0,-1.0,0,0
+codellama_correct,org.apache.tomcat.util.scan,JarFileUrlJar,6,0,12,12,127,27,0,0,0.0,0,0
+codellama_correct,org.apache.catalina.loader,WebappClassLoaderBase,34,0,0,0,36,0,0,0,-1.0,0,0
+codellama_correct,org.apache.catalina.webresources,TestJarWarResourceSet,0,0,2,2,16,2,0,0,-1.0,0,0
+codellama_correct,org.apache.pulsar.client.impl,PulsarTestClient,29,0,14,10,105,21,0,0,0.21428571428571427,0,0
+codellama_correct,org.apache.jmeter.protocol.bolt.sampler,AbstractBoltTestElement,6,0,14,14,65,18,0,0,0.35714285714285715,0,0
+codellama_correct,org.apache.tomcat.websocket.pojo,PojoMessageHandlerBase,7,0,2,1,41,6,0,0,0.0,0,0
+codellama_correct,org.apache.jmeter.protocol.jms.sampler,FixedQueueExecutor,3,0,2,2,29,4,0,0,0.0,0,0
+codellama_correct,com.a.eye.skywalking.storage.listener,StorageListener,2,0,3,3,29,3,0,0,0.0,1,1
+codellama_correct,com.a.eye.skywalking.storage.data.index,IndexDBConnector,4,0,12,7,125,18,0,0,0.0,0,1
+codellama_correct,com.a.eye.skywalking.storage.data.index,IndexMetaInfo,4,0,8,8,33,8,0,0,0.0,1,0
+codellama_correct,com.a.eye.skywalking.storage.data,SpanDataFinder,3,0,8,3,74,12,0,0,0.375,1,2
+codellama_correct,com.a.eye.skywalking.storage.data,IndexDataSourceCache,1,0,2,1,14,3,0,0,0.0,1,0
+codellama_correct,com.a.eye.skywalking.storage.config,Constants,10,10,2,0,18,2,0,0,1.0,1,0
+codellama_correct,com.a.eye.skywalking.storage.config,SQL,8,8,1,0,12,1,0,0,0.0,0,0
+codellama_correct,org.apache.pulsar.broker.loadbalance.extensions.reporter,BrokerLoadDataReporterTest,43,0,8,2,121,8,0,0,0.625,0,1
+codellama_correct,org.apache.pulsar.broker.loadbalance.extensions.reporter,have,12,0,5,0,28,5,0,0,1.0,0,0
+codellama_correct,org.apache.pulsar.broker.loadbalance.extensions.reporter,have,5,0,1,0,9,1,0,0,0.0,0,0
+codellama_correct,org.apache.pulsar.broker.loadbalance.extensions.reporter,BrokerLoadDataReporter,7,0,5,3,79,12,0,0,0.0,0,2
+codellama_correct,io.druid.segment,MapVirtualColumnTest,1,0,4,3,20,4,0,0,1.0,0,0
+codellama_correct,io.druid.query.select,SelectQueryEngine,1,0,5,4,56,12,0,0,1.0,0,1
+codellama_correct,io.druid.query.select,SelectStrategyFactory,0,0,1,1,15,4,0,0,-1.0,1,0
+codellama_correct,io.druid.query.select,SelectColumnSelectorStrategy,0,0,1,0,3,1,3,0,-1.0,0,0
+codellama_correct,io.druid.query.select,StringSelectColumnSelectorStrategy,0,0,1,1,21,4,0,1,-1.0,0,0
+codellama_correct,io.druid.query.select,LongSelectColumnSelectorStrategy,0,0,1,1,10,2,0,1,-1.0,0,0
+codellama_correct,io.druid.query.select,FloatSelectColumnSelectorStrategy,0,0,1,1,4,1,0,1,-1.0,0,0
+codellama_correct,org.apache.cassandra.audit,BinAuditLogger,3,0,6,5,29,7,0,0,0.6666666666666666,0,1
+codellama_correct,org.apache.cassandra.audit,WeighableMarshallableMessage,1,0,4,3,15,4,0,0,0.5,0,0
+codellama_correct,org.apache.cassandra.audit,FullQueryLoggerTest,2,0,15,15,80,15,0,0,0.0,0,1
+codellama_correct,org.apache.cassandra.audit,FullQueryLogger,0,0,3,1,29,5,0,0,-1.0,1,1
+codellama_correct,org.apache.cassandra.audit,WeighableMarshallableBatch,4,0,3,3,48,9,0,0,0.0,0,0
+codellama_correct,org.apache.cassandra.audit,WeighableMarshallableQuery,1,0,3,3,15,3,0,0,0.0,0,0
+codellama_correct,org.apache.cassandra.audit,AuditLogEntry,23,0,26,26,161,31,0,0,0.07692307692307693,4,1
+codellama_correct,org.apache.cassandra.audit,Builder,12,0,14,14,103,19,0,0,0.0,0,1
+codellama_correct,org.apache.hadoop.ozone.container.common.statemachine,EndpointStateMachine,9,0,20,20,96,26,0,0,0.2,1,1
+codellama_correct,org.apache.flink.runtime.deployment,ResultPartitionDeploymentDescriptor,6,0,12,11,62,12,0,0,0.0,1,1
+codellama_correct,org.apache.flink.table.runtime.operators.aggregate.window,LocalSlicingWindowAggOperator,11,0,9,8,65,12,0,0,0.0,0,0
+codellama_correct,org.apache.flink.table.runtime.operators.aggregate.window.processors,SliceSharedWindowAggProcessor,5,0,6,5,79,16,0,1,0.3333333333333333,0,1
+codellama_correct,org.apache.flink.table.runtime.operators.aggregate.window.processors,WindowIsEmptySupplier,2,0,2,2,19,3,0,0,0.0,1,0
+codellama_correct,org.apache.flink.table.runtime.operators.aggregate.window.processors,AbstractWindowAggProcessor,16,0,9,8,86,15,1,0,0.2222222222222222,0,0
+codellama_correct,org.apache.flink.table.planner.runtime.stream.jsonplan,WindowAggregateJsonITCase,0,0,4,4,33,4,0,0,-1.0,0,0
+codellama_correct,org.apache.flink.table.runtime.operators.aggregate.window.buffers,RecordsWindowBuffer,9,0,7,6,60,10,0,0,0.0,0,0
+codellama_correct,org.apache.flink.table.runtime.operators.aggregate.window.buffers,Factory,3,0,2,2,15,2,0,0,0.0,0,0
+codellama_correct,org.apache.flink.table.runtime.operators.aggregate.window.combines,AggRecordsCombiner,12,0,5,5,77,11,0,0,0.0,0,0
+codellama_correct,org.apache.flink.table.runtime.operators.aggregate.window.combines,Factory,4,0,2,2,18,2,0,0,0.0,0,0
+codellama_correct,org.apache.flink.table.runtime.operators.aggregate.window.combines,GlobalAggAccCombiner,12,0,5,5,90,8,0,0,0.0,0,0
+codellama_correct,org.apache.flink.table.runtime.operators.aggregate.window.combines,Factory,5,0,2,2,17,2,0,0,1.0,0,0
+codellama_correct,org.apache.jmeter.gui.util,FilePanel,8,0,13,11,87,18,0,0,0.15384615384615385,0,0
+codellama_correct,org.apache.jmeter.gui.util,FileListPanel,11,0,15,11,122,24,0,0,0.0,0,0
+codellama_correct,org.apache.flink.table.filesystem.stream,AbstractStreamingWriter,58,0,11,10,108,12,0,0,0.36363636363636365,1,1
+codellama_correct,org.apache.flink.table.filesystem.stream,AbstractStreamingWriter,34,0,1,0,37,1,0,0,0.0,0,0
+codellama_correct,org.apache.flink.table.filesystem.stream,was,24,0,1,0,26,1,0,0,-1.0,0,0
+codellama_correct,org.apache.flink.table.filesystem.stream,was,17,0,1,0,18,1,0,0,-1.0,0,0
+codellama_correct,org.apache.flink.table.filesystem.stream,StreamingSink,0,0,3,2,25,4,0,0,-1.0,0,0
+codellama_correct,org.skywalking.apm.collector.client.elasticsearch,ElasticSearchClient,7,0,15,14,90,17,0,0,0.13333333333333333,0,0
+codellama_correct,org.skywalking.apm.collector.client.elasticsearch,AddressPairs,2,0,1,1,8,1,0,0,0.0,0,0
+codellama_correct,org.apache.hadoop.hdfs.server.protocol,BlockStorageMovementCommand,1,0,7,7,25,7,0,1,0.0,0,0
+codellama_correct,org.apache.hadoop.hdfs.server.protocol,BlockMovingInfo,5,0,8,8,35,8,0,0,0.0,0,0
+codellama_correct,org.apache.hadoop.hdfs.server.protocol,DatanodeProtocol,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,org.apache.hadoop.hdfs.server.protocol,DatanodeProtocol,0,0,0,0,5,0,0,0,-1.0,0,0
+codellama_correct,org.apache.hadoop.hdfs.server.protocol,DatanodeCommand,0,0,3,3,38,3,1,0,-1.0,0,0
+codellama_correct,org.apache.jmeter.report,DataSet,0,0,12,0,14,12,0,0,-1.0,0,0
+codellama_correct,org.apache.flink.formats.avro.registry.confluent,DebeziumAvroFormatFactory,1,1,9,9,48,10,0,0,0.8888888888888888,0,0
+codellama_correct,org.apache.flink.formats.parquet,ParquetFileFormatFactory,3,2,11,10,49,11,0,0,0.5454545454545454,2,1
+codellama_correct,org.apache.flink.formats.parquet,ParquetBulkDecodingFormat,1,0,3,3,12,3,0,0,0.6666666666666666,0,1
+codellama_correct,org.apache.flink.connector.jdbc.table,JdbcDynamicTableSource,6,0,11,11,79,17,0,0,0.2727272727272727,1,1
+codellama_correct,org.apache.flink.formats.json.maxwell,MaxwellJsonDecodingFormat,7,0,6,5,40,6,0,0,0.3333333333333333,0,0
+codellama_correct,org.apache.flink.formats.json.canal,CanalJsonDecodingFormat,5,0,5,5,37,5,0,0,0.6,0,0
+codellama_correct,org.apache.flink.connector.hbase.source,AbstractHBaseDynamicTableSource,5,0,9,8,42,9,0,0,0.5555555555555556,0,0
+codellama_correct,org.apache.flink.table.filesystem,TestCsvFileSystemFormatFactory,2,0,14,12,70,17,0,0,0.8571428571428571,2,1
+codellama_correct,org.apache.flink.table.filesystem,CsvBulkWriter,2,0,4,3,15,4,0,0,0.75,0,1
+codellama_correct,org.apache.hadoop.ozone.om,OzoneManager,38,0,0,0,40,0,0,0,-1.0,1,0
+codellama_correct,org.apache.hadoop.ozone.om,OMDBCheckpointServlet,6,0,3,3,89,11,0,0,0.6666666666666666,0,1
+codellama_correct,org.apache.hadoop.ozone.om.protocol,OzoneManagerHAProtocol,0,0,1,0,3,1,0,0,-1.0,0,0
+codellama_correct,org.apache.hadoop.ozone,MiniOzoneCluster,0,0,11,0,70,11,0,0,-1.0,0,0
+codellama_correct,org.apache.hadoop.ozone.om.exceptions,OMException,2,1,6,6,24,6,0,0,0.3333333333333333,0,0
+codellama_correct,org.apache.cassandra.db.virtual,SettingsTable,5,0,8,2,70,15,0,0,0.375,0,0
+codellama_correct,org.apache.flink.streaming.connectors.pulsar.partitioner,PulsarKeyExtractor,1,0,1,0,4,1,0,0,-1.0,0,0
+codellama_correct,org.apache.flink.streaming.connectors.pulsar,PulsarConsumerSource,13,0,13,6,118,23,0,0,0.0,0,0
+codellama_correct,org.apache.hadoop.yarn.conf,TestYarnConfiguration,0,0,2,2,16,2,0,0,-1.0,0,0
+codellama_correct,org.apache.hadoop.yarn.server.webproxy.amfilter,AmFilterInitializer,2,0,1,1,12,1,0,0,0.0,0,0
+codellama_correct,org.apache.druid.storage.google,GoogleTestUtils,2,0,4,4,52,8,0,0,1.0,0,0
+codellama_correct,org.apache.druid.storage.google,GoogleTaskLogs,5,0,12,8,105,17,0,0,0.0,0,0
+codellama_correct,org.apache.hadoop.fs,TestGlobPaths,7,0,5,5,30,6,0,0,0.6,0,0
+codellama_correct,org.apache.hadoop.fs,RegexPathFilter,1,0,2,2,9,2,0,0,0.0,0,0
+codellama_correct,org.apache.hadoop.fs,Globber,5,0,9,3,86,18,0,0,0.3333333333333333,0,0
+codellama_correct,org.apache.jmeter.engine.event,IterationListener,0,0,1,0,3,1,0,0,-1.0,0,0
+codellama_correct,org.apache.hadoop.hdfs,TestDFSPacket,3,0,2,2,30,4,0,0,0.0,1,2
+codellama_correct,org.apache.hadoop.hdfs,DFSPacket,12,0,14,14,100,20,0,0,0.0,1,0
+codellama_correct,org.apache.hadoop.hdfs,HDFSPolicyProvider,1,0,1,1,9,1,0,0,0.0,0,0
+codellama_correct,org.apache.flink.streaming.runtime.io,RecordWriterOutput,6,0,15,12,102,20,0,0,0.13333333333333333,0,0
+codellama_correct,org.apache.flink.streaming.runtime.tasks,OperatorChainTest,4,0,6,6,62,9,0,0,0.6666666666666666,0,1
+codellama_correct,org.apache.flink.streaming.runtime.tasks,ValidatingOperator,4,0,4,4,20,4,0,0,0.75,1,0
+codellama_correct,org.apache.catalina,Loader,0,0,11,0,13,11,0,0,-1.0,2,0
+codellama_correct,org.apache.jmeter.protocol.http.util,HTTPArgument,7,0,14,14,100,22,0,0,0.5714285714285714,1,1
+codellama_correct,org.apache.rocketmq.tools.command.broker,BrokerConsumeStatsSubCommad,1,0,5,4,92,15,0,0,0.8,0,0
+codellama_correct,org.apache.dubbo.rpc,Filter,0,0,4,0,10,4,0,0,-1.0,3,0
+codellama_correct,org.apache.dubbo.rpc,Listener,0,0,2,0,4,2,0,0,-1.0,0,0
+codellama_correct,org.apache.dubbo.rpc.protocol,ProtocolFilterWrapper,1,0,13,12,101,33,0,0,0.6153846153846154,0,1
+codellama_correct,org.apache.dubbo.rpc.protocol,AbstractProxyProtocol,4,0,20,13,117,34,0,0,0.35,0,0
+codellama_correct,org.apache.dubbo.rpc.protocol,ProxyProtocolServer,2,0,6,6,22,6,0,0,0.0,0,0
+codellama_correct,org.apache.dubbo.rpc.protocol,ProtocolFilterWrapper,3,0,19,18,116,31,0,0,0.47368421052631576,0,1
+codellama_correct,org.apache.dubbo.rpc.protocol,CallbackRegistrationInvoker,2,0,6,6,44,10,0,0,0.0,0,1
+codellama_correct,org.apache.jmeter.samplers,SampleSender,0,0,3,0,5,3,0,0,-1.0,0,0
+codellama_correct,org.apache.rocketmq.proxy.grpc.v2.consumer,ReceiveMessageActivity,1,0,3,2,69,10,0,0,0.0,0,1
+codellama_correct,org.apache.rocketmq.proxy.grpc.v2.consumer,ReceiveMessageQueueSelector,0,0,0,0,2,0,0,0,-1.0,0,0
+codellama_correct,org.apache.rocketmq.proxy.grpc.v2.consumer,ReceiveMessageActivity,1,0,2,2,67,10,0,0,1.0,0,1
+codellama_correct,org.apache.pulsar.broker.namespace,OwnedBundle,4,0,6,6,51,8,0,0,0.5,0,0
+codellama_correct,org.apache.hadoop.maven.plugin.util,Exec,1,0,2,2,31,4,0,0,0.0,0,0
+codellama_correct,org.apache.hadoop.maven.plugin.util,OutputBufferThread,2,0,3,3,24,4,0,0,0.0,0,0
+codellama_correct,org.apache.hadoop.yarn.server.nodemanager.containermanager.launcher,ContainersLauncher,6,0,4,2,56,8,0,0,0.5,0,1
+codellama_correct,org.apache.hadoop.yarn.server.nodemanager.containermanager.launcher,RunningContainer,120,0,1,1,126,1,0,0,0.0,1,0
+codellama_correct,com.alibaba.rocketmq.store.index,IndexService,9,0,5,4,103,18,0,0,0.0,0,0
+codellama_correct,io.druid.indexing.common.index,EventReceiver,0,0,1,0,3,1,0,0,-1.0,0,0
+codellama_correct,io.druid.indexing.common.index,EventReceiverFirehoseFactory,10,0,12,12,110,21,0,0,0.25,0,1
+codellama_correct,io.druid.indexing.common.index,EventReceiverFirehose,4,0,7,7,72,14,0,1,0.42857142857142855,1,0
+codellama_correct,io.druid.indexing.common.index,ChatHandler,0,0,0,0,2,0,1,0,-1.0,0,0
+codellama_correct,org.apache.pulsar.common.naming,MetadataTests,0,0,4,2,44,4,0,0,-1.0,1,1
+codellama_correct,org.apache.cassandra.hadoop,BulkOutputFormat,0,0,11,11,33,12,0,0,-1.0,0,0
+codellama_correct,org.apache.cassandra.hadoop,NullOutputCommitter,0,0,6,6,15,6,0,0,-1.0,0,0
+codellama_correct,com.ai.cloud.skywalking.reciever.handler,CollectionServerDataHandler,0,0,2,0,25,6,0,0,-1.0,0,0
+codellama_correct,org.skywalking.apm.agent.core.jvm,JVMService,10,0,6,6,86,12,0,0,0.5,0,1
+codellama_correct,org.skywalking.apm.agent.core.jvm,Sender,2,0,2,2,33,5,0,0,0.0,1,0
+codellama_correct,org.apache.rocketmq.proxy.remoting.activity,SendMessageActivity,1,0,5,2,50,14,0,0,0.0,0,1
+codellama_correct,websocket.drawboard,DrawboardEndpoint,4,0,6,6,53,10,0,0,0.0,0,1
+codellama_correct,websocket.drawboard,Client,7,0,6,4,97,18,0,0,0.3333333333333333,1,0
+codellama_correct,org.apache.skywalking.apm.agent.test.helper,SpanHelper,0,0,7,7,23,7,0,0,-1.0,2,1
+codellama_correct,org.apache.skywalking.apm.agent.test.helper,FieldGetter,0,0,2,2,20,2,0,0,-1.0,1,0
+codellama_correct,org.apache.skywalking.apm.agent.test.helper,KeyValuePair,2,0,3,3,14,3,0,0,0.0,0,0
+codellama_correct,org.apache.skywalking.apm.agent.test.helper,LogDataEntity,2,0,3,3,14,3,0,0,0.0,2,0
+codellama_correct,org.apache.skywalking.apm.agent.test.helper,SpanLayer,2,0,3,3,14,3,0,0,0.0,2,0
+codellama_correct,org.apache.skywalking.apm.agent.test.helper,AbstractSpan,7,0,8,8,39,8,0,0,0.0,0,0
+codellama_correct,org.apache.skywalking.apm.plugin.jedis.v2,JedisMethodInterceptorTest,6,1,8,4,77,8,0,0,0.0,0,3
+codellama_correct,org.apache.skywalking.apm.plugin.jdbc,AbstractStatementTest,0,0,3,0,23,3,0,0,-1.0,0,3
+codellama_correct,org.apache.skywalking.apm.plugin.sofarpc,SofaRpcProviderInterceptorTest,12,2,4,3,43,4,0,0,0.5,0,0
+codellama_correct,org.apache.skywalking.apm.plugin.httpClient.v4,HttpClientExecuteInterceptorTest,10,1,6,6,46,6,0,0,0.8333333333333334,0,0
+codellama_correct,org.apache.skywalking.apm.agent.core.context.trace,ExitSpan,2,0,17,17,106,27,0,0,0.6470588235294118,0,0
+codellama_correct,org.apache.hadoop.mapred.nativetask.nonsorttest,NonSortTestMR,5,0,3,3,30,5,0,0,0.6666666666666666,1,0
+codellama_correct,org.apache.hadoop.mapred.nativetask.nonsorttest,Map,2,0,1,1,12,2,0,0,0.0,0,0
+codellama_correct,org.apache.hadoop.mapred.nativetask.nonsorttest,KeyHashSumReduce,3,0,2,2,16,3,0,0,0.0,0,0
+codellama_correct,org.apache.hadoop.mapred.nativetask.nonsorttest,NonSortTest,0,0,4,3,52,6,0,0,-1.0,0,2
+codellama_correct,org.apache.hadoop.mapred.nativetask.handlers,BufferPushee,9,0,4,3,94,20,0,0,0.0,0,0
+codellama_correct,org.apache.hadoop.mapred.nativetask.handlers,NativeCollectorOnlyHandler,11,0,8,6,84,19,0,0,0.5,2,4
+codellama_correct,org.apache.hadoop.mapred.nativetask.handlers,TestNativeCollectorOnlyHandler,6,0,5,5,57,5,0,0,0.0,0,4
+codellama_correct,org.apache.hadoop.mapred.nativetask.handlers,IDataLoader,0,0,2,0,4,2,0,0,-1.0,0,0
+codellama_correct,org.apache.hadoop.mapred.nativetask.handlers,BufferPuller,13,0,9,8,122,27,0,0,0.2222222222222222,0,0
+codellama_correct,org.apache.hadoop.mapred.nativetask.testutil,TestInput,3,3,2,1,25,3,0,0,0.0,1,2
+codellama_correct,org.apache.hadoop.mapred.nativetask.testutil,KV,2,2,0,0,4,0,0,0,-1.0,1,0
+codellama_correct,org.apache.hadoop.mapred.nativetask.testutil,ResultVerifier,0,0,3,3,111,20,0,0,-1.0,4,1
+codellama_correct,org.apache.hadoop.mapred.nativetask.testutil,EnforceNativeOutputCollectorDelegator,2,0,3,3,21,4,0,0,0.6666666666666666,0,0
+codellama_correct,org.apache.hadoop.mapred.nativetask.combinertest,LargeKVCombinerTest,1,0,3,3,44,4,0,0,1.0,0,2
+codellama_correct,org.apache.hadoop.mapred.nativetask.combinertest,WordCount,4,0,3,3,43,6,0,0,1.0,2,3
+codellama_correct,org.apache.hadoop.mapred.nativetask.combinertest,TokenizerMapper,2,0,1,1,11,2,0,0,0.0,2,0
+codellama_correct,org.apache.hadoop.mapred.nativetask.combinertest,IntSumReducer,1,0,1,1,11,2,0,0,0.0,2,0
+codellama_correct,org.apache.hadoop.mapred.nativetask.combinertest,WordCountWithOldAPI,3,0,2,2,24,4,0,0,1.0,0,0
+codellama_correct,org.apache.hadoop.mapred.nativetask.combinertest,TokenizerMapperWithOldAPI,2,0,1,1,11,2,0,0,0.0,0,0
+codellama_correct,org.apache.hadoop.mapred.nativetask.combinertest,IntSumReducerWithOldAPI,1,0,1,1,11,2,0,0,0.0,0,0
+codellama_correct,org.apache.hadoop.mapred.nativetask.combinertest,CombinerTest,4,0,4,3,56,6,0,0,0.5,2,5
+codellama_correct,org.apache.hadoop.mapred.nativetask.kvtest,KVJob,2,0,4,4,44,6,0,0,0.75,1,1
+codellama_correct,org.apache.hadoop.mapred.nativetask.kvtest,ValueMapper,0,0,1,1,5,1,0,0,-1.0,0,0
+codellama_correct,org.apache.hadoop.mapred.nativetask.kvtest,KVMReducer,0,0,1,1,13,2,0,0,-1.0,0,0
+codellama_correct,org.apache.hadoop.mapred.nativetask.kvtest,HashSumReducer,2,0,1,1,16,3,0,0,0.0,0,0
+codellama_correct,org.apache.hadoop.mapred.nativetask,INativeHandler,0,0,6,0,8,6,1,0,-1.0,2,1
+codellama_correct,org.apache.hadoop.mapred.nativetask,NativeMapOutputCollectorDelegator,61,0,7,6,164,17,0,0,0.0,0,1
+codellama_correct,org.apache.hadoop.mapred.nativetask,NativeBatchProcessor,10,0,21,13,127,31,0,1,0.14285714285714285,1,2
+codellama_correct,org.apache.hadoop.mapred.nativetask,ICombineHandler,0,0,3,0,5,3,0,0,-1.0,2,0
+codellama_correct,org.apache.hadoop.mapred.nativetask,DataReceiver,0,0,1,0,11,1,0,0,-1.0,1,0
+codellama_correct,org.apache.hadoop.mapred.nativetask.util,ReadWriteBuffer,4,0,17,16,102,19,0,0,0.11764705882352941,4,0
+codellama_correct,org.apache.hadoop.mapred.nativetask.compresstest,CompressMapper,0,0,2,2,23,3,0,0,-1.0,1,2
+codellama_correct,org.apache.hadoop.mapred.nativetask.compresstest,TextCompressMapper,0,0,1,1,5,1,0,0,-1.0,1,0
+codellama_correct,org.apache.druid.utils,JvmUtils,3,0,6,5,35,7,0,0,0.6666666666666666,1,1
+codellama_correct,org.apache.rocketmq.tools.command.consumer,ConsumerStatusSubCommand,0,0,5,5,85,13,0,0,-1.0,0,0
+codellama_correct,org.apache.rocketmq.example.filter,SqlConsumer,0,0,2,2,27,2,0,0,-1.0,0,0
+codellama_correct,org.apache.rocketmq.filtersrv,FiltersrvStartup,1,1,5,5,101,14,0,0,0.4,1,1
+codellama_correct,org.apache.rocketmq.tools.command.message,PrintMessageSubCommand,0,0,6,4,102,15,0,0,-1.0,1,1
+codellama_correct,org.apache.catalina.ssi,SSICommand,0,0,1,0,3,1,1,0,-1.0,0,0
+codellama_correct,org.apache.catalina.ssi,ResponseIncludeWrapper,9,0,12,12,113,28,0,0,0.16666666666666666,0,0
+codellama_correct,org.apache.catalina.ssi,SSIPrintenv,0,0,1,1,24,4,0,1,-1.0,0,0
+codellama_correct,org.apache.catalina.tribes.transport.bio,BioReplicationTask,3,0,7,4,97,18,0,0,0.2857142857142857,0,1
+codellama_correct,org.apache.jmeter.engine,StandardJMeterEngine,12,0,13,9,94,21,0,0,0.38461538461538464,1,2
+codellama_correct,org.apache.jmeter.save,DataSource,8,8,5,5,15,5,0,0,-1.0,0,0
+codellama_correct,org.apache.dubbo.rpc.support,RpcUtils,2,0,10,9,107,26,0,0,0.5,2,1
+codellama_correct,io.druid.server.initialization,IndexerZkConfigTest,6,0,5,3,51,14,0,0,0.4,0,0
+codellama_correct,org.apache.pulsar.functions.source,TopicSchema,4,0,10,5,113,28,0,0,0.4,1,1
+codellama_correct,org.apache.pulsar.client.impl.schema,KeyValueSchemaTest,0,0,4,4,76,4,0,0,-1.0,0,0
+codellama_correct,io.druid.query,MetricsEmittingQueryRunner,18,0,9,8,116,18,0,0,0.4444444444444444,0,0
+codellama_correct,com.alibaba.rocketmq.example.notify,Consumer,0,0,2,2,15,2,0,0,-1.0,0,0
+codellama_correct,com.alibaba.rocketmq.broker.subscription,SubscriptionGroupManager,4,0,13,11,86,20,0,0,0.15384615384615385,1,1
+codellama_correct,com.alibaba.rocketmq.filtersrv,FiltersrvController,8,0,18,17,82,18,0,0,0.1111111111111111,1,0
+codellama_correct,org.apache.rocketmq.store.config,MessageStoreConfig,43,0,0,0,48,0,0,0,-1.0,5,1
+codellama_correct,org.apache.pulsar.tests.integration.messaging,PersistentTopicMessagingTest,0,0,8,8,26,8,0,0,-1.0,0,0
+codellama_correct,org.apache.rocketmq.logging.inner,LoggingBuilder,13,5,12,11,103,14,0,0,0.4166666666666667,0,1
+codellama_correct,org.apache.rocketmq.logging.inner,AppenderBuilder,2,0,9,8,76,11,0,0,0.2222222222222222,0,1
+codellama_correct,org.apache.rocketmq.logging.inner,AsyncAppender,7,1,2,2,18,2,0,0,1.0,2,0
+codellama_correct,org.apache.flink.runtime.io.network.api.writer,BroadcastRecordWriter,64,0,11,10,137,19,0,0,0.18181818181818182,0,0
+codellama_correct,org.apache.flink.runtime.io.network.api.writer,name,57,0,0,0,59,0,0,0,-1.0,0,0
+codellama_correct,org.apache.flink.runtime.io.network.api.writer,RecordWriterDelegateTest,4,0,10,6,82,15,0,0,0.2,0,0
+codellama_correct,org.apache.flink.runtime.io.network.partition.consumer,StreamTestSingleInputGate,5,0,5,4,84,11,0,0,0.0,0,0
+codellama_correct,org.apache.flink.runtime.taskmanager,ConsumableNotifyingResultPartitionWriterDecorator,5,0,20,18,100,25,0,0,0.0,0,0
+codellama_correct,org.apache.cassandra.avro,RecordFactory,0,0,7,0,37,7,0,0,-1.0,1,1
+codellama_correct,org.apache.cassandra.avro,ErrorFactory,0,0,8,0,34,8,0,0,-1.0,1,1
+codellama_correct,org.apache.cassandra.avro,AvroValidation,0,0,7,5,97,30,0,0,-1.0,1,1
+codellama_correct,org.apache.hadoop.hdfs.inotify,RenamedEvent,2,0,3,3,15,3,0,1,0.0,0,0
+codellama_correct,org.apache.hadoop.hdfs.inotify,UnlinkEvent,2,0,2,2,11,2,0,1,0.0,0,0
+codellama_correct,org.apache.hadoop.hdfs.inotify,Event,24,0,22,22,121,22,5,0,0.13636363636363635,0,1
+codellama_correct,org.apache.hadoop.hdfs.inotify,Builder,1,0,2,2,8,2,0,0,1.0,3,0
+codellama_correct,org.apache.hadoop.hdfs.inotify,CloseEvent,3,0,4,4,20,4,0,1,0.0,0,0
+codellama_correct,org.apache.hadoop.hdfs.inotify,CreateEvent,8,0,9,9,45,9,0,1,0.0,0,1
+codellama_correct,org.apache.hadoop.hdfs.inotify,MetadataUpdateEvent,11,0,6,6,42,6,0,1,0.0,0,1
+codellama_correct,org.apache.hadoop.security,TestUGIWithMiniKdc,1,0,4,3,76,10,0,0,0.5,0,0
+codellama_correct,com.ai.cloud.skywalking.web.bo,TraceTreeInfo,4,0,9,9,34,9,0,0,0.3333333333333333,0,0
+codellama_correct,org.apache.tomcat.util.net.jsse,JSSEFactory,0,0,2,2,8,2,0,0,-1.0,0,0
+codellama_correct,org.apache.tomcat.util.net.jsse,JSSESupport,4,0,10,7,144,32,0,0,0.0,0,1
+codellama_correct,org.apache.tomcat.util.net.jsse,Listener,1,0,2,1,9,2,0,0,0.0,1,0
+codellama_correct,org.apache.dubbo.rpc.cluster.directory,StaticDirectoryTest,1,0,2,1,26,2,0,0,0.0,0,0
+codellama_correct,org.apache.dubbo.rpc.cluster.directory,AbstractDirectory,5,0,13,11,62,16,0,0,0.0,0,0
+codellama_correct,org.apache.dubbo.rpc.cluster.configurator.parser,ConfigParserTest,0,0,10,9,100,10,0,0,-1.0,0,0
+codellama_correct,org.apache.dubbo.rpc.cluster.router.file,FileRouterFactory,2,1,2,2,27,4,0,0,0.0,0,0
+codellama_correct,org.apache.dubbo.rpc.cluster.support,FailbackClusterInvoker,12,0,7,3,98,15,0,0,0.0,0,1
+codellama_correct,org.apache.dubbo.rpc.cluster.support,RetryTimerTask,7,0,3,1,43,6,0,0,0.0,1,0
+codellama_correct,org.apache.druid.sql.calcite.parser,DruidSqlParserUtils,1,0,2,0,48,5,0,0,0.0,1,1
+codellama_correct,org.apache.dubbo.spring.boot.context.event,AwaitingNonWebApplicationListener,8,0,13,5,104,25,0,0,0.38461538461538464,1,1
+codellama_correct,com.ai.cloud.skywalking.context,Span,13,0,28,28,146,35,0,0,0.0,2,0
+codellama_correct,com.ai.cloud.skywalking.reciever.storage.chain,SaveToHBaseChain,3,0,4,3,59,8,0,0,0.0,1,1
+codellama_correct,com.ai.cloud.skywalking.reciever.persistance,PersistenceThread,32,0,3,1,141,19,0,0,0.0,0,1
+codellama_correct,com.ai.cloud.skywalking.util,ExceptionHandleUtil,0,0,2,1,31,4,0,0,-1.0,1,2
+codellama_correct,com.ai.cloud.skywalking.api,BusinessKeyAppender,1,0,2,1,13,4,0,0,1.0,0,1
+codellama_correct,org.apache.flink.streaming.util,MockStreamTask,11,0,17,15,74,17,0,0,0.29411764705882354,0,0
+codellama_correct,com.yahoo.pulsar.admin.cli,CmdClusters,12,0,6,6,50,6,0,0,0.6666666666666666,0,0
+codellama_correct,com.yahoo.pulsar.admin.cli,Get,0,0,1,1,5,1,0,0,-1.0,0,0
+codellama_correct,com.yahoo.pulsar.admin.cli,Create,5,0,1,1,11,1,0,0,0.0,0,0
+codellama_correct,com.yahoo.pulsar.admin.cli,Update,5,0,1,1,11,1,0,0,0.0,0,0
+codellama_correct,com.yahoo.pulsar.admin.cli,Delete,1,0,1,1,7,1,0,0,0.0,0,0
+codellama_correct,com.yahoo.pulsar.admin.cli,List,0,0,1,1,5,1,0,0,-1.0,5,0
+codellama_correct,com.yahoo.pulsar.admin.cli,CmdBrokers,5,0,6,0,42,6,0,0,0.8333333333333334,0,0
+codellama_correct,com.yahoo.pulsar.admin.cli,List,1,0,1,0,7,1,0,0,0.0,0,0
+codellama_correct,com.yahoo.pulsar.admin.cli,Namespaces,2,0,1,0,8,1,0,0,0.0,0,0
+codellama_correct,com.yahoo.pulsar.admin.cli,UpdateConfigurationCmd,2,0,1,0,7,1,0,0,0.0,0,0
+codellama_correct,com.yahoo.pulsar.admin.cli,GetAllConfigurationsCmd,0,0,1,0,5,1,0,0,-1.0,0,0
+codellama_correct,com.yahoo.pulsar.admin.cli,GetUpdatableConfigCmd,0,0,1,0,5,1,0,0,-1.0,0,0
+codellama_correct,com.yahoo.pulsar.admin.cli,CmdNamespaceIsolationPolicy,9,0,6,0,50,8,0,0,0.3333333333333333,0,1
+codellama_correct,com.yahoo.pulsar.admin.cli,SetPolicy,6,0,1,0,14,1,0,0,0.0,0,1
+codellama_correct,com.yahoo.pulsar.admin.cli,GetAllPolicies,1,0,1,0,8,1,0,0,0.0,0,1
+codellama_correct,com.yahoo.pulsar.admin.cli,GetPolicy,1,0,1,0,9,1,0,0,0.0,0,1
+codellama_correct,com.yahoo.pulsar.admin.cli,DeletePolicy,1,0,1,0,8,1,0,0,0.0,0,1
+codellama_correct,com.yahoo.pulsar.admin.cli,PulsarAdminTool,3,0,5,1,94,11,0,0,0.0,1,1
+codellama_correct,has,MessageStore,0,0,36,0,38,36,0,0,-1.0,0,0
+codellama_correct,has,has,76,0,1,0,82,1,0,0,-1.0,0,0
+codellama_correct,has,has,4,0,0,0,6,0,0,0,-1.0,0,0
+codellama_correct,com.alibaba.rocketmq.broker.plugin,AbstractPluginMessageStore,2,0,37,37,116,37,0,0,0.0,0,0
+codellama_correct,org.apache.cassandra.triggers,TriggerExecutor,4,0,6,2,65,21,0,0,0.0,1,1
+codellama_correct,org.apache.cassandra.triggers,TriggersTest,4,0,9,7,73,12,0,0,0.0,0,3
+codellama_correct,org.apache.cassandra.triggers,TestTrigger,0,0,1,1,9,1,0,0,-1.0,1,1
+codellama_correct,org.apache.dubbo.spring.boot.actuate.autoconfigure,DubboMetricsAutoConfiguration,0,0,1,1,5,1,0,0,-1.0,0,0
+codellama_correct,org.apache.dubbo.metrics,AbstractMetricsReporter,9,0,10,2,95,20,0,0,0.0,0,0
+codellama_correct,org.apache.cassandra.io,RandomAccessReaderTest,0,0,6,5,106,12,0,0,-1.0,0,1
+codellama_correct,org.apache.jmeter.timers,GaussianRandomTimer,0,0,3,3,10,3,0,1,-1.0,0,0
+codellama_correct,org.apache.jmeter.timers,ConstantThroughputTimer,10,0,16,11,101,22,0,0,0.3125,0,2
+codellama_correct,org.apache.jmeter.timers,ThroughputInfo,2,0,0,0,4,0,0,0,-1.0,1,0
+codellama_correct,org.apache.jmeter.timers,BeanShellTimerBeanInfo,0,0,1,1,5,1,0,0,-1.0,0,0
+codellama_correct,org.apache.jmeter.timers,UniformRandomTimer,0,0,3,3,10,3,0,1,-1.0,0,0
+codellama_correct,org.apache.jmeter.timers,SyncTimerBeanInfo,0,0,1,1,9,1,0,0,-1.0,0,0
+codellama_correct,org.apache.jmeter.timers,RandomTimer,3,1,4,4,17,4,2,0,0.5,0,0
+codellama_correct,org.apache.jmeter.control.gui,RandomControlGui,2,0,7,6,44,9,0,0,0.2857142857142857,0,0
+codellama_correct,org.apache.jmeter.control.gui,ThroughputControllerGui,10,0,9,8,105,15,0,0,0.2222222222222222,0,1
+codellama_correct,org.apache.jmeter.config,CSVDataSet,56,0,0,0,58,0,0,0,-1.0,0,0
+codellama_correct,org.apache.jmeter.sampler,DebugSamplerBeanInfo,0,0,1,1,8,1,0,0,-1.0,0,0
+codellama_correct,org.apache.jmeter.modifiers,BeanShellPreProcessor,3,0,2,1,29,3,0,0,1.0,0,0
+codellama_correct,org.apache.jmeter.modifiers,BSFPreProcessorBeanInfo,0,0,1,1,5,1,0,0,-1.0,0,0
+codellama_correct,org.apache.jmeter.modifiers,BeanShellPreProcessorBeanInfo,0,0,1,1,5,1,0,0,-1.0,0,0
+codellama_correct,org.apache.jmeter.modifiers,CounterConfig,9,2,24,21,115,27,0,0,0.0,0,0
+codellama_correct,org.apache.jmeter.sampler.gui,TestActionGui,7,0,12,11,126,20,0,0,0.25,0,0
+codellama_correct,org.apache.jmeter.reporters,MailerModel,16,0,7,7,59,11,0,0,0.7142857142857143,1,1
+codellama_correct,org.apache.cassandra.io.sstable,SSTableLoaderTest,9,5,6,6,40,7,0,0,0.5,0,1
+codellama_correct,org.apache.cassandra.io.sstable,TestClient,1,0,2,2,10,3,0,0,0.0,0,1
+codellama_correct,org.apache.skywalking.apm.collector.storage.table.alarm,InstanceAlarmList,5,0,18,18,63,18,0,1,0.8888888888888888,0,2
+codellama_correct,org.apache.skywalking.apm.collector.storage.table.alarm,InstanceCreator,0,0,1,1,5,1,0,1,-1.0,0,1
+codellama_correct,org.apache.skywalking.apm.collector.storage.table.alarm,Column,2,0,3,2,14,3,0,0,0.0,0,0
+codellama_correct,org.apache.skywalking.apm.collector.storage.table.alarm,InstanceAlarmListTable,7,7,0,0,9,0,0,0,-1.0,1,0
+codellama_correct,org.apache.skywalking.apm.collector.storage.table.alarm,RemoteDataRegisterService,0,0,1,0,5,1,0,0,-1.0,2,0
+codellama_correct,org.apache.skywalking.apm.collector.storage.table.alarm,RemoteDataInstanceCreator,0,0,1,0,3,1,1,0,-1.0,0,0
+codellama_correct,org.apache.skywalking.apm.collector.storage.table.alarm,StreamData,2,0,11,10,41,12,1,0,0.0,0,0
+codellama_correct,org.apache.skywalking.apm.collector.storage.table.alarm,NonMergeOperation,0,0,1,1,4,1,0,1,-1.0,0,0
+codellama_correct,org.apache.skywalking.apm.collector.storage.table.alarm,CoverMergeOperation,0,0,1,1,4,1,0,1,-1.0,0,0
+codellama_correct,org.apache.skywalking.apm.collector.storage.table.alarm,Operation,0,0,1,0,3,1,2,0,-1.0,0,0
+codellama_correct,org.apache.skywalking.apm.collector.storage.table.alarm,RemoteData,2,0,11,10,41,12,0,0,0.0,0,0
+codellama_correct,org.apache.skywalking.apm.collector.storage.table.alarm,RemoteDataRegisterService,0,0,1,0,5,1,0,0,-1.0,0,0
+codellama_correct,org.apache.skywalking.apm.collector.storage.table.alarm,RemoteDataInstanceCreator,0,0,1,0,3,1,0,0,-1.0,0,0
+codellama_correct,org.apache.hadoop.yarn.api.records.impl.pb,ResourcePBImpl,4,0,17,11,99,25,0,0,0.11764705882352941,0,0
+codellama_correct,org.apache.dubbo.remoting.transport.netty4,ClientReconnectTest,1,0,8,8,42,10,0,0,0.625,0,0
+codellama_correct,org.apache.dubbo.remoting.transport.netty4,HandlerAdapter,0,0,3,3,8,3,0,0,-1.0,0,0
+codellama_correct,org.apache.flink.connector.jdbc.xa,SemanticXidGenerator,7,0,4,2,31,5,0,0,0.0,1,1
+codellama_correct,org.apache.naming.resources,TestNamingContext,2,0,6,4,87,9,0,0,0.6666666666666666,0,1
+codellama_correct,org.apache.naming.resources,Bug4994Servlet,1,0,1,0,21,2,0,0,0.0,0,0
+codellama_correct,org.apache.naming.resources,Bug23950Servlet,1,0,1,0,18,2,0,0,0.0,1,0
+codellama_correct,org.apache.druid.compressedbigdecimal,Utils,2,0,9,8,45,11,0,0,0.7777777777777778,0,2
+codellama_correct,org.apache.druid.compressedbigdecimal,BufferAccessor,2,0,4,3,20,4,0,0,0.5,2,1
+codellama_correct,org.apache.druid.compressedbigdecimal,CompressedBigDecimalAggregatorFactory,4,0,8,8,53,13,0,0,0.375,1,0
+codellama_correct,org.apache.druid.compressedbigdecimal,ByteBufferCompressedBigDecimal,3,0,6,4,35,8,0,0,0.0,1,1
+codellama_correct,org.apache.druid.compressedbigdecimal,CompressedBigDecimalObjectStrategy,0,0,4,4,27,5,0,0,-1.0,0,0
+codellama_correct,org.apache.druid.compressedbigdecimal,CompressedBigDecimalJsonSerializer,0,0,1,1,8,1,0,0,-1.0,0,0
+codellama_correct,org.apache.rocketmq.store.index,IndexFileTest,2,0,2,2,28,4,0,0,0.0,0,0
+codellama_correct,org.apache.cassandra.distributed.upgrade,UpgradeTestBase,10,0,13,12,88,24,0,0,0.15384615384615385,2,1
+codellama_correct,org.apache.cassandra.distributed.upgrade,TestVersions,2,0,1,1,8,1,0,0,0.0,0,0
+codellama_correct,org.apache.cassandra.distributed.upgrade,TestCase,7,0,11,11,74,22,0,0,0.18181818181818182,0,1
+codellama_correct,org.apache.hadoop.yarn.server.federation.store.records.impl.pb,SubClusterInfoPBImpl,4,0,18,15,109,28,0,0,0.1111111111111111,0,0
+codellama_correct,org.apache.hadoop.yarn.server.federation.store.records.impl.pb,RouterMasterKeyResponsePBImpl,4,0,13,8,79,21,0,0,0.0,0,0
+codellama_correct,org.apache.hadoop.yarn.server.federation.store.records.impl.pb,ApplicationHomeSubClusterPBImpl,5,0,19,12,109,30,0,0,0.2631578947368421,0,0
+codellama_correct,org.apache.hadoop.yarn.server.federation.store.records.impl.pb,GetReservationsHomeSubClusterResponsePBImpl,7,0,19,12,113,28,0,0,0.10526315789473684,0,0
+codellama_correct,org.apache.hadoop.yarn.server.federation.store.records.impl.pb,SubClusterHeartbeatRequestPBImpl,4,0,21,14,118,32,0,0,0.14285714285714285,0,0
+codellama_correct,org.apache.hadoop.yarn.server.federation.store.records.impl.pb,ReservationHomeSubClusterPBImpl,5,0,17,10,104,28,0,0,0.17647058823529413,0,0
+codellama_correct,org.apache.hadoop.yarn.server.federation.policies.amrmproxy,TestHomeAMRMProxyPolicy,3,0,3,3,39,4,0,0,1.0,0,0
+codellama_correct,org.apache.hadoop.yarn.server.federation.policies.amrmproxy,TestRejectAMRMProxyPolicy,0,0,2,2,19,3,0,0,-1.0,0,0
+codellama_correct,org.apache.hadoop.yarn.server.federation.policies.router,TestPriorityRouterPolicy,5,0,4,3,56,9,0,0,0.0,0,0
+codellama_correct,org.apache.druid.segment.generator,DataGenerator,11,0,10,8,91,17,0,0,0.2,5,0
+codellama_correct,org.apache.druid.segment.generator,DataGeneratorTest,0,0,3,3,40,6,0,0,-1.0,0,1
+codellama_correct,org.apache.druid.segment.incremental,IncrementalIndexRowCompTest,2,1,4,3,44,5,0,0,0.75,0,1
+codellama_correct,org.apache.druid.segment.incremental,IncrementalIndexAdapter,3,0,13,11,54,15,0,0,0.15384615384615385,0,0
+codellama_correct,org.apache.druid.segment.incremental,DimensionAccessor,3,0,3,3,28,6,0,0,0.0,0,0
+codellama_correct,org.apache.druid.segment.incremental,MutableBitmapValues,1,0,3,3,12,3,0,0,0.0,0,0
+codellama_correct,org.apache.druid.segment.incremental,IncrementalIndexCreator,6,0,9,8,60,13,0,0,0.2222222222222222,6,1
+codellama_correct,org.apache.druid.segment.incremental,IncrementalIndexIngestionTest,4,2,5,5,29,8,0,0,1.0,0,1
+codellama_correct,org.apache.druid.segment.incremental,IncrementalIndexColumnSelectorFactory,5,0,5,4,63,14,0,0,0.0,0,0
+codellama_correct,org.apache.druid.benchmark,IncrementalIndexRowTypeBenchmark,8,0,8,8,58,14,0,0,0.0,0,1
+codellama_correct,org.apache.jmeter.resources,PackageTest,3,0,15,10,128,28,0,0,0.2,0,0
+codellama_correct,org.apache.hadoop.yarn.util,WindowsBasedProcessTree,4,0,11,9,125,26,1,0,0.2727272727272727,1,0
+codellama_correct,org.apache.hadoop.yarn.util,TestProcfsBasedProcessTree,7,0,4,3,50,6,0,0,0.75,0,0
+codellama_correct,org.apache.hadoop.yarn.util,RogueTaskThread,0,0,1,1,24,2,0,0,-1.0,0,0
+codellama_correct,org.apache.hadoop.yarn.util,TestWindowsBasedProcessTree,2,0,3,2,41,4,0,0,0.6666666666666666,0,1
+codellama_correct,org.apache.hadoop.yarn.util,WindowsBasedProcessTreeTester,1,0,2,1,9,2,0,1,1.0,0,0
+codellama_correct,org.apache.hadoop.yarn.server.nodemanager.containermanager.monitor,ContainerMetrics,23,0,5,1,50,5,0,0,0.0,1,1
+codellama_correct,com.yahoo.pulsar.client.impl,HttpClient,5,0,7,6,100,13,0,0,0.42857142857142855,1,2
+codellama_correct,com.yahoo.pulsar.common.util,SecurityUtility,0,0,5,5,77,11,0,0,-1.0,2,1
+codellama_correct,org.apache.cassandra.concurrent,StageManager,2,0,4,2,32,5,0,0,0.5,0,0
+codellama_correct,org.apache.cassandra.concurrent,DebuggableThreadPoolExecutor,1,0,3,3,43,13,0,0,1.0,1,0
+codellama_correct,org.apache.cassandra.concurrent,DebuggableThreadPoolExecutorTest,0,0,2,2,20,4,0,0,-1.0,0,1
+codellama_correct,org.apache.cassandra.concurrent,JMXConfigurableThreadPoolExecutor,0,0,1,1,5,1,0,0,-1.0,0,0
+codellama_correct,org.apache.tomcat.util.bcel.classfile,ConstantInteger,1,0,2,2,10,2,0,0,0.0,0,0
+codellama_correct,org.apache.tomcat.util.bcel.classfile,ConstantDouble,1,0,2,1,10,2,0,0,0.0,0,0
+codellama_correct,org.apache.tomcat.util.bcel.classfile,ConstantFloat,1,0,2,1,10,2,0,0,0.0,0,0
+codellama_correct,org.apache.tomcat.util.bcel.classfile,ConstantLong,1,0,2,1,10,2,0,0,0.0,0,0
+codellama_correct,org.apache.tomcat.util.buf,UriUtil,7,0,11,9,99,19,0,0,0.5454545454545454,1,1
+codellama_correct,org.apache.cassandra.transport,ProtocolErrorTest,0,0,5,4,57,5,0,0,-1.0,0,0
+codellama_correct,org.apache.catalina.authenticator,SpnegoAuthenticator,4,0,9,7,71,19,0,0,0.6666666666666666,0,0
+codellama_correct,org.apache.rocketmq.store.queue,RocksDBConsumeQueue,5,0,18,18,70,18,0,1,0.8888888888888888,0,1
+codellama_correct,org.apache.rocketmq.store.queue,ConsumeQueueInterface,0,0,25,0,27,25,1,0,-1.0,1,0
+codellama_correct,org.apache.rocketmq.store.queue,MultiDispatch,0,0,4,3,40,10,0,0,-1.0,2,2
+codellama_correct,org.apache.rocketmq.store.queue,ConsumeQueueStoreInterface,3,0,36,0,41,36,0,0,-1.0,0,2
+codellama_correct,org.apache.rocketmq.store.queue,ConsumeQueueStoreInterface,3,0,36,0,41,36,0,0,-1.0,0,0
+codellama_correct,org.apache.flink.table.expressions,ApiExpressionUtils,0,0,13,12,65,19,0,0,-1.0,1,1
+codellama_correct,org.apache.flink.connector.datagen.table,SequenceGeneratorVisitor,7,0,13,12,64,13,0,0,0.23076923076923078,1,1
+codellama_correct,org.apache.skywalking.oap.server.storage.plugin.influxdb.query,TopNRecordsQuery,3,0,2,2,39,6,0,0,0.0,0,0
+codellama_correct,org.apache.hadoop.security.token.delegation,AbstractDelegationTokenIdentifier,7,0,18,18,91,22,0,0,0.16666666666666666,1,1
+codellama_correct,org.apache.flink.runtime.shuffle,ShuffleEnvironment,0,0,4,0,32,4,0,0,-1.0,0,0
+codellama_correct,org.apache.flink.runtime.io.network,NettyShuffleServiceFactory,122,0,4,2,171,4,0,0,0.5,1,1
+codellama_correct,org.apache.flink.runtime.io.network,has,110,0,0,0,129,0,0,0,-1.0,0,0
+codellama_correct,org.apache.flink.runtime.io.network,has,46,0,0,0,67,0,0,0,-1.0,0,0
+codellama_correct,org.apache.flink.runtime.io.network,has,38,0,0,0,57,0,0,0,-1.0,0,0
+codellama_correct,org.apache.flink.runtime.io.network,has,35,0,0,0,52,0,0,0,-1.0,0,0
+codellama_correct,org.apache.flink.runtime.io.network,has,32,0,0,0,47,0,0,0,-1.0,0,0
+codellama_correct,org.apache.flink.runtime.io.network,has,29,0,0,0,42,0,0,0,-1.0,0,0
+codellama_correct,org.apache.flink.runtime.io.network,has,26,0,0,0,37,0,0,0,-1.0,0,0
+codellama_correct,org.apache.flink.runtime.io.network,has,23,0,0,0,32,0,0,0,-1.0,0,0
+codellama_correct,org.apache.flink.runtime.io.network,has,20,0,0,0,27,0,0,0,-1.0,0,0
+codellama_correct,org.apache.flink.runtime.io.network,has,17,0,0,0,22,0,0,0,-1.0,0,0
+codellama_correct,org.apache.flink.runtime.io.network,has,14,0,0,0,17,0,0,0,-1.0,0,0
+codellama_correct,org.apache.flink.runtime.io.network,has,11,0,0,0,12,0,0,0,-1.0,0,0
+codellama_correct,com.a.eye.skywalking.storage.data.index.operator,Executor,0,0,1,0,3,1,0,0,-1.0,1,1
+codellama_correct,com.a.eye.skywalking.storage.data.index.operator,IndexOperator,2,0,3,3,15,4,1,0,0.6666666666666666,2,1
+codellama_correct,com.a.eye.skywalking.storage.data.index.operator,IndexOperatorFactory,0,0,1,1,5,1,0,0,-1.0,2,0
+codellama_correct,com.a.eye.skywalking.storage.data.index.operator,IndexOperatorTest,1,0,2,2,15,2,0,0,1.0,0,2
+codellama_correct,com.a.eye.skywalking.storage.data.index.operator,Executor,0,0,1,0,3,1,0,0,-1.0,0,0
+codellama_correct,com.a.eye.skywalking.storage.data.index.operator,IndexOperator,2,0,3,3,15,4,0,0,0.6666666666666666,0,0
+codellama_correct,com.a.eye.skywalking.storage.data.index.operator,IndexOperatorFactory,0,0,1,1,5,1,0,0,-1.0,0,0
+codellama_correct,com.a.eye.skywalking.storage.data.index.operator,IndexOperatorTest,37,0,2,2,59,2,0,0,1.0,0,1
+codellama_correct,com.a.eye.skywalking.storage.data.index.operator,to,30,0,0,0,38,0,0,0,-1.0,0,0
+codellama_correct,com.a.eye.skywalking.storage.data.index.operator,to,22,0,0,0,28,0,0,0,-1.0,0,0
+codellama_correct,com.a.eye.skywalking.storage.data.index.operator,to,17,0,0,0,21,0,0,0,-1.0,0,0
+codellama_correct,com.a.eye.skywalking.storage.data.index.operator,to,13,0,0,0,15,0,0,0,-1.0,0,0
+codellama_correct,com.a.eye.skywalking.storage.data.index.operator,IndexOperatorImpl,2,0,4,3,30,6,0,1,0.5,0,1
+codellama_correct,com.a.eye.skywalking.storage.data.index.operator,IndexOperator,0,0,2,0,4,2,0,0,-1.0,0,0
+codellama_correct,com.a.eye.skywalking.storage,Main,3,0,4,1,60,6,0,0,0.0,1,1
+codellama_correct,org.apache.cassandra.hints,HintsWriter,55,0,12,9,123,14,0,0,0.16666666666666666,4,1
+codellama_correct,org.apache.cassandra.hints,HintsStore,10,0,11,0,67,13,0,0,0.18181818181818182,1,3
+codellama_correct,org.apache.cassandra.hints,HintsWriteThenReadTest,3,0,11,1,91,16,0,0,0.0,1,3
+codellama_correct,org.apache.cassandra.hints,HintsDescriptor,4,0,16,12,164,31,0,0,0.5,6,2
+codellama_correct,org.apache.cassandra.hints,AlteredHints,2,0,7,2,72,13,0,0,0.2857142857142857,1,3
+codellama_correct,org.apache.cassandra.hints,HintsCatalogTest,5,0,6,4,80,6,0,0,0.6666666666666666,1,3
+codellama_correct,org.apache.hadoop.yarn.server.resourcemanager.scheduler.fair,QueuePlacementRule,1,0,11,7,87,16,3,0,0.5454545454545454,0,0
+codellama_correct,org.apache.hadoop.yarn.server.resourcemanager.scheduler.fair,User,0,0,2,1,8,2,0,1,-1.0,0,0
+codellama_correct,org.apache.hadoop.yarn.server.resourcemanager.scheduler.fair,PrimaryGroup,0,0,2,1,8,2,0,1,-1.0,0,0
+codellama_correct,org.apache.hadoop.yarn.server.resourcemanager.scheduler.fair,SecondaryGroupExistingQueue,0,0,2,1,15,4,0,1,-1.0,0,0
+codellama_correct,org.apache.dubbo.rpc.protocol.grpc.interceptors,GrpcConfigurator,0,0,3,0,5,3,0,0,-1.0,0,0
+codellama_correct,org.apache.dubbo.rpc.protocol.grpc,GrpcProtocol,6,1,15,13,99,17,0,0,0.3333333333333333,0,1
+codellama_correct,org.apache.dubbo.rpc.protocol.grpc,GrpcRemotingServer,2,0,4,4,17,4,0,0,0.0,1,0
+codellama_correct,org.apache.dubbo.rpc.protocol.grpc,GrpcServerProxyInvoker,1,0,6,6,29,7,0,0,0.0,0,0

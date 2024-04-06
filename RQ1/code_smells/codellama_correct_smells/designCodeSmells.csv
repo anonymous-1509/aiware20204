@@ -1,0 +1,1986 @@
+Project Name,Package Name,Type Name,Code Smell
+codellama_correct,(default package),Connector,Unutilized Abstraction
+codellama_correct,(default package),StorageService,Deficient Encapsulation
+codellama_correct,(default package),FunctionParser,Unutilized Abstraction
+codellama_correct,(default package),JDBCSampler,Multifaceted Abstraction
+codellama_correct,(default package),PoolConfigGui,Unutilized Abstraction
+codellama_correct,(default package),ConcurrentOpenHashMap,Unutilized Abstraction
+codellama_correct,(default package),Section,Unnecessary Abstraction
+codellama_correct,(default package),Section,Unutilized Abstraction
+codellama_correct,(default package),MessageStoreConfig,Broken Modularization
+codellama_correct,(default package),BrokerOuterAPI,Unutilized Abstraction
+codellama_correct,(default package),DefaultMQPushConsumer,Deficient Encapsulation
+codellama_correct,(default package),StatsBenchmarkConsumer,Unutilized Abstraction
+codellama_correct,(default package),AbstractUnfilteredRowIterator,Unutilized Abstraction
+codellama_correct,(default package),RowAndDeletionMergeIterator,Unutilized Abstraction
+codellama_correct,(default package),IFailureDetectionEventListener,Unutilized Abstraction
+codellama_correct,(default package),IEndpointStateChangeSubscriber,Unutilized Abstraction
+codellama_correct,(default package),GossipDigest,Unutilized Abstraction
+codellama_correct,(default package),GossipDigestSyn,Unutilized Abstraction
+codellama_correct,(default package),GossipTask,Unutilized Abstraction
+codellama_correct,(default package),DebuggableScheduledThreadPoolExecutor,Unutilized Abstraction
+codellama_correct,(default package),GossiperMBean,Unutilized Abstraction
+codellama_correct,(default package),ServiceConfig,Unutilized Abstraction
+codellama_correct,(default package),WebServer,Unutilized Abstraction
+codellama_correct,(default package),ProxyRolesEnforcementTest,Unutilized Abstraction
+codellama_correct,(default package),ProxyAuthenticationTest,Unutilized Abstraction
+codellama_correct,(default package),BasicAuthenticationData,Unutilized Abstraction
+codellama_correct,(default package),StreamInSession,Unutilized Abstraction
+codellama_correct,(default package),has,Broken Modularization
+codellama_correct,(default package),StreamOutSession,Unutilized Abstraction
+codellama_correct,(default package),RemoveTest,Unutilized Abstraction
+codellama_correct,(default package),RemoveTest,Deficient Encapsulation
+codellama_correct,(default package),ReplicationSink,Unutilized Abstraction
+codellama_correct,(default package),NotificationSink,Unutilized Abstraction
+codellama_correct,(default package),NotificationSink,Deficient Encapsulation
+codellama_correct,(default package),GossipTask,Unutilized Abstraction
+codellama_correct,(default package),CassandraServer,Unutilized Abstraction
+codellama_correct,(default package),DatabaseDescriptor,Broken Modularization
+codellama_correct,(default package),TesterContext,Unutilized Abstraction
+codellama_correct,(default package),TesterContext,Insufficient Modularization
+codellama_correct,(default package),AccessLogValve,Multifaceted Abstraction
+codellama_correct,(default package),AccessLogValve,Unutilized Abstraction
+codellama_correct,(default package),AccessLogValve,Insufficient Modularization
+codellama_correct,(default package),V1_AdminApiTest2,Unutilized Abstraction
+codellama_correct,(default package),AdminApiSchemaTest,Unutilized Abstraction
+codellama_correct,(default package),Foo,Unnecessary Abstraction
+codellama_correct,(default package),Foo1,Unnecessary Abstraction
+codellama_correct,(default package),Foo1,Unutilized Abstraction
+codellama_correct,(default package),DefaultCompletedCheckpointStoreTest,Unutilized Abstraction
+codellama_correct,(default package),CheckpointsCleaner,Unutilized Abstraction
+codellama_correct,(default package),TestingRetrievableStateStorageHelper,Unutilized Abstraction
+codellama_correct,(default package),TestingStateHandle,Unutilized Abstraction
+codellama_correct,(default package),CheckpointProperties,Unnecessary Abstraction
+codellama_correct,(default package),MemoryParameterOverridingAppenderatorConfig,Unutilized Abstraction
+codellama_correct,(default package),SinkQuerySegmentWalker,Unutilized Abstraction
+codellama_correct,(default package),SinkQueryRunner,Unutilized Abstraction
+codellama_correct,(default package),TestCluster,Unutilized Abstraction
+codellama_correct,(default package),SchemaChangeMonitor,Unutilized Abstraction
+codellama_correct,(default package),RMContainerTokenSecretManager,Unutilized Abstraction
+codellama_correct,(default package),MasterKeyRoller,Unutilized Abstraction
+codellama_correct,(default package),NextKeyActivator,Unutilized Abstraction
+codellama_correct,(default package),ResponseAssertionTest,Unutilized Abstraction
+codellama_correct,(default package),AbstractCellNameType,Unutilized Abstraction
+codellama_correct,(default package),AbstractCellNameType,Insufficient Modularization
+codellama_correct,(default package),UtilAll,Multifaceted Abstraction
+codellama_correct,(default package),UtilAll,Deficient Encapsulation
+codellama_correct,(default package),BaseNCodec,Unutilized Abstraction
+codellama_correct,(default package),BaseNCodec,Deficient Encapsulation
+codellama_correct,(default package),Base64,Unnecessary Abstraction
+codellama_correct,(default package),Base64,Unutilized Abstraction
+codellama_correct,(default package),OpenSSLEngine,Unutilized Abstraction
+codellama_correct,(default package),OpenSSLEngine,Deficient Encapsulation
+codellama_correct,(default package),RuntimeUtils,Unutilized Abstraction
+codellama_correct,(default package),RuntimeUtils,Deficient Encapsulation
+codellama_correct,(default package),TestCoyoteAdapter,Unutilized Abstraction
+codellama_correct,(default package),TestCoyoteAdapter,Deficient Encapsulation
+codellama_correct,(default package),PathParamServlet,Unnecessary Abstraction
+codellama_correct,(default package),PathParamServlet,Unutilized Abstraction
+codellama_correct,(default package),ZipkinSpanRecord,Unutilized Abstraction
+codellama_correct,(default package),ZipkinSpanRecord,Deficient Encapsulation
+codellama_correct,(default package),Builder,Unutilized Abstraction
+codellama_correct,(default package),FiltersrvController,Unutilized Abstraction
+codellama_correct,(default package),Enumerator,Unutilized Abstraction
+codellama_correct,(default package),FileIOChannel,Unnecessary Abstraction
+codellama_correct,(default package),FileIOChannel,Unutilized Abstraction
+codellama_correct,(default package),ID,Unnecessary Abstraction
+codellama_correct,(default package),Enumerator,Unnecessary Abstraction
+codellama_correct,(default package),Enumerator,Unutilized Abstraction
+codellama_correct,(default package),FileIOChannel,Unnecessary Abstraction
+codellama_correct,(default package),FileIOChannel,Unutilized Abstraction
+codellama_correct,(default package),ID,Unnecessary Abstraction
+codellama_correct,(default package),ID,Unutilized Abstraction
+codellama_correct,(default package),Enumerator,Unnecessary Abstraction
+codellama_correct,(default package),Enumerator,Unutilized Abstraction
+codellama_correct,(default package),FileIOChannel,Unnecessary Abstraction
+codellama_correct,(default package),FileIOChannel,Unutilized Abstraction
+codellama_correct,(default package),ID,Unnecessary Abstraction
+codellama_correct,(default package),ID,Unutilized Abstraction
+codellama_correct,(default package),Enumerator,Unnecessary Abstraction
+codellama_correct,(default package),Enumerator,Unutilized Abstraction
+codellama_correct,(default package),FileIOChannel,Unnecessary Abstraction
+codellama_correct,(default package),FileIOChannel,Unutilized Abstraction
+codellama_correct,(default package),ID,Unnecessary Abstraction
+codellama_correct,(default package),ID,Unutilized Abstraction
+codellama_correct,(default package),Enumerator,Unnecessary Abstraction
+codellama_correct,(default package),Enumerator,Unutilized Abstraction
+codellama_correct,(default package),FileIOChannel,Unnecessary Abstraction
+codellama_correct,(default package),FileIOChannel,Unutilized Abstraction
+codellama_correct,(default package),ID,Unnecessary Abstraction
+codellama_correct,(default package),ID,Unutilized Abstraction
+codellama_correct,(default package),Enumerator,Unnecessary Abstraction
+codellama_correct,(default package),Enumerator,Unutilized Abstraction
+codellama_correct,(default package),FileIOChannel,Unnecessary Abstraction
+codellama_correct,(default package),FileIOChannel,Unutilized Abstraction
+codellama_correct,(default package),ID,Unnecessary Abstraction
+codellama_correct,(default package),ID,Unutilized Abstraction
+codellama_correct,(default package),Enumerator,Unnecessary Abstraction
+codellama_correct,(default package),Enumerator,Unutilized Abstraction
+codellama_correct,(default package),FileIOChannel,Unnecessary Abstraction
+codellama_correct,(default package),FileIOChannel,Unutilized Abstraction
+codellama_correct,(default package),ID,Unnecessary Abstraction
+codellama_correct,(default package),ID,Unutilized Abstraction
+codellama_correct,(default package),Enumerator,Unnecessary Abstraction
+codellama_correct,(default package),Enumerator,Unutilized Abstraction
+codellama_correct,(default package),FileIOChannel,Unnecessary Abstraction
+codellama_correct,(default package),FileIOChannel,Unutilized Abstraction
+codellama_correct,(default package),ID,Unnecessary Abstraction
+codellama_correct,(default package),ID,Unutilized Abstraction
+codellama_correct,(default package),Enumerator,Unnecessary Abstraction
+codellama_correct,(default package),Enumerator,Unutilized Abstraction
+codellama_correct,(default package),FileIOChannel,Unnecessary Abstraction
+codellama_correct,(default package),FileIOChannel,Unutilized Abstraction
+codellama_correct,(default package),ID,Unnecessary Abstraction
+codellama_correct,(default package),ID,Unutilized Abstraction
+codellama_correct,(default package),Enumerator,Unnecessary Abstraction
+codellama_correct,(default package),Enumerator,Unutilized Abstraction
+codellama_correct,(default package),FileIOChannel,Unnecessary Abstraction
+codellama_correct,(default package),FileIOChannel,Unutilized Abstraction
+codellama_correct,(default package),ID,Unnecessary Abstraction
+codellama_correct,(default package),ID,Unutilized Abstraction
+codellama_correct,(default package),Enumerator,Unnecessary Abstraction
+codellama_correct,(default package),Enumerator,Unutilized Abstraction
+codellama_correct,(default package),FileIOChannel,Unnecessary Abstraction
+codellama_correct,(default package),FileIOChannel,Unutilized Abstraction
+codellama_correct,(default package),ID,Unnecessary Abstraction
+codellama_correct,(default package),ID,Unutilized Abstraction
+codellama_correct,(default package),Enumerator,Unnecessary Abstraction
+codellama_correct,(default package),Enumerator,Unutilized Abstraction
+codellama_correct,(default package),FileIOChannel,Unnecessary Abstraction
+codellama_correct,(default package),FileIOChannel,Unutilized Abstraction
+codellama_correct,(default package),ID,Unnecessary Abstraction
+codellama_correct,(default package),ID,Unutilized Abstraction
+codellama_correct,(default package),Enumerator,Unnecessary Abstraction
+codellama_correct,(default package),Enumerator,Unutilized Abstraction
+codellama_correct,(default package),FileIOChannel,Unnecessary Abstraction
+codellama_correct,(default package),FileIOChannel,Unutilized Abstraction
+codellama_correct,(default package),ID,Unnecessary Abstraction
+codellama_correct,(default package),ID,Unutilized Abstraction
+codellama_correct,(default package),Enumerator,Unnecessary Abstraction
+codellama_correct,(default package),Enumerator,Unutilized Abstraction
+codellama_correct,(default package),FileIOChannel,Unnecessary Abstraction
+codellama_correct,(default package),FileIOChannel,Unutilized Abstraction
+codellama_correct,(default package),InnerTableModel,Unutilized Abstraction
+codellama_correct,(default package),TitlePanel,Unutilized Abstraction
+codellama_correct,(default package),InnerTableModel,Unnecessary Abstraction
+codellama_correct,(default package),InnerTableModel,Unutilized Abstraction
+codellama_correct,(default package),TitlePanel,Unnecessary Abstraction
+codellama_correct,(default package),TitlePanel,Unutilized Abstraction
+codellama_correct,(default package),CompactionParams,Unutilized Abstraction
+codellama_correct,(default package),CompactionParams,Deficient Encapsulation
+codellama_correct,(default package),ContainerStatusPBImpl,Unutilized Abstraction
+codellama_correct,(default package),StressAction,Unutilized Abstraction
+codellama_correct,(default package),Consumer,Unutilized Abstraction
+codellama_correct,(default package),Media,Unutilized Abstraction
+codellama_correct,(default package),Media,Insufficient Modularization
+codellama_correct,(default package),NettyChannel,Unutilized Abstraction
+codellama_correct,(default package),FastJsonSerializationTest,Unutilized Abstraction
+codellama_correct,(default package),FastJsonSerializationTest,Deficient Encapsulation
+codellama_correct,(default package),ZookeeperRegistry,Unutilized Abstraction
+codellama_correct,(default package),KVConfigManager,Cyclic-Dependent Modularization
+codellama_correct,(default package),StandardWrapperValve,Imperative Abstraction
+codellama_correct,(default package),StandardWrapperValve,Unutilized Abstraction
+codellama_correct,(default package),ApplicationDispatcher,Unutilized Abstraction
+codellama_correct,(default package),StringRefAddr,Unutilized Abstraction
+codellama_correct,(default package),ContextEjb,Unutilized Abstraction
+codellama_correct,(default package),ContextEnvironment,Unutilized Abstraction
+codellama_correct,(default package),ContextLocalEjb,Unutilized Abstraction
+codellama_correct,(default package),TestClientToAMTokens,Unutilized Abstraction
+codellama_correct,(default package),TestClientToAMTokens,Deficient Encapsulation
+codellama_correct,(default package),CustomProtocol,Deficient Encapsulation
+codellama_correct,(default package),CustomSecurityInfo,Unutilized Abstraction
+codellama_correct,(default package),CustomAM,Unutilized Abstraction
+codellama_correct,(default package),HeapMemoryTaskStorage,Unutilized Abstraction
+codellama_correct,(default package),Overlap,Unutilized Abstraction
+codellama_correct,(default package),Subarray,Unutilized Abstraction
+codellama_correct,(default package),Substring,Unutilized Abstraction
+codellama_correct,(default package),ToString,Unutilized Abstraction
+codellama_correct,(default package),ToArray,Unutilized Abstraction
+codellama_correct,(default package),ConcatStrings,Unutilized Abstraction
+codellama_correct,(default package),ConcatArrays,Unutilized Abstraction
+codellama_correct,(default package),ArrayContains,Unutilized Abstraction
+codellama_correct,(default package),ArrayIndexOf,Unutilized Abstraction
+codellama_correct,(default package),ArraySlice,Unnecessary Abstraction
+codellama_correct,(default package),ArraySlice,Unutilized Abstraction
+codellama_correct,(default package),EmbeddedServletOptions,Unutilized Abstraction
+codellama_correct,(default package),EmbeddedServletOptions,Deficient Encapsulation
+codellama_correct,(default package),EmbeddedServletOptions,Broken Modularization
+codellama_correct,(default package),TagFileProcessor,Unutilized Abstraction
+codellama_correct,(default package),TagFileDirectiveVisitor,Unutilized Abstraction
+codellama_correct,(default package),RowMutationSerializer,Unutilized Abstraction
+codellama_correct,(default package),RowMutationTest,Unutilized Abstraction
+codellama_correct,(default package),Config,Unutilized Abstraction
+codellama_correct,(default package),Config,Deficient Encapsulation
+codellama_correct,(default package),Config,Broken Modularization
+codellama_correct,(default package),DefaultHAService,Unutilized Abstraction
+codellama_correct,(default package),BrokerConfig,Broken Modularization
+codellama_correct,(default package),ControllerEventHandler,Unutilized Abstraction
+codellama_correct,(default package),RoleChangeHandler,Unutilized Abstraction
+codellama_correct,(default package),DledgerControllerStateMachine,Unutilized Abstraction
+codellama_correct,(default package),InnerBrokerController,Unutilized Abstraction
+codellama_correct,(default package),AutoSwitchHAConnection,Unutilized Abstraction
+codellama_correct,(default package),ReadSocketService,Unnecessary Abstraction
+codellama_correct,(default package),AutoSwitchAcceptSocketService,Unutilized Abstraction
+codellama_correct,(default package),AutoSwitchHAClient,Unutilized Abstraction
+codellama_correct,(default package),AutoSwitchHAConnection,Unutilized Abstraction
+codellama_correct,(default package),DispatchRequest,Unutilized Abstraction
+codellama_correct,(default package),MessageStoreConfig,Unutilized Abstraction
+codellama_correct,(default package),InternalLoggerFactory,Unutilized Abstraction
+codellama_correct,(default package),InternalLogger,Unnecessary Abstraction
+codellama_correct,(default package),RetryInvocationHandler,Unutilized Abstraction
+codellama_correct,(default package),SchemaTools,Unutilized Abstraction
+codellama_correct,(default package),SchemaTools,Deficient Encapsulation
+codellama_correct,(default package),AsyncStateMachine,Cyclic-Dependent Modularization
+codellama_correct,(default package),AsyncContextCallback,Unutilized Abstraction
+codellama_correct,(default package),has,Unutilized Abstraction
+codellama_correct,(default package),has,Broken Modularization
+codellama_correct,(default package),DefaultHAService,Unutilized Abstraction
+codellama_correct,(default package),ApplicationHomeSubClusterPBImpl,Unutilized Abstraction
+codellama_correct,(default package),SQLFederationStateStore,Unutilized Abstraction
+codellama_correct,(default package),UpdateFairSharesThread,Unutilized Abstraction
+codellama_correct,(default package),SchedulingThread,Unutilized Abstraction
+codellama_correct,(default package),RefactoredClientNamenodeProtocol,Unutilized Abstraction
+codellama_correct,(default package),RefactoredClientNamenodeProtocol,Insufficient Modularization
+codellama_correct,(default package),TransactionalProxy,Unutilized Abstraction
+codellama_correct,(default package),ReferenceCountExchangeClient,Unutilized Abstraction
+codellama_correct,(default package),DubboProtocolHandler,Unutilized Abstraction
+codellama_correct,(default package),ExchangeClientWrapper,Unutilized Abstraction
+codellama_correct,(default package),DubboProtocolServer,Unutilized Abstraction
+codellama_correct,(default package),KinesisSupervisorTuningConfig,Unutilized Abstraction
+codellama_correct,(default package),AbstractProcessor,Cyclic-Dependent Modularization
+codellama_correct,(default package),HTTPSampler,Unutilized Abstraction
+codellama_correct,(default package),SegmentRecord,Unutilized Abstraction
+codellama_correct,(default package),SegmentRecord,Deficient Encapsulation
+codellama_correct,(default package),Builder,Unutilized Abstraction
+codellama_correct,(default package),MethodConfig,Unutilized Abstraction
+codellama_correct,(default package),MethodConfig,Insufficient Modularization
+codellama_correct,(default package),SSTableSliceIterator,Unutilized Abstraction
+codellama_correct,(default package),ColumnGroupReader,Unutilized Abstraction
+codellama_correct,(default package),OpenSSLEngine,Unutilized Abstraction
+codellama_correct,(default package),OpenSSLEngine,Deficient Encapsulation
+codellama_correct,(default package),MutableBucket,Unutilized Abstraction
+codellama_correct,(default package),WebAnnotationSet,Unutilized Abstraction
+codellama_correct,(default package),ManagerServlet,Unutilized Abstraction
+codellama_correct,(default package),StatusManagerServlet,Unutilized Abstraction
+codellama_correct,(default package),MonitoringThread,Unutilized Abstraction
+codellama_correct,(default package),BootStrapper,Unutilized Abstraction
+codellama_correct,(default package),WebServiceSamplerGui,Unutilized Abstraction
+codellama_correct,(default package),RemotingCommand,Deficient Encapsulation
+codellama_correct,(default package),RemotingCommand,Insufficient Modularization
+codellama_correct,(default package),JUnitSampler,Insufficient Modularization
+codellama_correct,(default package),RetryInvocationHandler,Unutilized Abstraction
+codellama_correct,(default package),ExtensibleLoadManagerImpl,Unutilized Abstraction
+codellama_correct,(default package),BrokerRegistryImpl,Unnecessary Abstraction
+codellama_correct,(default package),BrokerRegistryImpl,Unutilized Abstraction
+codellama_correct,(default package),ServiceUnitStateChannelImpl,Unnecessary Abstraction
+codellama_correct,(default package),ServiceUnitStateChannelImpl,Unutilized Abstraction
+codellama_correct,(default package),LoadDataStoreFactory,Unnecessary Abstraction
+codellama_correct,(default package),LoadDataStoreFactory,Unutilized Abstraction
+codellama_correct,(default package),BrokerLoadDataReporter,Unnecessary Abstraction
+codellama_correct,(default package),BrokerLoadDataReporter,Unutilized Abstraction
+codellama_correct,(default package),TopBundleLoadDataReporter,Unnecessary Abstraction
+codellama_correct,(default package),TopBundleLoadDataReporter,Unutilized Abstraction
+codellama_correct,(default package),LoadManagerContextImpl,Unnecessary Abstraction
+codellama_correct,(default package),LoadManagerContextImpl,Unutilized Abstraction
+codellama_correct,(default package),UnloadScheduler,Unnecessary Abstraction
+codellama_correct,(default package),UnloadScheduler,Unutilized Abstraction
+codellama_correct,(default package),LeastResourceUsageWithWeight,Unnecessary Abstraction
+codellama_correct,(default package),LeastResourceUsageWithWeight,Unutilized Abstraction
+codellama_correct,(default package),BrokerVersionFilter,Unnecessary Abstraction
+codellama_correct,(default package),BrokerVersionFilter,Unutilized Abstraction
+codellama_correct,(default package),BrokerFilterException,Unnecessary Abstraction
+codellama_correct,(default package),BrokerFilterException,Unutilized Abstraction
+codellama_correct,(default package),ServiceConfiguration,Unnecessary Abstraction
+codellama_correct,(default package),PulsarService,Unnecessary Abstraction
+codellama_correct,(default package),PulsarService,Unutilized Abstraction
+codellama_correct,(default package),LoadBalancer,Unnecessary Abstraction
+codellama_correct,(default package),LoadBalancer,Unutilized Abstraction
+codellama_correct,(default package),LoadDataStore,Unnecessary Abstraction
+codellama_correct,(default package),LoadDataStore,Unutilized Abstraction
+codellama_correct,(default package),TopicName,Unnecessary Abstraction
+codellama_correct,(default package),TopicDomain,Unnecessary Abstraction
+codellama_correct,(default package),TopicDomain,Unutilized Abstraction
+codellama_correct,(default package),NamespaceName,Unnecessary Abstraction
+codellama_correct,(default package),NamespaceName,Unutilized Abstraction
+codellama_correct,(default package),ServiceUnitId,Unnecessary Abstraction
+codellama_correct,(default package),ServiceUnitId,Unutilized Abstraction
+codellama_correct,(default package),ServiceUnitState,Unnecessary Abstraction
+codellama_correct,(default package),ServiceUnitState,Unutilized Abstraction
+codellama_correct,(default package),BrokerLoadData,Unnecessary Abstraction
+codellama_correct,(default package),BrokerLoadData,Unutilized Abstraction
+codellama_correct,(default package),TopBundlesLoadData,Unnecessary Abstraction
+codellama_correct,(default package),TopBundlesLoadData,Unutilized Abstraction
+codellama_correct,(default package),SplitCounter,Unnecessary Abstraction
+codellama_correct,(default package),SplitCounter,Unutilized Abstraction
+codellama_correct,(default package),UnloadCounter,Unnecessary Abstraction
+codellama_correct,(default package),UnloadCounter,Unutilized Abstraction
+codellama_correct,(default package),AssignCounter,Unnecessary Abstraction
+codellama_correct,(default package),AssignCounter,Unutilized Abstraction
+codellama_correct,(default package),SplitDecision,Unnecessary Abstraction
+codellama_correct,(default package),SplitDecision,Unutilized Abstraction
+codellama_correct,(default package),UnloadDecision,Unnecessary Abstraction
+codellama_correct,(default package),UnloadDecision,Unutilized Abstraction
+codellama_correct,(default package),BrokerLookupData,Unnecessary Abstraction
+codellama_correct,(default package),BrokerLookupData,Unutilized Abstraction
+codellama_correct,(default package),LoadManagerScheduler,Unnecessary Abstraction
+codellama_correct,(default package),LoadManagerScheduler,Unutilized Abstraction
+codellama_correct,(default package),LoadManagerContext,Unnecessary Abstraction
+codellama_correct,(default package),LoadManagerContext,Unutilized Abstraction
+codellama_correct,(default package),BrokerSelectionStrategy,Unnecessary Abstraction
+codellama_correct,(default package),BrokerSelectionStrategy,Unutilized Abstraction
+codellama_correct,(default package),BrokerFilter,Unnecessary Abstraction
+codellama_correct,(default package),BrokerFilter,Unutilized Abstraction
+codellama_correct,(default package),BrokerRegistry,Unnecessary Abstraction
+codellama_correct,(default package),BrokerRegistry,Unutilized Abstraction
+codellama_correct,(default package),ServiceUnitStateChannel,Unnecessary Abstraction
+codellama_correct,(default package),ServiceUnitStateChannel,Unutilized Abstraction
+codellama_correct,(default package),LoadDataStoreException,Unnecessary Abstraction
+codellama_correct,(default package),LoadDataStoreException,Unutilized Abstraction
+codellama_correct,(default package),LoadDataStoreFactory,Unnecessary Abstraction
+codellama_correct,(default package),LoadDataStoreFactory,Unutilized Abstraction
+codellama_correct,(default package),Metrics,Unnecessary Abstraction
+codellama_correct,(default package),Metrics,Unutilized Abstraction
+codellama_correct,(default package),LoadManager,Unnecessary Abstraction
+codellama_correct,(default package),LoadManager,Unutilized Abstraction
+codellama_correct,(default package),PulsarServerException,Unnecessary Abstraction
+codellama_correct,(default package),PulsarServerException,Unutilized Abstraction
+codellama_correct,(default package),LoadBalancerReportUpdateMinIntervalMillis,Unnecessary Abstraction
+codellama_correct,(default package),LoadBalancerReportUpdateMinIntervalMillis,Unutilized Abstraction
+codellama_correct,(default package),TimeUnit,Unnecessary Abstraction
+codellama_correct,(default package),ScheduledFuture,Unnecessary Abstraction
+codellama_correct,(default package),ScheduledFuture,Unutilized Abstraction
+codellama_correct,(default package),CompletableFuture,Unnecessary Abstraction
+codellama_correct,(default package),Optional,Unnecessary Abstraction
+codellama_correct,(default package),AtomicReference,Unnecessary Abstraction
+codellama_correct,(default package),ConcurrentOpenHashMap,Unnecessary Abstraction
+codellama_correct,(default package),ConcurrentOpenHashMap,Unutilized Abstraction
+codellama_correct,(default package),SplitMetrics,Unnecessary Abstraction
+codellama_correct,(default package),SplitMetrics,Unutilized Abstraction
+codellama_correct,(default package),UnloadMetrics,Unnecessary Abstraction
+codellama_correct,(default package),UnloadMetrics,Unutilized Abstraction
+codellama_correct,(default package),BrokerLoadMetrics,Unnecessary Abstraction
+codellama_correct,(default package),BrokerLoadMetrics,Unutilized Abstraction
+codellama_correct,(default package),LoadDataReporter,Unnecessary Abstraction
+codellama_correct,(default package),LoadDataReporter,Unutilized Abstraction
+codellama_correct,(default package),TopBundleLoadDataReporter,Unnecessary Abstraction
+codellama_correct,(default package),TopBundleLoadDataReporter,Unutilized Abstraction
+codellama_correct,(default package),LoadManagerExecutor,Unnecessary Abstraction
+codellama_correct,(default package),LoadManagerExecutor,Unutilized Abstraction
+codellama_correct,(default package),UnloadScheduler,Unnecessary Abstraction
+codellama_correct,(default package),UnloadScheduler,Unutilized Abstraction
+codellama_correct,(default package),BrokerRegistryImpl,Unnecessary Abstraction
+codellama_correct,(default package),BrokerRegistryImpl,Unutilized Abstraction
+codellama_correct,(default package),ServiceUnitStateChannelImpl,Unnecessary Abstraction
+codellama_correct,(default package),ServiceUnitStateChannelImpl,Unutilized Abstraction
+codellama_correct,(default package),LoadDataStoreFactory,Unnecessary Abstraction
+codellama_correct,(default package),LoadDataStoreFactory,Unutilized Abstraction
+codellama_correct,(default package),BrokerLoadDataReporter,Unnecessary Abstraction
+codellama_correct,(default package),BrokerLoadDataReporter,Unutilized Abstraction
+codellama_correct,(default package),TopBundleLoadDataReporter,Unnecessary Abstraction
+codellama_correct,(default package),TopBundleLoadDataReporter,Unutilized Abstraction
+codellama_correct,(default package),LoadManagerContextImpl,Unnecessary Abstraction
+codellama_correct,(default package),LoadManagerContextImpl,Unutilized Abstraction
+codellama_correct,(default package),UnloadScheduler,Unnecessary Abstraction
+codellama_correct,(default package),UnloadScheduler,Unutilized Abstraction
+codellama_correct,(default package),LeastResourceUsageWithWeight,Unnecessary Abstraction
+codellama_correct,(default package),LeastResourceUsageWithWeight,Unutilized Abstraction
+codellama_correct,(default package),BrokerVersionFilter,Unnecessary Abstraction
+codellama_correct,(default package),BrokerVersionFilter,Unutilized Abstraction
+codellama_correct,(default package),BrokerFilterException,Unnecessary Abstraction
+codellama_correct,(default package),BrokerFilterException,Unutilized Abstraction
+codellama_correct,(default package),ServiceConfiguration,Unnecessary Abstraction
+codellama_correct,(default package),ServiceConfiguration,Unutilized Abstraction
+codellama_correct,(default package),PulsarService,Unnecessary Abstraction
+codellama_correct,(default package),PulsarService,Unutilized Abstraction
+codellama_correct,(default package),LoadBalancer,Unnecessary Abstraction
+codellama_correct,(default package),LoadBalancer,Unutilized Abstraction
+codellama_correct,(default package),LoadDataStore,Unnecessary Abstraction
+codellama_correct,(default package),LoadDataStore,Unutilized Abstraction
+codellama_correct,(default package),TopicName,Unnecessary Abstraction
+codellama_correct,(default package),TopicName,Unutilized Abstraction
+codellama_correct,(default package),TopicDomain,Unnecessary Abstraction
+codellama_correct,(default package),TopicDomain,Unutilized Abstraction
+codellama_correct,(default package),NamespaceName,Unnecessary Abstraction
+codellama_correct,(default package),NamespaceName,Unutilized Abstraction
+codellama_correct,(default package),ServiceUnitId,Unnecessary Abstraction
+codellama_correct,(default package),ServiceUnitId,Unutilized Abstraction
+codellama_correct,(default package),ServiceUnitState,Unnecessary Abstraction
+codellama_correct,(default package),ServiceUnitState,Unutilized Abstraction
+codellama_correct,(default package),BrokerLoadData,Unnecessary Abstraction
+codellama_correct,(default package),BrokerLoadData,Unutilized Abstraction
+codellama_correct,(default package),TopBundlesLoadData,Unnecessary Abstraction
+codellama_correct,(default package),TopBundlesLoadData,Unutilized Abstraction
+codellama_correct,(default package),SplitCounter,Unnecessary Abstraction
+codellama_correct,(default package),SplitCounter,Unutilized Abstraction
+codellama_correct,(default package),UnloadCounter,Unnecessary Abstraction
+codellama_correct,(default package),UnloadCounter,Unutilized Abstraction
+codellama_correct,(default package),AssignCounter,Unnecessary Abstraction
+codellama_correct,(default package),AssignCounter,Unutilized Abstraction
+codellama_correct,(default package),SplitDecision,Unnecessary Abstraction
+codellama_correct,(default package),SplitDecision,Unutilized Abstraction
+codellama_correct,(default package),UnloadDecision,Unnecessary Abstraction
+codellama_correct,(default package),UnloadDecision,Unutilized Abstraction
+codellama_correct,(default package),BrokerLookupData,Unnecessary Abstraction
+codellama_correct,(default package),BrokerLookupData,Unutilized Abstraction
+codellama_correct,(default package),LoadManagerScheduler,Unnecessary Abstraction
+codellama_correct,(default package),LoadManagerScheduler,Unutilized Abstraction
+codellama_correct,(default package),LoadManagerContext,Unnecessary Abstraction
+codellama_correct,(default package),LoadManagerContext,Unutilized Abstraction
+codellama_correct,(default package),BrokerSelectionStrategy,Unnecessary Abstraction
+codellama_correct,(default package),BrokerSelectionStrategy,Unutilized Abstraction
+codellama_correct,(default package),BrokerFilter,Unnecessary Abstraction
+codellama_correct,(default package),BrokerFilter,Unutilized Abstraction
+codellama_correct,(default package),BrokerRegistry,Unnecessary Abstraction
+codellama_correct,(default package),BrokerRegistry,Unutilized Abstraction
+codellama_correct,(default package),ServiceUnitState,Unnecessary Abstraction
+codellama_correct,(default package),ServiceUnitState,Unutilized Abstraction
+codellama_correct,(default package),Summariser,Multifaceted Abstraction
+codellama_correct,(default package),Totals,Unutilized Abstraction
+codellama_correct,(default package),RequestTableCellRenderer,Unutilized Abstraction
+codellama_correct,(default package),RequestViewHttpSearchProvider,Unutilized Abstraction
+codellama_correct,(default package),RefactoredResultCollector,Unutilized Abstraction
+codellama_correct,(default package),RefactoredResultCollector,Deficient Encapsulation
+codellama_correct,(default package),ElasticSearchModule,Unutilized Abstraction
+codellama_correct,(default package),ElasticSearchClient,Unutilized Abstraction
+codellama_correct,(default package),ElasticSearchClient,Deficient Encapsulation
+codellama_correct,(default package),ElasticSearchClient,Insufficient Modularization
+codellama_correct,(default package),ProtobufUtil,Unutilized Abstraction
+codellama_correct,(default package),ZookeeperCacheTest,Unutilized Abstraction
+codellama_correct,(default package),NioEndpoint,Unutilized Abstraction
+codellama_correct,(default package),NioEndpoint,Insufficient Modularization
+codellama_correct,(default package),PulsarAdminTool,Unutilized Abstraction
+codellama_correct,(default package),WsServlet,Unutilized Abstraction
+codellama_correct,(default package),TestPublishedConfigurationOutputter,Unutilized Abstraction
+codellama_correct,(default package),TestPublishedConfigurationOutputter,Deficient Encapsulation
+codellama_correct,(default package),StandardHost,Unutilized Abstraction
+codellama_correct,(default package),StandardWrapperValve,Unutilized Abstraction
+codellama_correct,(default package),NioReplicationTask,Unutilized Abstraction
+codellama_correct,(default package),JDateField,Unutilized Abstraction
+codellama_correct,(default package),KeyFocus,Unutilized Abstraction
+codellama_correct,(default package),FocusClass,Unutilized Abstraction
+codellama_correct,(default package),ArgumentsPanel,Unutilized Abstraction
+codellama_correct,(default package),BufferBuilder,Unutilized Abstraction
+codellama_correct,(default package),BufferConsumer,Unutilized Abstraction
+codellama_correct,(default package),TestPooledBufferProvider,Unutilized Abstraction
+codellama_correct,(default package),Main,Unutilized Abstraction
+codellama_correct,(default package),is,Unutilized Abstraction
+codellama_correct,(default package),is,Broken Modularization
+codellama_correct,(default package),Event,Deficient Encapsulation
+codellama_correct,(default package),TopologyChange,Unutilized Abstraction
+codellama_correct,(default package),TopologyChange,Deficient Encapsulation
+codellama_correct,(default package),StatusChange,Unutilized Abstraction
+codellama_correct,(default package),StatusChange,Deficient Encapsulation
+codellama_correct,(default package),StatsItem,Unutilized Abstraction
+codellama_correct,(default package),StatsItem,Insufficient Modularization
+codellama_correct,(default package),DefaultHaConnection,Unutilized Abstraction
+codellama_correct,(default package),WriteSocketService,Unutilized Abstraction
+codellama_correct,(default package),CapacitySchedulerConfiguration,Multifaceted Abstraction
+codellama_correct,(default package),CapacitySchedulerConfiguration,Unutilized Abstraction
+codellama_correct,(default package),CapacitySchedulerConfiguration,Deficient Encapsulation
+codellama_correct,(default package),AbstractReferenceConfig,Unutilized Abstraction
+codellama_correct,(default package),AbstractReferenceConfig,Insufficient Modularization
+codellama_correct,(default package),ParsedNodes,Unutilized Abstraction
+codellama_correct,(default package),CompactionTask,Unnecessary Abstraction
+codellama_correct,(default package),CompactionTask,Unutilized Abstraction
+codellama_correct,(default package),CompactionController,Unnecessary Abstraction
+codellama_correct,(default package),CompactionController,Unutilized Abstraction
+codellama_correct,(default package),CompactionAwareWriter,Unnecessary Abstraction
+codellama_correct,(default package),CompactionAwareWriter,Unutilized Abstraction
+codellama_correct,(default package),CompactionIterator,Unnecessary Abstraction
+codellama_correct,(default package),CompactionIterator,Unutilized Abstraction
+codellama_correct,(default package),CompactionInterruptedException,Unnecessary Abstraction
+codellama_correct,(default package),CompactionInterruptedException,Unutilized Abstraction
+codellama_correct,(default package),CompactionStrategyManager,Unnecessary Abstraction
+codellama_correct,(default package),CompactionStrategyManager,Unutilized Abstraction
+codellama_correct,(default package),SSTableReader,Unnecessary Abstraction
+codellama_correct,(default package),SSTableWriter,Unnecessary Abstraction
+codellama_correct,(default package),SSTableWriter,Unutilized Abstraction
+codellama_correct,(default package),LifecycleTransaction,Unnecessary Abstraction
+codellama_correct,(default package),ColumnFamilyStore,Unnecessary Abstraction
+codellama_correct,(default package),DatabaseDescriptor,Unnecessary Abstraction
+codellama_correct,(default package),DatabaseDescriptor,Unutilized Abstraction
+codellama_correct,(default package),SystemKeyspace,Unnecessary Abstraction
+codellama_correct,(default package),SystemKeyspace,Unutilized Abstraction
+codellama_correct,(default package),ActiveRepairService,Unnecessary Abstraction
+codellama_correct,(default package),ActiveRepairService,Unutilized Abstraction
+codellama_correct,(default package),CloseableIterator,Unnecessary Abstraction
+codellama_correct,(default package),CloseableIterator,Unutilized Abstraction
+codellama_correct,(default package),FBUtilities,Unnecessary Abstraction
+codellama_correct,(default package),Refs,Unnecessary Abstraction
+codellama_correct,(default package),Refs,Unutilized Abstraction
+codellama_correct,(default package),AbstractCompactionStrategy,Unnecessary Abstraction
+codellama_correct,(default package),CompactionExecutorStatsCollector,Unnecessary Abstraction
+codellama_correct,(default package),CompactionExecutorStatsCollector,Unutilized Abstraction
+codellama_correct,(default package),CompactionAwareWriter,Unnecessary Abstraction
+codellama_correct,(default package),CompactionAwareWriter,Unutilized Abstraction
+codellama_correct,(default package),CompactionTask,Unnecessary Abstraction
+codellama_correct,(default package),CompactionTask,Unutilized Abstraction
+codellama_correct,(default package),CompactionManager,Unnecessary Abstraction
+codellama_correct,(default package),CompactionManager,Unutilized Abstraction
+codellama_correct,(default package),CompactionExecutor,Unnecessary Abstraction
+codellama_correct,(default package),CompactionHistory,Unnecessary Abstraction
+codellama_correct,(default package),CompactionHistory,Unutilized Abstraction
+codellama_correct,(default package),CompactionInfo,Unnecessary Abstraction
+codellama_correct,(default package),CompactionInfo,Unutilized Abstraction
+codellama_correct,(default package),CompactionStats,Unnecessary Abstraction
+codellama_correct,(default package),CompactionStats,Unutilized Abstraction
+codellama_correct,(default package),CompactionMetrics,Unnecessary Abstraction
+codellama_correct,(default package),CompactionMetrics,Unutilized Abstraction
+codellama_correct,(default package),CompactionExecutorStats,Unnecessary Abstraction
+codellama_correct,(default package),CompactionExecutorStats,Unutilized Abstraction
+codellama_correct,(default package),CompactionHistory,Unnecessary Abstraction
+codellama_correct,(default package),CompactionHistory,Unutilized Abstraction
+codellama_correct,(default package),CompactionHistory,Unnecessary Abstraction
+codellama_correct,(default package),CompactionHistory,Unutilized Abstraction
+codellama_correct,(default package),CompactionHistory,Unnecessary Abstraction
+codellama_correct,(default package),CompactionHistory,Unutilized Abstraction
+codellama_correct,(default package),CompactionHistory,Unnecessary Abstraction
+codellama_correct,(default package),CompactionHistory,Unutilized Abstraction
+codellama_correct,(default package),CompactionHistory,Unnecessary Abstraction
+codellama_correct,(default package),CompactionHistory,Unutilized Abstraction
+codellama_correct,(default package),CompactionHistory,Unnecessary Abstraction
+codellama_correct,(default package),CompactionHistory,Unutilized Abstraction
+codellama_correct,(default package),CompactionHistory,Unnecessary Abstraction
+codellama_correct,(default package),CompactionHistory,Unutilized Abstraction
+codellama_correct,(default package),CompactionHistory,Unnecessary Abstraction
+codellama_correct,(default package),CompactionHistory,Unutilized Abstraction
+codellama_correct,(default package),CompactionHistory,Unnecessary Abstraction
+codellama_correct,(default package),CompactionHistory,Unutilized Abstraction
+codellama_correct,(default package),CompactionHistory,Unnecessary Abstraction
+codellama_correct,(default package),CompactionHistory,Unutilized Abstraction
+codellama_correct,(default package),CompactionHistory,Unnecessary Abstraction
+codellama_correct,(default package),CompactionHistory,Unutilized Abstraction
+codellama_correct,(default package),CompactionHistory,Unnecessary Abstraction
+codellama_correct,(default package),CompactionHistory,Unutilized Abstraction
+codellama_correct,(default package),CompactionHistory,Unnecessary Abstraction
+codellama_correct,(default package),CompactionHistory,Unutilized Abstraction
+codellama_correct,(default package),CompactionHistory,Unnecessary Abstraction
+codellama_correct,(default package),CompactionHistory,Unutilized Abstraction
+codellama_correct,(default package),CompactionHistory,Unnecessary Abstraction
+codellama_correct,(default package),CompactionHistory,Unutilized Abstraction
+codellama_correct,(default package),CompactionHistory,Unnecessary Abstraction
+codellama_correct,(default package),CompactionHistory,Unutilized Abstraction
+codellama_correct,(default package),CompactionHistory,Unnecessary Abstraction
+codellama_correct,(default package),CompactionHistory,Unutilized Abstraction
+codellama_correct,(default package),CompactionHistory,Unnecessary Abstraction
+codellama_correct,(default package),CompactionHistory,Unutilized Abstraction
+codellama_correct,(default package),CompactionHistory,Unnecessary Abstraction
+codellama_correct,(default package),CompactionHistory,Unutilized Abstraction
+codellama_correct,(default package),CompactionHistory,Unnecessary Abstraction
+codellama_correct,(default package),CompactionHistory,Unutilized Abstraction
+codellama_correct,(default package),CompactionHistory,Unnecessary Abstraction
+codellama_correct,(default package),CompactionHistory,Unutilized Abstraction
+codellama_correct,(default package),CompactionHistory,Unnecessary Abstraction
+codellama_correct,(default package),CompactionHistory,Unutilized Abstraction
+codellama_correct,(default package),CompactionHistory,Unnecessary Abstraction
+codellama_correct,(default package),CompactionHistory,Unutilized Abstraction
+codellama_correct,(default package),CompactionHistory,Unnecessary Abstraction
+codellama_correct,(default package),CompactionHistory,Unutilized Abstraction
+codellama_correct,(default package),CompactionHistory,Unnecessary Abstraction
+codellama_correct,(default package),CompactionHistory,Unutilized Abstraction
+codellama_correct,(default package),CompactionHistory,Unnecessary Abstraction
+codellama_correct,(default package),CompactionHistory,Unutilized Abstraction
+codellama_correct,(default package),CompactionHistory,Unnecessary Abstraction
+codellama_correct,(default package),CompactionHistory,Unutilized Abstraction
+codellama_correct,(default package),BrokerConfig,Unutilized Abstraction
+codellama_correct,(default package),CommitLogStressTest,Unutilized Abstraction
+codellama_correct,(default package),DataOutputTest,Unutilized Abstraction
+codellama_correct,(default package),CompressedRandomAccessReader,Unutilized Abstraction
+codellama_correct,(default package),XPathExtractorGui,Unutilized Abstraction
+codellama_correct,(default package),DistributionGraph,Unutilized Abstraction
+codellama_correct,(default package),RegexExtractorGui,Unutilized Abstraction
+codellama_correct,(default package),NamesrvStartup,Unutilized Abstraction
+codellama_correct,(default package),has,Unutilized Abstraction
+codellama_correct,(default package),has,Broken Modularization
+codellama_correct,(default package),has,Unutilized Abstraction
+codellama_correct,(default package),has,Broken Modularization
+codellama_correct,(default package),has,Unutilized Abstraction
+codellama_correct,(default package),has,Broken Modularization
+codellama_correct,(default package),NamesrvController,Cyclic-Dependent Modularization
+codellama_correct,(default package),AbstractCompactionStrategy,Unutilized Abstraction
+codellama_correct,(default package),SizeTieredCompactionStrategyOptions,Unutilized Abstraction
+codellama_correct,(default package),CompactionTask,Unutilized Abstraction
+codellama_correct,(default package),CompactionAwareWriter,Unutilized Abstraction
+codellama_correct,(default package),SSTableReader,Unutilized Abstraction
+codellama_correct,(default package),AdminResourceRefactored,Unutilized Abstraction
+codellama_correct,(default package),AdminResourceRefactored,Deficient Encapsulation
+codellama_correct,(default package),PostWriter,Deficient Encapsulation
+codellama_correct,(default package),Http2Parser,Unutilized Abstraction
+codellama_correct,(default package),Frame,Unutilized Abstraction
+codellama_correct,(default package),Frame,Deficient Encapsulation
+codellama_correct,(default package),Header,Unutilized Abstraction
+codellama_correct,(default package),Header,Deficient Encapsulation
+codellama_correct,(default package),Decoder,Unutilized Abstraction
+codellama_correct,(default package),PendingReconstructionBlocks,Unutilized Abstraction
+codellama_correct,(default package),PendingReconstructionMonitor,Unutilized Abstraction
+codellama_correct,(default package),NettyRPCTest,Unutilized Abstraction
+codellama_correct,(default package),Connector,Unutilized Abstraction
+codellama_correct,(default package),TestCookieParsing,Unutilized Abstraction
+codellama_correct,(default package),Config,Unutilized Abstraction
+codellama_correct,(default package),Config,Deficient Encapsulation
+codellama_correct,(default package),Config,Broken Modularization
+codellama_correct,(default package),HintsReaderTest,Unutilized Abstraction
+codellama_correct,org.apache.catalina.storeconfig,ConnectorStoreAppender,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.db,CommitLogTest,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.db,PartitionColumns,Insufficient Modularization
+codellama_correct,org.apache.cassandra.db,Memtable,Deficient Encapsulation
+codellama_correct,org.apache.cassandra.db,RowIteratorFactory,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.db,ConvertToColumnIterator,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.db,ReadContext,Unnecessary Abstraction
+codellama_correct,org.apache.cassandra.db,BinaryVerbHandler,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.db,DataFileVerbHandler,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.db,CommitLogHeader,Cyclic-Dependent Modularization
+codellama_correct,org.apache.cassandra.db,CommitLogHeaderSerializer,Cyclic-Dependent Modularization
+codellama_correct,org.apache.cassandra.db,ColumnFamilyStoreTest,Unnecessary Abstraction
+codellama_correct,org.apache.cassandra.db,ColumnFamilyStoreTest,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.db,ColumnsTest,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.db,AbstractColumnContainer,Deficient Encapsulation
+codellama_correct,org.apache.cassandra.db,AbstractColumnContainer,Insufficient Modularization
+codellama_correct,org.apache.cassandra.db,DeletionInfo,Deficient Encapsulation
+codellama_correct,org.apache.cassandra.db,CounterMutation,Cyclic-Dependent Modularization
+codellama_correct,org.apache.cassandra.db,CounterMutationTest,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.db,Builder,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.db,has,Broken Modularization
+codellama_correct,org.apache.cassandra.db,and,Broken Modularization
+codellama_correct,org.apache.cassandra.db,RowIndexEntry,Deficient Encapsulation
+codellama_correct,org.apache.cassandra.db,IndexSerializer,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.db,Serializer,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.db,ReadVerbHandler,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.db,ReadContext,Unnecessary Abstraction
+codellama_correct,org.apache.cassandra.db,ReadContext,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.db,SliceFromReadCommandSerializer,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.db,SliceByNamesReadCommandSerializer,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.db,TypeSizes,Multifaceted Abstraction
+codellama_correct,org.apache.cassandra.db,TypeSizes,Deficient Encapsulation
+codellama_correct,org.apache.cassandra.db,NativeDBTypeSizes,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.db,VIntEncodedTypeSizes,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.db,SliceFromReadCommand,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.db,SliceFromReadCommandSerializer,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.db,Truncation,Deficient Encapsulation
+codellama_correct,org.apache.cassandra.db,TruncationSerializer,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.db,TruncateResponse,Deficient Encapsulation
+codellama_correct,org.apache.cassandra.db,TruncateResponse,Cyclic-Dependent Modularization
+codellama_correct,org.apache.cassandra.db,TruncateResponseSerializer,Cyclic-Dependent Modularization
+codellama_correct,org.apache.cassandra.db,CounterMutation,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.db,CounterMutation,Deficient Encapsulation
+codellama_correct,org.apache.cassandra.db,CounterMutationSerializer,Cyclic-Dependent Modularization
+codellama_correct,org.apache.cassandra.db,SliceByNamesReadCommand,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.db,SliceByNamesReadCommandSerializer,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.db,SnapshotCommand,Deficient Encapsulation
+codellama_correct,org.apache.cassandra.db,SnapshotCommandSerializer,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.db,SystemTable,Deficient Encapsulation
+codellama_correct,com.alibaba.rocketmq.common.protocol.header,SendMessageRequestHeader,Insufficient Modularization
+codellama_correct,com.alibaba.rocketmq.common.protocol.header,PullMessageRequestHeader,Unutilized Abstraction
+codellama_correct,com.alibaba.rocketmq.common.protocol.header,PullMessageRequestHeader,Insufficient Modularization
+codellama_correct,com.alibaba.rocketmq.common.protocol.header,SendMessageRequestHeaderV2,Insufficient Modularization
+codellama_correct,eu.stratosphere.api.java.operators,Grouping,Unutilized Abstraction
+codellama_correct,org.apache.coyote.http11,Http11Processor,Unutilized Abstraction
+codellama_correct,org.apache.coyote.http11,Http11AprProcessor,Unutilized Abstraction
+codellama_correct,org.apache.coyote.http11,Http11Processor,Unutilized Abstraction
+codellama_correct,org.apache.coyote.http11,Http11NioProtocol,Unutilized Abstraction
+codellama_correct,org.apache.coyote.http11,InternalNioOutputBuffer,Unutilized Abstraction
+codellama_correct,org.apache.coyote.http11,AbstractOutputBuffer,Unutilized Abstraction
+codellama_correct,org.apache.jorphan.math,StatCalculator,Unutilized Abstraction
+codellama_correct,org.apache.flink.test.util,JavaProgramTestBase,Unutilized Abstraction
+codellama_correct,com.ai.cloud.skywalking.analysis.categorize2chain.model,ChainNode,Insufficient Modularization
+codellama_correct,com.ai.cloud.skywalking.analysis.categorize2chain,Summary,Unutilized Abstraction
+codellama_correct,org.apache.pulsar.tests.integration.suites,PulsarTieredStorageTestSuite,Unutilized Abstraction
+codellama_correct,org.apache.pulsar.tests.integration.suites,PulsarSQLTestSuite,Unutilized Abstraction
+codellama_correct,org.apache.pulsar.tests.integration.suites,PulsarSQLTestSuite,Deficient Encapsulation
+codellama_correct,org.apache.pulsar.tests.integration.topologies,PulsarClusterTestBase,Unutilized Abstraction
+codellama_correct,org.apache.flink.runtime.resourcemanager,TestingResourceManagerFactory,Unutilized Abstraction
+codellama_correct,org.apache.flink.runtime.resourcemanager,Builder,Unutilized Abstraction
+codellama_correct,org.apache.flink.runtime.resourcemanager,MockResourceManager,Unutilized Abstraction
+codellama_correct,org.apache.flink.runtime.leaderelection,LeaderChangeClusterComponentsTest,Unutilized Abstraction
+codellama_correct,org.apache.flink.runtime.leaderelection,LeaderChangeClusterComponentsTest,Deficient Encapsulation
+codellama_correct,org.apache.flink.runtime.leaderelection,JobManagerLeaderElectionTest,Unutilized Abstraction
+codellama_correct,org.apache.dubbo.qos.command.util,CommandHelperTest,Unutilized Abstraction
+codellama_correct,org.apache.pulsar.proxy.server,ProxyRolesEnforcementTest,Unutilized Abstraction
+codellama_correct,org.apache.pulsar.proxy.server,BasicAuthenticationData,Unutilized Abstraction
+codellama_correct,org.apache.pulsar.proxy.server,ProxyAuthenticationTest,Unutilized Abstraction
+codellama_correct,org.apache.pulsar.proxy.server,BasicAuthenticationData,Unutilized Abstraction
+codellama_correct,org.apache.pulsar.proxy.server,BasicAuthentication,Unutilized Abstraction
+codellama_correct,org.apache.pulsar.proxy.server,BasicAuthenticationProvider,Unutilized Abstraction
+codellama_correct,org.apache.pulsar.proxy.server,ProxyForwardAuthDataTest,Unutilized Abstraction
+codellama_correct,org.apache.pulsar.proxy.server,ProxyConfiguration,Broken Modularization
+codellama_correct,org.apache.rocketmq.common.filter,FilterAPITest,Unutilized Abstraction
+codellama_correct,org.apache.rocketmq.broker.processor,ClientManageProcessor,Unutilized Abstraction
+codellama_correct,org.apache.rocketmq.broker.longpolling,NotifyMessageArrivingListener,Unutilized Abstraction
+codellama_correct,org.apache.rocketmq.store,DefaultMessageStoreTest,Unutilized Abstraction
+codellama_correct,org.apache.rocketmq.store,MyMessageArrivingListener,Unutilized Abstraction
+codellama_correct,org.apache.rocketmq.store,MessageStore,Insufficient Modularization
+codellama_correct,org.apache.rocketmq.store,DefaultMessageFilter,Unutilized Abstraction
+codellama_correct,org.apache.rocketmq.store,ConsumeQueue,Deficient Encapsulation
+codellama_correct,org.apache.rocketmq.store,DefaultMessageStoreTest,Unutilized Abstraction
+codellama_correct,org.apache.rocketmq.store,AppendMessageCallback,Unutilized Abstraction
+codellama_correct,org.apache.rocketmq.store,DefaultMessageStoreTest,Unutilized Abstraction
+codellama_correct,org.apache.rocketmq.store,MyMessageArrivingListener,Unutilized Abstraction
+codellama_correct,org.apache.rocketmq.store,DefaultMessageStoreTest,Unutilized Abstraction
+codellama_correct,org.apache.rocketmq.store,StoreCheckpointTest,Unutilized Abstraction
+codellama_correct,org.apache.rocketmq.store,MappedFileQueueTest,Unutilized Abstraction
+codellama_correct,org.apache.rocketmq.store,MappedFileTest,Unutilized Abstraction
+codellama_correct,org.apache.rocketmq.store,MultiDispatchTest,Unutilized Abstraction
+codellama_correct,org.apache.rocketmq.store,has,Broken Modularization
+codellama_correct,org.apache.rocketmq.store,has,Unutilized Abstraction
+codellama_correct,org.apache.rocketmq.store,has,Broken Modularization
+codellama_correct,org.apache.rocketmq.common.protocol,ResponseCode,Deficient Encapsulation
+codellama_correct,org.apache.rocketmq.common.protocol,ResponseCode,Broken Modularization
+codellama_correct,org.apache.rocketmq.common.protocol,RequestCode,Deficient Encapsulation
+codellama_correct,org.apache.rocketmq.common.protocol,RequestCode,Broken Modularization
+codellama_correct,org.apache.rocketmq.common.protocol,RequestCode,Unutilized Abstraction
+codellama_correct,org.apache.rocketmq.common.protocol,RequestCode,Deficient Encapsulation
+codellama_correct,org.apache.rocketmq.common.protocol,RequestCode,Broken Modularization
+codellama_correct,org.apache.rocketmq.broker.client,ConsumerManager,Unutilized Abstraction
+codellama_correct,org.apache.rocketmq.broker.client,ProducerManagerTest,Unutilized Abstraction
+codellama_correct,org.apache.rocketmq.common.protocol.header,PullMessageRequestHeader,Insufficient Modularization
+codellama_correct,org.apache.rocketmq.client.consumer,MQPushConsumer,Unutilized Abstraction
+codellama_correct,org.apache.rocketmq.client.consumer,DefaultMQPullConsumerTest,Unutilized Abstraction
+codellama_correct,org.apache.rocketmq.client.consumer,DefaultMQPullConsumerTest,Unutilized Abstraction
+codellama_correct,org.apache.rocketmq.common.message,Message,Unutilized Abstraction
+codellama_correct,org.apache.rocketmq.common.message,Message,Insufficient Modularization
+codellama_correct,org.apache.rocketmq.broker.plugin,AbstractPluginMessageStore,Unutilized Abstraction
+codellama_correct,org.apache.rocketmq.broker.plugin,AbstractPluginMessageStore,Insufficient Modularization
+codellama_correct,org.apache.rocketmq.broker.plugin,AbstractPluginMessageStore,Unutilized Abstraction
+codellama_correct,org.apache.rocketmq.broker.plugin,AbstractPluginMessageStore,Insufficient Modularization
+codellama_correct,org.apache.cassandra.repair.consistent,PendingAntiCompaction,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.repair.consistent,AcquisitionCallable,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.repair.consistent,AcquisitionCallback,Unutilized Abstraction
+codellama_correct,org.apache.catalina.filters,CsrfPreventionFilter,Unutilized Abstraction
+codellama_correct,org.apache.pulsar.broker.service.persistent,MessageRedeliveryController,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.db.partitions,Serializer,Unutilized Abstraction
+codellama_correct,com.alibaba.rocketmq.tools.command.topic,UpdateTopicSubCommand,Unutilized Abstraction
+codellama_correct,org.apache.hadoop.hdfs.server.namenode,TestAuditLogger,Unutilized Abstraction
+codellama_correct,org.apache.hadoop.hdfs.server.namenode,InotifyFSEditLogOpTranslator,Unutilized Abstraction
+codellama_correct,org.apache.hadoop.hdfs.server.namenode,FSEditLogOp,Deficient Encapsulation
+codellama_correct,org.apache.hadoop.hdfs.server.namenode,FSEditLogOp,Wide Hierarchy
+codellama_correct,org.apache.hadoop.hdfs.server.namenode,AddOp,Unutilized Abstraction
+codellama_correct,org.apache.hadoop.hdfs.server.namenode,AddOp,Deficient Encapsulation
+codellama_correct,org.apache.hadoop.hdfs.server.namenode,CloseOp,Unutilized Abstraction
+codellama_correct,org.apache.hadoop.hdfs.server.namenode,CloseOp,Deficient Encapsulation
+codellama_correct,org.apache.hadoop.hdfs.server.namenode,SetReplicationOp,Unutilized Abstraction
+codellama_correct,org.apache.hadoop.hdfs.server.namenode,SetReplicationOp,Deficient Encapsulation
+codellama_correct,org.apache.hadoop.hdfs.server.namenode,ConcatDeleteOp,Unutilized Abstraction
+codellama_correct,org.apache.hadoop.hdfs.server.namenode,ConcatDeleteOp,Deficient Encapsulation
+codellama_correct,org.apache.hadoop.hdfs.server.namenode,RenameOldOp,Unutilized Abstraction
+codellama_correct,org.apache.hadoop.hdfs.server.namenode,RenameOldOp,Deficient Encapsulation
+codellama_correct,org.apache.hadoop.hdfs.server.namenode,RenameOp,Unutilized Abstraction
+codellama_correct,org.apache.hadoop.hdfs.server.namenode,RenameOp,Deficient Encapsulation
+codellama_correct,org.apache.hadoop.hdfs.server.namenode,DeleteOp,Unutilized Abstraction
+codellama_correct,org.apache.hadoop.hdfs.server.namenode,DeleteOp,Deficient Encapsulation
+codellama_correct,org.apache.hadoop.hdfs.server.namenode,MkdirOp,Unutilized Abstraction
+codellama_correct,org.apache.hadoop.hdfs.server.namenode,MkdirOp,Deficient Encapsulation
+codellama_correct,org.apache.hadoop.hdfs.server.namenode,SetPermissionsOp,Unutilized Abstraction
+codellama_correct,org.apache.hadoop.hdfs.server.namenode,SetPermissionsOp,Deficient Encapsulation
+codellama_correct,org.apache.hadoop.hdfs.server.namenode,SetOwnerOp,Unutilized Abstraction
+codellama_correct,org.apache.hadoop.hdfs.server.namenode,SetOwnerOp,Deficient Encapsulation
+codellama_correct,org.apache.hadoop.hdfs.server.namenode,TimesOp,Unutilized Abstraction
+codellama_correct,org.apache.hadoop.hdfs.server.namenode,TimesOp,Deficient Encapsulation
+codellama_correct,org.apache.hadoop.hdfs.server.namenode,SymlinkOp,Unutilized Abstraction
+codellama_correct,org.apache.hadoop.hdfs.server.namenode,SymlinkOp,Deficient Encapsulation
+codellama_correct,org.apache.hadoop.hdfs.server.namenode,RemoveXAttrOp,Unutilized Abstraction
+codellama_correct,org.apache.hadoop.hdfs.server.namenode,RemoveXAttrOp,Deficient Encapsulation
+codellama_correct,org.apache.hadoop.hdfs.server.namenode,SetXAttrOp,Unutilized Abstraction
+codellama_correct,org.apache.hadoop.hdfs.server.namenode,SetXAttrOp,Deficient Encapsulation
+codellama_correct,org.apache.hadoop.hdfs.server.namenode,SetAclOp,Unutilized Abstraction
+codellama_correct,org.apache.hadoop.hdfs.server.namenode,SetAclOp,Deficient Encapsulation
+codellama_correct,org.apache.hadoop.hdfs.server.namenode,Event,Deficient Encapsulation
+codellama_correct,org.apache.hadoop.hdfs.server.namenode,Event,Cyclic-Dependent Modularization
+codellama_correct,org.apache.hadoop.hdfs.server.namenode,CreateEvent,Unutilized Abstraction
+codellama_correct,org.apache.hadoop.hdfs.server.namenode,CreateEvent,Deficient Encapsulation
+codellama_correct,org.apache.hadoop.hdfs.server.namenode,AppendEvent,Unutilized Abstraction
+codellama_correct,org.apache.hadoop.hdfs.server.namenode,AppendEvent,Deficient Encapsulation
+codellama_correct,org.apache.hadoop.hdfs.server.namenode,CloseEvent,Unutilized Abstraction
+codellama_correct,org.apache.hadoop.hdfs.server.namenode,CloseEvent,Deficient Encapsulation
+codellama_correct,org.apache.hadoop.hdfs.server.namenode,RenameEvent,Unutilized Abstraction
+codellama_correct,org.apache.hadoop.hdfs.server.namenode,RenameEvent,Deficient Encapsulation
+codellama_correct,org.apache.hadoop.hdfs.server.namenode,UnlinkEvent,Unutilized Abstraction
+codellama_correct,org.apache.hadoop.hdfs.server.namenode,UnlinkEvent,Deficient Encapsulation
+codellama_correct,org.apache.hadoop.hdfs.server.namenode,MetadataUpdateEvent,Deficient Encapsulation
+codellama_correct,org.apache.hadoop.hdfs.server.namenode,MetadataUpdateEvent,Cyclic-Dependent Modularization
+codellama_correct,org.apache.hadoop.hdfs.server.namenode,InotifyFSEditLogOpTranslator,Unutilized Abstraction
+codellama_correct,org.apache.flink.contrib.streaming.state,RocksDBAggregatingState,Unutilized Abstraction
+codellama_correct,eu.stratosphere.api.datastream,DummySource,Unutilized Abstraction
+codellama_correct,eu.stratosphere.api.datastream,DummySink,Unutilized Abstraction
+codellama_correct,eu.stratosphere.api.datastream,StreamOperator,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.thrift,Constants,Unnecessary Abstraction
+codellama_correct,org.apache.cassandra.thrift,Constants,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.thrift,Constants,Deficient Encapsulation
+codellama_correct,org.apache.rocketmq.proxy.grpc.service.cluster,PullMessageService,Unutilized Abstraction
+codellama_correct,org.apache.rocketmq.proxy.common.utils,FilterUtil,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.config,YamlConfigurationLoader,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.config,Config,Unnecessary Abstraction
+codellama_correct,org.apache.cassandra.config,ColumnDefinition,Deficient Encapsulation
+codellama_correct,org.apache.flink.sql.parser,FlinkSqlParserImplTest,Unutilized Abstraction
+codellama_correct,org.apache.skywalking.apm.plugin.vertx3,HandlerRegistrationInterceptor,Unutilized Abstraction
+codellama_correct,org.apache.skywalking.apm.plugin.vertx3,EventBusImplDeliverToHandlerInterceptor,Unutilized Abstraction
+codellama_correct,org.apache.skywalking.apm.plugin.vertx3,ClusteredEventBusSendRemoteInterceptor,Unutilized Abstraction
+codellama_correct,org.apache.skywalking.apm.plugin.vertx3.define,HttpClientRequestImplHandleResponseInstrumentation,Unutilized Abstraction
+codellama_correct,org.apache.skywalking.apm.plugin.vertx3.define,HttpServerResponseImplHandleExceptionInstrumentation,Unutilized Abstraction
+codellama_correct,org.apache.jmeter.visualizers,ResultRenderer,Unutilized Abstraction
+codellama_correct,org.apache.jmeter.visualizers,RequestView,Unutilized Abstraction
+codellama_correct,org.apache.jmeter.visualizers,ModelListener,Unutilized Abstraction
+codellama_correct,org.apache.jmeter.visualizers,ImageVisualizer,Unutilized Abstraction
+codellama_correct,org.apache.jmeter.visualizers,PropertyControlGui,Unutilized Abstraction
+codellama_correct,org.apache.jmeter.visualizers,BSFListenerBeanInfo,Unutilized Abstraction
+codellama_correct,org.apache.jmeter.visualizers,GraphListener,Unutilized Abstraction
+codellama_correct,org.apache.jmeter.visualizers,LineGraph,Unutilized Abstraction
+codellama_correct,org.apache.jmeter.visualizers,BeanShellListenerBeanInfo,Unutilized Abstraction
+codellama_correct,org.apache.jmeter.visualizers,DistributionGraphVisualizer,Unutilized Abstraction
+codellama_correct,org.apache.jmeter.visualizers,GraphVisualizer,Unutilized Abstraction
+codellama_correct,org.apache.jmeter.visualizers,AxisGraph,Unutilized Abstraction
+codellama_correct,org.apache.jmeter.visualizers,GraphAccumListener,Unutilized Abstraction
+codellama_correct,org.apache.jmeter.visualizers,AssertionVisualizer,Unutilized Abstraction
+codellama_correct,org.apache.jmeter.visualizers,BeanShellListener,Unutilized Abstraction
+codellama_correct,org.apache.jmeter.visualizers,BeanShellListener,Unutilized Abstraction
+codellama_correct,org.apache.jmeter.visualizers,BeanShellListener,Unutilized Abstraction
+codellama_correct,org.apache.jmeter.visualizers,BeanShellListener,Unutilized Abstraction
+codellama_correct,org.apache.jmeter.visualizers,BeanShellListener,Unutilized Abstraction
+codellama_correct,org.apache.jmeter.visualizers,SplineModel,Unutilized Abstraction
+codellama_correct,javax.el,MapELResolver,Unutilized Abstraction
+codellama_correct,org.apache.skywalking.apm.plugin.lettuce.v5.define,RedisClusterClientInstrumentation,Unutilized Abstraction
+codellama_correct,org.apache.skywalking.apm.plugin.lettuce.v5.define,RedisClientInstrumentation,Unutilized Abstraction
+codellama_correct,org.apache.skywalking.apm.plugin.lettuce.v5.define,ClientOptionsInstrumentation,Unutilized Abstraction
+codellama_correct,org.apache.skywalking.apm.plugin.lettuce.v5,ClientOptionsConstructorInterceptor,Unutilized Abstraction
+codellama_correct,org.apache.tomcat.jdbc.pool,StatementFacade,Unutilized Abstraction
+codellama_correct,org.apache.skywalking.apm.plugin.spring.annotations,SpringAnnotationInterceptor,Unutilized Abstraction
+codellama_correct,org.apache.hadoop.yarn.server.resourcemanager.recovery,TestLeveldbRMStateStore,Unutilized Abstraction
+codellama_correct,org.apache.hadoop.yarn.server.resourcemanager.recovery,LeveldbStateStoreTester,Unutilized Abstraction
+codellama_correct,org.apache.skywalking.apm.collector.cache.guava,CacheModuleGuavaProvider,Unutilized Abstraction
+codellama_correct,org.apache.pulsar.broker.loadbalance,NoopLoadManager,Unutilized Abstraction
+codellama_correct,org.apache.pulsar.broker.admin,BrokerAdminClientTlsAuthTest,Unutilized Abstraction
+codellama_correct,org.apache.pulsar.broker.admin,AdminApiDelayedDelivery,Unutilized Abstraction
+codellama_correct,org.apache.pulsar.broker.admin,IncrementPartitionsTest,Unutilized Abstraction
+codellama_correct,org.apache.pulsar.broker.admin,TopicAutoCreationTest,Unutilized Abstraction
+codellama_correct,org.apache.pulsar.compaction,CompactorTool,Unutilized Abstraction
+codellama_correct,org.apache.pulsar.compaction,Arguments,Unnecessary Abstraction
+codellama_correct,org.apache.pulsar.broker,ServiceConfiguration,Broken Modularization
+codellama_correct,org.apache.pulsar.broker,ServiceConfiguration,Unutilized Abstraction
+codellama_correct,org.apache.pulsar.broker,ServiceConfiguration,Broken Modularization
+codellama_correct,org.apache.pulsar.broker,Server,Broken Modularization
+codellama_correct,org.apache.pulsar.websocket.service,WebSocketProxyConfiguration,Deficient Encapsulation
+codellama_correct,org.apache.pulsar.websocket.proxy,ProxyPublishConsumeTlsTest,Unutilized Abstraction
+codellama_correct,org.apache.pulsar.functions.worker,ThreadContainerFactory,Unnecessary Abstraction
+codellama_correct,org.apache.pulsar.functions.worker,ProcessContainerFactory,Unnecessary Abstraction
+codellama_correct,org.apache.pulsar.functions.worker,KubernetesContainerFactory,Broken Modularization
+codellama_correct,org.apache.pulsar.functions.worker,WorkerApiV2ResourceConfigTest,Unutilized Abstraction
+codellama_correct,org.apache.pulsar.functions.worker,FunctionActioner,Unutilized Abstraction
+codellama_correct,org.apache.pulsar.discovery.service,BaseDiscoveryTestSetup,Unutilized Abstraction
+codellama_correct,org.apache.pulsar.discovery.service,DiscoveryService,Unutilized Abstraction
+codellama_correct,org.apache.pulsar.client.api,ServiceUrlProviderTest,Unutilized Abstraction
+codellama_correct,org.apache.pulsar.client.api,TestServiceUrlProvider,Unutilized Abstraction
+codellama_correct,org.apache.pulsar.client.api,AutoChangedServiceUrlProvider,Unutilized Abstraction
+codellama_correct,org.apache.pulsar.client.api,AutoChangedServiceUrlProvider,Broken Hierarchy
+codellama_correct,org.apache.pulsar.client.api,MessageDispatchThrottlingTest,Unutilized Abstraction
+codellama_correct,org.apache.pulsar.broker.web,WebService,Deficient Encapsulation
+codellama_correct,org.apache.pulsar.common.configuration,PulsarConfigurationLoaderTest,Multifaceted Abstraction
+codellama_correct,org.apache.pulsar.common.configuration,PulsarConfigurationLoaderTest,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.utils,EstimatedHistogram,Deficient Encapsulation
+codellama_correct,org.apache.cassandra.utils,EstimatedHistogram,Cyclic-Dependent Modularization
+codellama_correct,org.apache.cassandra.utils,EstimatedHistogramSerializer,Cyclic-Dependent Modularization
+codellama_correct,org.apache.cassandra.utils,CounterId,Deficient Encapsulation
+codellama_correct,org.apache.cassandra.utils,CounterId,Cyclic-Dependent Modularization
+codellama_correct,org.apache.cassandra.utils,LocalId,Cyclic-Dependent Modularization
+codellama_correct,org.apache.cassandra.service,AbstractWriteResponseHandler,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.service,IndexScanVerbHandler,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.service,ConsistencyChecker,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.service,DigestResponseHandler,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.service,DataRepairHandler,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.service,StorageServiceMBean,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.service,StorageServiceMBean,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.service,StorageServiceMBean,Insufficient Modularization
+codellama_correct,org.apache.cassandra.service,StorageService,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.service,StorageService,Deficient Encapsulation
+codellama_correct,org.apache.cassandra.service,ReplicationStrategy,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.service,ReplicationStrategy,Deficient Encapsulation
+codellama_correct,org.apache.cassandra.service,DigestMismatchException,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.service,SnapshotVerbHandler,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.locator,DynamicEndpointSnitch,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.locator,DatacenterShardStategy,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.locator,RackUnawareStrategy,Unutilized Abstraction
+codellama_correct,org.apache.druid.query.lookup,LookupIntrospectionResourceTest,Unutilized Abstraction
+codellama_correct,org.apache.druid.query.lookup,RegisteredLookupExtractionFnTest,Unutilized Abstraction
+codellama_correct,org.apache.druid.query.lookup,RegisteredLookupExtractionFnTest,Deficient Encapsulation
+codellama_correct,org.apache.druid.guice,JoinableFactoryModuleTest,Unutilized Abstraction
+codellama_correct,org.apache.druid.query.dimension,LookupDimensionSpec,Unutilized Abstraction
+codellama_correct,org.apache.flink.api.java.operators.translation,WrappingFunction,Unutilized Abstraction
+codellama_correct,org.apache.flink.api.java.operators.translation,WrappingRuntimeContext,Unutilized Abstraction
+codellama_correct,org.apache.flink.api.java.operators.translation,WrappingIterationRuntimeContext,Unutilized Abstraction
+codellama_correct,org.apache.flink.api.java.operators.translation,WrappingIterationRuntimeContext,Broken Hierarchy
+codellama_correct,org.apache.flink.runtime.operators.udf,RuntimeUDFContext,Unutilized Abstraction
+codellama_correct,com.alibaba.rocketmq.common,MQVersion,Deficient Encapsulation
+codellama_correct,com.alibaba.rocketmq.common,MQVersion,Unutilized Abstraction
+codellama_correct,com.alibaba.rocketmq.common,MQVersion,Deficient Encapsulation
+codellama_correct,com.alibaba.rocketmq.common,MQVersion,Unutilized Abstraction
+codellama_correct,com.alibaba.rocketmq.common,MQVersion,Deficient Encapsulation
+codellama_correct,com.alibaba.rocketmq.common,MQVersion,Unutilized Abstraction
+codellama_correct,com.alibaba.rocketmq.common,MQVersion,Deficient Encapsulation
+codellama_correct,org.apache.flink.api.common.typeutils.base,GenericArraySerializerConfigSnapshot,Unutilized Abstraction
+codellama_correct,org.skywalking.apm.collector.worker.span.persistence,SpanSearchWithIdTestCase,Unutilized Abstraction
+codellama_correct,org.skywalking.apm.collector.worker.segment.analysis,Factory,Unutilized Abstraction
+codellama_correct,org.skywalking.apm.collector.worker.segment.persistence,SegmentTopSearchWithTimeSlice,Unutilized Abstraction
+codellama_correct,org.skywalking.apm.collector.worker.segment.persistence,RequestEntity,Unnecessary Abstraction
+codellama_correct,com.alibaba.rocketmq.broker.api,SendMessageTest,Unutilized Abstraction
+codellama_correct,com.alibaba.rocketmq.client.producer,DefaultMQProducer,Unutilized Abstraction
+codellama_correct,org.apache.jasper.compiler,TestValidator,Unutilized Abstraction
+codellama_correct,org.apache.jasper.compiler,Echo,Unutilized Abstraction
+codellama_correct,org.apache.jasper.compiler,TestScriptingVariabler,Unutilized Abstraction
+codellama_correct,org.apache.jasper.compiler,Bug48616aTag,Unnecessary Abstraction
+codellama_correct,org.apache.jasper.compiler,Bug48616aTag,Unutilized Abstraction
+codellama_correct,org.apache.jasper.compiler,Bug48616bTag,Unnecessary Abstraction
+codellama_correct,org.apache.jasper.compiler,Bug48616bTag,Unutilized Abstraction
+codellama_correct,org.apache.jasper.compiler,Bug48616bTei,Unutilized Abstraction
+codellama_correct,org.apache.jasper.compiler,TestGenerator,Unutilized Abstraction
+codellama_correct,org.apache.jasper.compiler,Bug48701,Unutilized Abstraction
+codellama_correct,org.apache.jasper.compiler,Collector,Unutilized Abstraction
+codellama_correct,org.apache.jasper.compiler,NodeVisitor,Unutilized Abstraction
+codellama_correct,org.apache.jasper.compiler,TagPluginContextImpl,Unnecessary Abstraction
+codellama_correct,org.apache.jasper.compiler,TagPluginContextImpl,Unutilized Abstraction
+codellama_correct,org.apache.jasper.compiler,AntCompiler,Unutilized Abstraction
+codellama_correct,org.apache.jasper.compiler,SDEInstaller,Unutilized Abstraction
+codellama_correct,org.apache.jasper.compiler,TagLibraryInfoImpl,Imperative Abstraction
+codellama_correct,org.apache.jasper.compiler,TagLibraryInfoImpl,Unutilized Abstraction
+codellama_correct,org.apache.jasper.compiler,ImplicitTagLibraryInfo,Unutilized Abstraction
+codellama_correct,org.apache.catalina.realm,TestRealmBase,Unutilized Abstraction
+codellama_correct,org.apache.catalina.realm,TestJNDIRealm,Unutilized Abstraction
+codellama_correct,org.apache.catalina.realm,TestJNDIRealm,Deficient Encapsulation
+codellama_correct,org.apache.catalina.realm,DataSourceRealm,Unutilized Abstraction
+codellama_correct,org.apache.catalina.realm,JDBCRealm,Insufficient Modularization
+codellama_correct,org.apache.catalina.realm,UserDatabaseRealm,Unutilized Abstraction
+codellama_correct,org.apache.catalina.realm,name,Unutilized Abstraction
+codellama_correct,org.apache.catalina.realm,name,Broken Modularization
+codellama_correct,org.apache.catalina.realm,has,Unutilized Abstraction
+codellama_correct,org.apache.catalina.realm,CombinedRealm,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.db.compaction,LeveledCompactionStrategy,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.db.compaction,LongCompactionsTest,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.db.compaction,LongCompactionsTest,Deficient Encapsulation
+codellama_correct,org.apache.cassandra.db.compaction,LeveledCompactionTask,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.db.compaction,Scrubber,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.db.compaction.writers,MaxSSTableSizeWriter,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.db.compaction.writers,CompactionAwareWriter,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.db.compaction.writers,CompactionAwareWriter,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.db.compaction.writers,SplittingSizeTieredCompactionWriter,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.db.compaction.writers,MajorLeveledCompactionWriter,Unutilized Abstraction
+codellama_correct,org.apache.skywalking.apm.agent,SkyWalkingAgent,Unutilized Abstraction
+codellama_correct,org.apache.skywalking.apm.agent,Transformer,Unutilized Abstraction
+codellama_correct,org.apache.tomcat.websocket,WsSession,Insufficient Modularization
+codellama_correct,org.apache.tomcat.websocket,Constants,Deficient Encapsulation
+codellama_correct,org.apache.tomcat.websocket,WsReadListener,Unutilized Abstraction
+codellama_correct,org.apache.tomcat.websocket,WsWriteListener,Unutilized Abstraction
+codellama_correct,org.apache.tomcat.websocket,AsyncChannelWrapperSecure,Unutilized Abstraction
+codellama_correct,org.apache.tomcat.websocket,ReadTask,Unutilized Abstraction
+codellama_correct,org.apache.tomcat.websocket,WriteTask,Unutilized Abstraction
+codellama_correct,org.apache.flink.table.client.config,Execution,Unutilized Abstraction
+codellama_correct,org.apache.pulsar.broker.admin.v3,PackagesApiTest,Unutilized Abstraction
+codellama_correct,org.apache.tomcat.util.net,AprEndpoint,Insufficient Modularization
+codellama_correct,org.apache.tomcat.util.net,Acceptor,Unnecessary Abstraction
+codellama_correct,org.apache.tomcat.util.net,Poller,Unnecessary Abstraction
+codellama_correct,org.apache.tomcat.util.net,Poller,Unutilized Abstraction
+codellama_correct,org.apache.tomcat.util.net,Sendfile,Unnecessary Abstraction
+codellama_correct,org.apache.tomcat.util.net,Sendfile,Unutilized Abstraction
+codellama_correct,org.apache.tomcat.util.net,SocketBufferHandler,Unutilized Abstraction
+codellama_correct,org.apache.tomcat.util.net,NioEndpoint,Insufficient Modularization
+codellama_correct,org.apache.flink.runtime.state,SharedStateRegistryImpl,Unutilized Abstraction
+codellama_correct,org.apache.catalina.core,StandardWrapperValve,Unutilized Abstraction
+codellama_correct,org.apache.catalina.core,TestStandardContextValve,Unutilized Abstraction
+codellama_correct,org.apache.catalina.core,Bug51653ErrorTrigger,Unutilized Abstraction
+codellama_correct,org.apache.catalina.core,Bug51653ErrorPage,Unutilized Abstraction
+codellama_correct,org.apache.catalina.core,StandardWrapper,Multifaceted Abstraction
+codellama_correct,org.apache.catalina.core,StandardWrapper,Unutilized Abstraction
+codellama_correct,org.apache.catalina.core,DummyRequest,Multifaceted Abstraction
+codellama_correct,org.apache.catalina.core,DummyRequest,Unutilized Abstraction
+codellama_correct,org.apache.catalina.core,DummyRequest,Insufficient Modularization
+codellama_correct,org.apache.catalina.core,TestStandardContextResources,Unutilized Abstraction
+codellama_correct,org.apache.catalina.core,GetResourceServlet,Unutilized Abstraction
+codellama_correct,org.apache.tomcat.util.http,TestParameters,Unutilized Abstraction
+codellama_correct,org.apache.tomcat.util.http,TestMimeHeadersIntegration,Unutilized Abstraction
+codellama_correct,org.apache.tomcat.util.http,TestMimeHeadersIntegration,Deficient Encapsulation
+codellama_correct,org.apache.tomcat.util.http,HeaderCountLogValve,Deficient Encapsulation
+codellama_correct,org.apache.cassandra.gms,VersionedValue,Deficient Encapsulation
+codellama_correct,org.apache.cassandra.gms,VersionedValue,Insufficient Modularization
+codellama_correct,org.apache.cassandra.gms,VersionedValueFactory,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.gms,VersionedValueSerializer,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.gms,has,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.gms,has,Broken Modularization
+codellama_correct,org.apache.cassandra.gms,has,Unnecessary Abstraction
+codellama_correct,org.apache.cassandra.gms,has,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.gms,names,Unnecessary Abstraction
+codellama_correct,org.apache.cassandra.gms,VersionedValue,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.gms,VersionedValue,Deficient Encapsulation
+codellama_correct,org.apache.cassandra.gms,VersionedValue,Insufficient Modularization
+codellama_correct,org.apache.cassandra.gms,VersionedValueFactory,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.gms,VersionedValueSerializer,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.gms,GossipDigestSyn,Deficient Encapsulation
+codellama_correct,org.apache.cassandra.gms,GossipDigestSynSerializer,Unutilized Abstraction
+codellama_correct,org.apache.jmeter.reporters.gui,ResultSaverGui,Unutilized Abstraction
+codellama_correct,io.druid.cli,QueryJettyServerInitializer,Unutilized Abstraction
+codellama_correct,io.druid.cli,MiddleManagerJettyServerInitializer,Unutilized Abstraction
+codellama_correct,io.druid.cli,CoordinatorJettyServerInitializer,Unutilized Abstraction
+codellama_correct,io.druid.cli,RouterJettyServerInitializer,Unutilized Abstraction
+codellama_correct,io.druid.cli,CliMiddleManager,Unutilized Abstraction
+codellama_correct,io.druid.server.http,CoordinatorResource,Unutilized Abstraction
+codellama_correct,io.druid.server,StatusResource,Cyclic-Dependent Modularization
+codellama_correct,io.druid.server,Status,Cyclic-Dependent Modularization
+codellama_correct,io.druid.server,ModuleVersion,Unutilized Abstraction
+codellama_correct,io.druid.server,SetAndVerifyContextQueryRunner,Unutilized Abstraction
+codellama_correct,io.druid.server.security,UnsecuredResourceFilter,Unutilized Abstraction
+codellama_correct,org.apache.rocketmq.client,ClientConfig,Insufficient Modularization
+codellama_correct,org.apache.rocketmq.remoting,RequestHeader,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.distributed,SerializableRunnable,Unnecessary Abstraction
+codellama_correct,org.apache.cassandra.distributed,SerializableConsumer,Unnecessary Abstraction
+codellama_correct,org.apache.cassandra.distributed,SerializableBiConsumer,Unnecessary Abstraction
+codellama_correct,org.apache.cassandra.distributed,SerializableFunction,Unnecessary Abstraction
+codellama_correct,org.apache.cassandra.distributed,SerializableBiFunction,Unnecessary Abstraction
+codellama_correct,org.apache.cassandra.distributed,InstanceFunction,Unnecessary Abstraction
+codellama_correct,org.apache.cassandra.distributed,InstanceFunction,Unutilized Abstraction
+codellama_correct,org.apache.hadoop.yarn.server.nodemanager.webapp,MockContainer,Unutilized Abstraction
+codellama_correct,org.apache.hadoop.yarn.server.nodemanager.webapp,MockContainer,Insufficient Modularization
+codellama_correct,org.apache.catalina.connector,CoyoteInputStream,Unutilized Abstraction
+codellama_correct,org.apache.catalina.connector,TestSendFile,Unutilized Abstraction
+codellama_correct,org.apache.catalina.connector,TestSendFile,Deficient Encapsulation
+codellama_correct,org.apache.catalina.connector,TestRequest,Unutilized Abstraction
+codellama_correct,org.apache.catalina.connector,TestRequest,Deficient Encapsulation
+codellama_correct,org.apache.catalina.connector,Bug37794Servlet,Unutilized Abstraction
+codellama_correct,org.apache.catalina.connector,Bug37794Client,Broken Hierarchy
+codellama_correct,org.apache.catalina.connector,SimpleHttpClient,Deficient Encapsulation
+codellama_correct,org.apache.catalina.connector,SimpleHttpClient,Broken Modularization
+codellama_correct,org.apache.catalina.connector,TestMaxConnections,Deficient Encapsulation
+codellama_correct,org.apache.catalina.connector,TestMaxConnections,Cyclic-Dependent Modularization
+codellama_correct,org.apache.catalina.connector,ConnectThread,Unutilized Abstraction
+codellama_correct,org.apache.catalina.connector,TestClient,Broken Hierarchy
+codellama_correct,org.apache.catalina.connector,SimpleServlet,Cyclic-Dependent Modularization
+codellama_correct,org.apache.catalina.connector,TestSendFile,Unutilized Abstraction
+codellama_correct,org.apache.catalina.connector,TestSendFile,Deficient Encapsulation
+codellama_correct,org.apache.catalina.connector,WritingServlet,Unutilized Abstraction
+codellama_correct,org.apache.coyote.http11.filters,ChunkedInputFilter,Unutilized Abstraction
+codellama_correct,com.ai.cloud.skywalking.plugin,AbstractClassEnhancePluginDefine,Unutilized Abstraction
+codellama_correct,com.ai.cloud.skywalking.plugin,TracingBootstrap,Unutilized Abstraction
+codellama_correct,org.apache.jmeter.protocol.http.proxy,TestProxyControl,Unutilized Abstraction
+codellama_correct,org.apache.jmeter.functions,TestTimeFunction,Unutilized Abstraction
+codellama_correct,org.apache.jmeter.functions,Test,Unutilized Abstraction
+codellama_correct,org.apache.jmeter.functions,TestIsVarDefined,Unutilized Abstraction
+codellama_correct,org.apache.jmeter.functions,AbstractFunction,Rebellious Hierarchy
+codellama_correct,org.apache.jmeter.functions,InvalidVariableException,Unutilized Abstraction
+codellama_correct,org.apache.jmeter.protocol.http.util.accesslog,TestLogFilter,Unutilized Abstraction
+codellama_correct,org.apache.jmeter.assertions,XMLSchemaAssertionTest,Unutilized Abstraction
+codellama_correct,org.apache.jmeter.assertions,SizeAssertionTest,Unutilized Abstraction
+codellama_correct,org.apache.jmeter.assertions,JSONPathAssertion,Unutilized Abstraction
+codellama_correct,org.apache.jmeter.assertions,JSONPathAssertion,Deficient Encapsulation
+codellama_correct,org.apache.jmeter.assertions,Assertion,Unutilized Abstraction
+codellama_correct,org.apache.jmeter.assertions,AssertionImpl,Unutilized Abstraction
+codellama_correct,org.apache.jmeter.assertions,AssertionResult,Unnecessary Abstraction
+codellama_correct,org.apache.jmeter.assertions,XMLSchemaAssertionTest,Unutilized Abstraction
+codellama_correct,org.apache.jmeter.extractor,TestXPathExtractor,Unutilized Abstraction
+codellama_correct,org.apache.jmeter.extractor,BSFPostProcessorBeanInfo,Unutilized Abstraction
+codellama_correct,org.apache.jmeter.extractor,DebugPostProcessorBeanInfo,Unutilized Abstraction
+codellama_correct,org.apache.jmeter.extractor,DebugPostProcessor,Unutilized Abstraction
+codellama_correct,org.apache.jmeter.extractor,BeanShellPostProcessorBeanInfo,Unutilized Abstraction
+codellama_correct,org.apache.jmeter.protocol.http.sampler,HTTPNullSampler,Unutilized Abstraction
+codellama_correct,org.apache.jorphan.reflect,TestFunctor,Unutilized Abstraction
+codellama_correct,org.apache.jorphan.reflect,HasName,Unutilized Abstraction
+codellama_correct,org.apache.jorphan.reflect,HasString,Unutilized Abstraction
+codellama_correct,org.apache.jorphan.reflect,Test1,Unutilized Abstraction
+codellama_correct,org.apache.jorphan.reflect,Test1a,Unutilized Abstraction
+codellama_correct,org.apache.jorphan.reflect,Test2,Unutilized Abstraction
+codellama_correct,org.apache.jmeter.control,TestWhileController,Unutilized Abstraction
+codellama_correct,org.apache.jmeter.control,ForeachController,Unutilized Abstraction
+codellama_correct,org.apache.jmeter.control,Controller,Unutilized Abstraction
+codellama_correct,org.apache.jmeter.control,ThroughputController,Deficient Encapsulation
+codellama_correct,org.apache.jmeter.control,ThroughputController,Insufficient Modularization
+codellama_correct,org.apache.jmeter.control,ForeachController,Unutilized Abstraction
+codellama_correct,org.apache.jmeter.threads,TestTestCompiler,Unutilized Abstraction
+codellama_correct,org.apache.jmeter.threads,ThreadGroup,Deficient Encapsulation
+codellama_correct,org.apache.jmeter.threads,ThreadGroup,Unutilized Abstraction
+codellama_correct,org.apache.jmeter.threads,ThreadGroup,Deficient Encapsulation
+codellama_correct,org.apache.jmeter.threads,TestUnmodifiableJMeterVariables,Unutilized Abstraction
+codellama_correct,org.apache.jmeter.engine.util,TestValueReplacer,Unutilized Abstraction
+codellama_correct,org.apache.jmeter.testbeans.gui,PackageTest,Unutilized Abstraction
+codellama_correct,org.apache.coyote.http2,TestHttp2Section_6_3,Unutilized Abstraction
+codellama_correct,org.apache.coyote.http2,TestHttp2Section_5_1,Unutilized Abstraction
+codellama_correct,com.alibaba.rocketmq.client,ClientConfig,Insufficient Modularization
+codellama_correct,com.alibaba.rocketmq.client.consumer,DefaultMQPullConsumer,Insufficient Modularization
+codellama_correct,compressionFilters,CompressionServletResponseWrapper,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.cql3.statements,AlterTypeStatement,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.db.composites,CellNameType,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.db.composites,CellNameType,Insufficient Modularization
+codellama_correct,org.apache.cassandra.db.composites,Deserializer,Unutilized Abstraction
+codellama_correct,org.apache.dubbo.config,ApplicationConfig,Unutilized Abstraction
+codellama_correct,org.apache.dubbo.config,MetricsConfig,Unutilized Abstraction
+codellama_correct,org.apache.dubbo.registry.consul,ConsulServiceDiscovery,Unutilized Abstraction
+codellama_correct,org.apache.dubbo.registry.consul,ConsulNotifier,Unutilized Abstraction
+codellama_correct,org.apache.dubbo.registry.consul,name,Unutilized Abstraction
+codellama_correct,org.apache.dubbo.registry.consul,name,Broken Modularization
+codellama_correct,org.apache.dubbo.registry.consul,has,Unutilized Abstraction
+codellama_correct,org.apache.dubbo.registry.consul,has,Broken Modularization
+codellama_correct,org.apache.dubbo.registry.consul,has,Unutilized Abstraction
+codellama_correct,org.apache.dubbo.registry.consul,has,Broken Modularization
+codellama_correct,io.druid.server.coordination,BaseZkCoordinator,Unutilized Abstraction
+codellama_correct,org.skywalking.apm.agent.core.sampling,SamplingService,Unutilized Abstraction
+codellama_correct,org.apache.dubbo.rpc.protocol.tri,UnaryServerStream,Unutilized Abstraction
+codellama_correct,org.apache.dubbo.rpc.protocol.tri,UnaryServerTransportObserver,Unutilized Abstraction
+codellama_correct,org.apache.dubbo.rpc.protocol.tri,UnaryClientTransportObserver,Unutilized Abstraction
+codellama_correct,org.apache.dubbo.rpc.protocol.tri,UnaryClientStreamObserverImpl,Unutilized Abstraction
+codellama_correct,org.apache.dubbo.rpc.protocol.tri,GracefulShutdown,Unutilized Abstraction
+codellama_correct,org.apache.dubbo.rpc.protocol.tri,SingleMessageMarshaller,Unutilized Abstraction
+codellama_correct,org.apache.dubbo.rpc.protocol.tri,was,Unutilized Abstraction
+codellama_correct,org.apache.dubbo.rpc.protocol.tri,was,Broken Modularization
+codellama_correct,org.apache.dubbo.rpc.protocol.tri,was,Unutilized Abstraction
+codellama_correct,org.apache.dubbo.rpc.protocol.tri,was,Broken Modularization
+codellama_correct,org.apache.dubbo.rpc.protocol.tri,of,Unutilized Abstraction
+codellama_correct,org.apache.dubbo.rpc.protocol.tri,of,Broken Modularization
+codellama_correct,org.apache.dubbo.rpc.protocol.tri,was,Unutilized Abstraction
+codellama_correct,org.apache.dubbo.rpc.protocol.tri,was,Broken Modularization
+codellama_correct,org.apache.dubbo.rpc.protocol.tri,CancelableStreamObserver,Unutilized Abstraction
+codellama_correct,org.apache.dubbo.rpc.protocol.tri,ClientStream,Unutilized Abstraction
+codellama_correct,org.apache.dubbo.rpc.protocol.tri,ClientStreamObserverImpl,Unutilized Abstraction
+codellama_correct,org.apache.dubbo.rpc.protocol.tri,ClientStreamObserverImpl,Broken Hierarchy
+codellama_correct,org.apache.dubbo.rpc.protocol.tri,UnaryClientStream,Unutilized Abstraction
+codellama_correct,org.apache.dubbo.rpc.protocol.tri,UnaryClientTransportObserver,Unutilized Abstraction
+codellama_correct,org.apache.dubbo.rpc.protocol.tri,TripleProtocolTest,Unutilized Abstraction
+codellama_correct,org.apache.pulsar.broker.resourcegroup,ResourceGroupRateLimiterTest,Unutilized Abstraction
+codellama_correct,org.apache.pulsar.broker.protocol,ProtocolHandlerWithClassLoaderTest,Unutilized Abstraction
+codellama_correct,org.apache.bookkeeper.mledger.offload.jcloud.impl,BufferedOffloadStreamTest,Unutilized Abstraction
+codellama_correct,org.apache.pulsar.admin.cli,TestCmdClusters,Unutilized Abstraction
+codellama_correct,org.apache.pulsar.admin.cli,CmdTopics,Unutilized Abstraction
+codellama_correct,org.apache.pulsar.admin.cli,CmdBase,Unutilized Abstraction
+codellama_correct,org.apache.pulsar.admin.cli,Parameters,Unutilized Abstraction
+codellama_correct,org.apache.flink.streaming.api.checkpoint,CheckpointedFunction,Unutilized Abstraction
+codellama_correct,org.apache.hadoop.ozone.container.common.impl,ContainerStorageLocation,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.auth,IAuthorizer,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.auth,PermissionsCacheMBean,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.auth,RolesCache,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.auth,PasswordAuthenticator,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.auth,PasswordAuthenticator,Deficient Encapsulation
+codellama_correct,org.apache.cassandra.auth,PlainTextSaslAuthenticator,Unutilized Abstraction
+codellama_correct,org.apache.pulsar.functions.runtime,FunctionIDTest,Unutilized Abstraction
+codellama_correct,eu.stratosphere.pact.compiler.plan,SingleInputNode,Unutilized Abstraction
+codellama_correct,org.apache.coyote.ajp,AjpProcessor,Unutilized Abstraction
+codellama_correct,com.alibaba.rocketmq.example.transaction,TransactionProducer,Unutilized Abstraction
+codellama_correct,com.alibaba.rocketmq.example.transaction,TransactionProducer,Unutilized Abstraction
+codellama_correct,org.apache.flink.table.runtime.operators.rank,TopNBuffer,Unutilized Abstraction
+codellama_correct,org.apache.pulsar.client.admin,ResourceQuotas,Unutilized Abstraction
+codellama_correct,org.apache.pulsar.client.admin,BrokerStats,Unutilized Abstraction
+codellama_correct,org.apache.pulsar.client.admin,Bookies,Unutilized Abstraction
+codellama_correct,org.apache.pulsar.client.admin,Sink,Unutilized Abstraction
+codellama_correct,org.apache.pulsar.client.admin,ProxyStats,Unutilized Abstraction
+codellama_correct,org.apache.pulsar.client.admin,PulsarAdminException,Insufficient Modularization
+codellama_correct,org.apache.pulsar.client.admin,NotAuthorizedException,Unutilized Abstraction
+codellama_correct,org.apache.pulsar.client.admin,NotFoundException,Unutilized Abstraction
+codellama_correct,org.apache.pulsar.client.admin,NotAllowedException,Unutilized Abstraction
+codellama_correct,org.apache.pulsar.client.admin,ConflictException,Unutilized Abstraction
+codellama_correct,org.apache.pulsar.client.admin,PreconditionFailedException,Unutilized Abstraction
+codellama_correct,org.apache.pulsar.client.admin,ServerSideErrorException,Unutilized Abstraction
+codellama_correct,org.apache.pulsar.client.admin,HttpErrorException,Unutilized Abstraction
+codellama_correct,org.apache.pulsar.client.admin,ConnectException,Unutilized Abstraction
+codellama_correct,org.apache.pulsar.client.admin,GettingAuthenticationDataException,Unutilized Abstraction
+codellama_correct,org.apache.pulsar.functions.runtime.process,ProcessRuntimeFactory,Unutilized Abstraction
+codellama_correct,org.apache.pulsar.functions.instance,ContextImplTest,Unutilized Abstraction
+codellama_correct,org.apache.pulsar.client.admin.internal,PulsarAdminBuilderImpl,Unutilized Abstraction
+codellama_correct,org.apache.pulsar.client.admin.internal,PulsarAdminBuilderImpl,Insufficient Modularization
+codellama_correct,org.apache.pulsar.functions.runtime.thread,ThreadRuntimeFactory,Unutilized Abstraction
+codellama_correct,org.apache.pulsar.functions.runtime.thread,ThreadRuntime,Unutilized Abstraction
+codellama_correct,org.apache.pulsar.common.functions,ExternalPulsarConfig,Unnecessary Abstraction
+codellama_correct,org.apache.pulsar.common.functions,ExternalPulsarConfig,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.net,MessageSerializer,Unutilized Abstraction
+codellama_correct,org.apache.rocketmq.store.ha.autoswitch,MetadataFile,Unutilized Abstraction
+codellama_correct,org.apache.rocketmq.store.ha.autoswitch,AutoSwitchHAClient,Unutilized Abstraction
+codellama_correct,org.apache.rocketmq.store.ha.autoswitch,AutoSwitchHAConnection,Unutilized Abstraction
+codellama_correct,org.apache.rocketmq.store.ha.autoswitch,ReadSocketService,Unnecessary Abstraction
+codellama_correct,org.apache.rocketmq.store.ha.autoswitch,ReadSocketService,Unutilized Abstraction
+codellama_correct,org.apache.tomcat.jni,TestSocketServer,Unutilized Abstraction
+codellama_correct,org.apache.skywalking.oap.server.core.analysis.manual.segment,SegmentRecord,Deficient Encapsulation
+codellama_correct,org.apache.skywalking.oap.server.core.analysis.manual.segment,Builder,Unutilized Abstraction
+codellama_correct,org.apache.skywalking.oap.server.core.analysis.manual.log,AbstractLogRecord,Unutilized Abstraction
+codellama_correct,org.apache.skywalking.oap.server.core.analysis.manual.log,AbstractLogRecord,Deficient Encapsulation
+codellama_correct,org.apache.skywalking.oap.server.core.analysis.manual.log,Builder,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.distributed.impl,DistributedTestSnitch,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.distributed.test,DistributedTestBase,Deficient Encapsulation
+codellama_correct,org.apache.cassandra.distributed.test,NetworkTopologyTest,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.distributed.test,NetworkTopologyTest,Broken Hierarchy
+codellama_correct,org.apache.cassandra.distributed.api,IInstanceConfig,Unutilized Abstraction
+codellama_correct,org.apache.catalina.tribes.io,BufferPool,Deficient Encapsulation
+codellama_correct,com.alibaba.rocketmq.common.sysflag,MessageSysFlag,Unutilized Abstraction
+codellama_correct,com.alibaba.rocketmq.common.sysflag,MessageSysFlag,Deficient Encapsulation
+codellama_correct,com.alibaba.rocketmq.filtersrv.processor,DefaultRequestProcessor,Unutilized Abstraction
+codellama_correct,com.alibaba.rocketmq.remoting.netty,NettyRequestProcessor,Unutilized Abstraction
+codellama_correct,com.alibaba.rocketmq.remoting.netty,NettyEncoder,Unutilized Abstraction
+codellama_correct,org.apache.rocketmq.tools.command.topic,UpdateTopicSubCommand,Unutilized Abstraction
+codellama_correct,org.apache.rocketmq.tools.command.topic,TopicListSubCommand,Unutilized Abstraction
+codellama_correct,org.apache.rocketmq.tools.command.topic,UpdateTopicSubCommand,Unutilized Abstraction
+codellama_correct,org.apache.jmeter.protocol.system.gui,SystemSamplerGui,Unutilized Abstraction
+codellama_correct,org.apache.jmeter.gui.action,Load,Unutilized Abstraction
+codellama_correct,org.apache.jmeter.gui.action,Save,Unutilized Abstraction
+codellama_correct,org.apache.jmeter.gui.action,Save,Deficient Encapsulation
+codellama_correct,org.apache.jmeter.gui.action,Test,Unutilized Abstraction
+codellama_correct,org.apache.jmeter.gui.action,ResetSearchCommand,Unutilized Abstraction
+codellama_correct,org.apache.jmeter.gui.action,Command,Unutilized Abstraction
+codellama_correct,org.apache.hadoop.hdfs.server.datanode,BlockVolumeChoosingPolicy,Unutilized Abstraction
+codellama_correct,org.apache.skywalking.oap.server.storage.plugin.banyandb,BanyanDBIndexInstaller,Unutilized Abstraction
+codellama_correct,org.apache.skywalking.oap.server.storage.plugin.jdbc.h2.dao,H2TableInstaller,Unutilized Abstraction
+codellama_correct,org.apache.skywalking.oap.server.storage.plugin.jdbc.mysql,MySQLTableInstaller,Unutilized Abstraction
+codellama_correct,org.apache.skywalking.oap.server.storage.plugin.jdbc.shardingsphere.dao,ShardingMetricsQueryDAO,Unutilized Abstraction
+codellama_correct,org.apache.skywalking.oap.server.storage.plugin.jdbc.postgresql,PostgreSQLTableInstaller,Unutilized Abstraction
+codellama_correct,io.druid.server.coordinator,HttpLoadQueuePeonTest,Unutilized Abstraction
+codellama_correct,io.druid.server.coordinator,TestDruidCoordinatorConfig,Unutilized Abstraction
+codellama_correct,io.druid.server.coordinator,TestHttpClient,Unutilized Abstraction
+codellama_correct,com.alibaba.rocketmq.common.help,FAQUrl,Unutilized Abstraction
+codellama_correct,org.apache.catalina.valves,CometConnectionManagerValve,Unutilized Abstraction
+codellama_correct,org.apache.skywalking.oap.server.receiver.envoy.als.tcp.k8s,K8sALSServiceMeshTCPAnalysis,Unutilized Abstraction
+codellama_correct,org.apache.skywalking.oap.server.receiver.envoy.als,K8sALSServiceMeshHTTPAnalysis,Unutilized Abstraction
+codellama_correct,org.apache.tomcat.util.compat,Jre22Compat,Unutilized Abstraction
+codellama_correct,org.apache.tomcat.util.compat,Jre22CompatHolder,Unnecessary Abstraction
+codellama_correct,org.apache.skywalking.apm.plugin.httpclient.v3,HttpClientExecuteInterceptor,Unutilized Abstraction
+codellama_correct,io.druid.segment.data,CompressedLongsIndexedSupplierTest,Unutilized Abstraction
+codellama_correct,com.ai.cloud.skywalking.sender,DataSenderChecker,Unutilized Abstraction
+codellama_correct,com.ai.cloud.skywalking.sender,DataSenderFactoryWithBalance,Unutilized Abstraction
+codellama_correct,com.ai.cloud.skywalking.sender,DataSenderChecker,Unutilized Abstraction
+codellama_correct,com.ai.cloud.skywalking.buffer,BufferGroup,Unutilized Abstraction
+codellama_correct,com.ai.cloud.skywalking.buffer,ConsumerWorker,Unutilized Abstraction
+codellama_correct,io.druid.indexing.overlord.scaling,SimpleResourceManagementStrategy,Unutilized Abstraction
+codellama_correct,io.druid.indexing.overlord.scaling,EC2AutoScalingStrategy,Unutilized Abstraction
+codellama_correct,org.apache.jmeter.util,ScriptingBeanInfoSupport,Unutilized Abstraction
+codellama_correct,org.apache.jmeter.util,LocaleChangeListener,Unutilized Abstraction
+codellama_correct,org.apache.pulsar,PulsarStandalone,Multifaceted Abstraction
+codellama_correct,org.apache.pulsar,PulsarStandalone,Unutilized Abstraction
+codellama_correct,com.alibaba.dubbo.remoting,ChannelHandlerWrapper,Unutilized Abstraction
+codellama_correct,com.alibaba.dubbo.common.utils,CompatibleTypeUtilsTest,Unutilized Abstraction
+codellama_correct,com.alibaba.dubbo.common.utils,AtomicPositiveIntegerTest,Unutilized Abstraction
+codellama_correct,com.alibaba.dubbo.common.utils,CollectionUtilsTest,Unutilized Abstraction
+codellama_correct,com.alibaba.dubbo.common.model.person,PersonInfo,Insufficient Modularization
+codellama_correct,com.alibaba.dubbo.common.extensionloader.ext1.impl,Ext1Impl1,Unutilized Abstraction
+codellama_correct,com.alibaba.dubbo.rpc.protocol.hessian,HessianRpcInvoker,Unutilized Abstraction
+codellama_correct,com.alibaba.dubbo.registry.zookeeper,ZookeeperRegistryFactory,Unutilized Abstraction
+codellama_correct,com.alibaba.dubbo.registry.zookeeper,ZookeeperRegistry,Unutilized Abstraction
+codellama_correct,com.alibaba.dubbo.common.extensionloader.ext3.impl,Ext3Impl1,Unutilized Abstraction
+codellama_correct,com.alibaba.dubbo.common.extensionloader.ext6_inject,Ext6,Unutilized Abstraction
+codellama_correct,com.alibaba.dubbo.common.logger.support,FailsafeLogger,Unutilized Abstraction
+codellama_correct,com.alibaba.dubbo.common.logger.support,FailsafeLogger,Insufficient Modularization
+codellama_correct,com.alibaba.dubbo.common.serialize.serialization,Hessian2SerializationTest,Unutilized Abstraction
+codellama_correct,com.alibaba.dubbo.common.serialize.serialization,CompactedJavaSerializationTest,Unnecessary Abstraction
+codellama_correct,com.alibaba.dubbo.common.serialize.serialization,CompactedJavaSerializationTest,Unutilized Abstraction
+codellama_correct,com.alibaba.dubbo.common.serialize.serialization,AbstractSerializationPersionFailTest,Unutilized Abstraction
+codellama_correct,com.alibaba.dubbo.common.serialize.serialization,JavaSerializationTest,Unnecessary Abstraction
+codellama_correct,com.alibaba.dubbo.common.serialize.serialization,JavaSerializationTest,Unutilized Abstraction
+codellama_correct,com.alibaba.dubbo.common.serialize.serialization,JsonSerializationTest,Unutilized Abstraction
+codellama_correct,com.alibaba.dubbo.common.serialize.serialization,JsonSerializationTest,Insufficient Modularization
+codellama_correct,com.alibaba.dubbo.common.serialize.serialization,AbstractSerializationTest,Unutilized Abstraction
+codellama_correct,com.alibaba.dubbo.common.extensionloader.ext2.impl,Ext2Impl1,Unutilized Abstraction
+codellama_correct,com.alibaba.dubbo.monitor.dubbo,DubboMonitor,Unutilized Abstraction
+codellama_correct,com.alibaba.dubbo.rpc.filter,AccessLogFilter,Unutilized Abstraction
+codellama_correct,com.alibaba.dubbo.rpc.filter,LogTask,Unutilized Abstraction
+codellama_correct,com.alibaba.dubbo.rpc.filter,TpsLimitFilter,Unutilized Abstraction
+codellama_correct,com.alibaba.dubbo.rpc.filter,GenericImplFilter,Unutilized Abstraction
+codellama_correct,com.alibaba.dubbo.rpc.filter,AccessLogFilter,Unutilized Abstraction
+codellama_correct,com.alibaba.dubbo.container.page,PageServlet,Unutilized Abstraction
+codellama_correct,com.alibaba.dubbo.rpc.proxy,RemoteService,Unutilized Abstraction
+codellama_correct,com.alibaba.dubbo.rpc.protocol.dubbo,ChannelWrappedInvoker,Unutilized Abstraction
+codellama_correct,com.alibaba.dubbo.rpc.protocol.dubbo,ChannelWrapper,Unutilized Abstraction
+codellama_correct,com.alibaba.dubbo.rpc.protocol.dubbo,LazyConnectExchangeClient,Unutilized Abstraction
+codellama_correct,com.alibaba.dubbo.rpc.protocol.dubbo,LazyConnectExchangeClient,Insufficient Modularization
+codellama_correct,com.alibaba.dubbo.rpc.protocol.dubbo,LazyConnectExchangeClient,Unutilized Abstraction
+codellama_correct,com.alibaba.dubbo.rpc.protocol.dubbo,LazyConnectExchangeClient,Insufficient Modularization
+codellama_correct,com.alibaba.dubbo.common.extensionloader.ext5,Ext5NoAdaptiveMethod,Unutilized Abstraction
+codellama_correct,com.alibaba.dubbo.remoting.transport,AbstractPeer,Unutilized Abstraction
+codellama_correct,com.alibaba.dubbo.config.spring,ServiceBean,Unutilized Abstraction
+codellama_correct,com.alibaba.dubbo.remoting.transport.netty,NettyClientToServerTest,Unutilized Abstraction
+codellama_correct,com.alibaba.dubbo.remoting.handler,WrappedChannelHandlerTest,Unutilized Abstraction
+codellama_correct,com.alibaba.dubbo.remoting.handler,BizChannelHander,Unutilized Abstraction
+codellama_correct,com.alibaba.dubbo.remoting.handler,BizException,Unnecessary Abstraction
+codellama_correct,com.alibaba.dubbo.remoting.handler,MockedChannel,Unutilized Abstraction
+codellama_correct,com.alibaba.dubbo.rpc.cluster,Router,Unutilized Abstraction
+codellama_correct,com.alibaba.dubbo.demo.api,IDemoCallback,Unutilized Abstraction
+codellama_correct,com.alibaba.dubbo.registry.dubbo,MockedClient,Unutilized Abstraction
+codellama_correct,com.alibaba.dubbo.registry.dubbo,MockedClient,Insufficient Modularization
+codellama_correct,com.alibaba.dubbo.rpc.cluster.loadbalance,ConsistentHashLoadBalance,Unutilized Abstraction
+codellama_correct,org.apache.skywalking.apm.plugin.elasticsearch.v6.interceptor,RestHighLevelClientConInterceptor,Unutilized Abstraction
+codellama_correct,org.apache.rocketmq.logappender,LogbackTest,Unutilized Abstraction
+codellama_correct,org.apache.rocketmq.logappender,Log4jTest,Unutilized Abstraction
+codellama_correct,org.apache.pulsar.functions.runtime.functioncache,FunctionCacheManagerImplTest,Unutilized Abstraction
+codellama_correct,org.apache.pulsar.functions.runtime.functioncache,FunctionCacheManager,Unutilized Abstraction
+codellama_correct,org.apache.pulsar.functions.runtime.functioncache,FunctionCacheEntryTest,Unutilized Abstraction
+codellama_correct,org.apache.pulsar.functions.runtime.spawner,AssignmentInfo,Unnecessary Abstraction
+codellama_correct,org.apache.pulsar.functions.runtime.spawner,Spawner,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.io.compress,CompressionParameters,Deficient Encapsulation
+codellama_correct,org.apache.cassandra.io.compress,CompressedRandomAccessReaderTest,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.io.compress,CompressorTest,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.io.compress,CompressedSequentialWriterTest,Unutilized Abstraction
+codellama_correct,org.apache.jmeter.protocol.http.gui,CookiePanel,Unutilized Abstraction
+codellama_correct,org.apache.catalina.ha.context,ReplApplContext,Unutilized Abstraction
+codellama_correct,org.apache.catalina.ha.context,MultiEnumeration,Unutilized Abstraction
+codellama_correct,org.apache.catalina.ha.context,ReplicatedContext,Unutilized Abstraction
+codellama_correct,org.apache.catalina.ha.context,ReplApplContext,Unutilized Abstraction
+codellama_correct,org.apache.catalina.ha.context,MultiEnumeration,Unutilized Abstraction
+codellama_correct,org.apache.dubbo.rpc.protocol.dubbo,DecodeableRpcResult,Unutilized Abstraction
+codellama_correct,org.apache.dubbo.rpc.protocol.dubbo,ReferenceCountExchangeClient,Unutilized Abstraction
+codellama_correct,org.apache.dubbo.rpc.protocol.dubbo,ReferenceCountExchangeClient,Insufficient Modularization
+codellama_correct,org.apache.jmeter.testelement,AbstractTestElement,Insufficient Modularization
+codellama_correct,io.druid.indexing.overlord,TaskRunnerListener,Unutilized Abstraction
+codellama_correct,io.druid.indexing.overlord,TaskLockBoxConcurrencyTest,Unutilized Abstraction
+codellama_correct,io.druid.indexing.overlord,TaskLockBoxConcurrencyTest,Deficient Encapsulation
+codellama_correct,io.druid.indexing.overlord,MetadataTaskStorage,Unutilized Abstraction
+codellama_correct,io.druid.indexing.overlord,RemoteTaskRunnerRunPendingTasksConcurrencyTest,Unutilized Abstraction
+codellama_correct,io.druid.indexing.worker,WorkerTaskMonitorTest,Unutilized Abstraction
+codellama_correct,io.druid.indexing.common,TaskStatus,Deficient Encapsulation
+codellama_correct,io.druid.indexing.common,TaskInfoProvider,Unutilized Abstraction
+codellama_correct,io.druid.testing.clients,OverlordResourceTestClient,Unutilized Abstraction
+codellama_correct,io.druid.testing.clients,OverlordResourceTestClient,Unutilized Abstraction
+codellama_correct,io.druid.indexing.test,TestIndexerMetadataStorageCoordinator,Unutilized Abstraction
+codellama_correct,org.apache.flink.runtime.rpc,RpcEndpoint,Unutilized Abstraction
+codellama_correct,org.apache.flink.runtime.rpc.akka,AkkaRpcService,Unutilized Abstraction
+codellama_correct,com.alibaba.rocketmq.research.fastjson,Test,Unutilized Abstraction
+codellama_correct,org.apache.pulsar.client.kafka.compat,PulsarConsumerKafkaConfig,Unutilized Abstraction
+codellama_correct,org.apache.pulsar.client.kafka.compat,PulsarConsumerKafkaConfig,Deficient Encapsulation
+codellama_correct,org.apache.flink.runtime.checkpoint,DummyKeyedStateHandle,Unutilized Abstraction
+codellama_correct,org.apache.flink.runtime.checkpoint,ZooKeeperCompletedCheckpointStoreITCase,Unutilized Abstraction
+codellama_correct,org.apache.flink.runtime.checkpoint,ExecutionGraphCheckpointCoordinatorTest,Unutilized Abstraction
+codellama_correct,org.apache.jmeter.testelement.property,CollectionProperty,Insufficient Modularization
+codellama_correct,org.apache.jmeter.testelement.property,Test,Unutilized Abstraction
+codellama_correct,org.apache.jmeter.testelement.property,CollectionProperty,Unutilized Abstraction
+codellama_correct,org.apache.jmeter.testelement.property,CollectionProperty,Insufficient Modularization
+codellama_correct,org.apache.jmeter.testelement.property,Test,Unutilized Abstraction
+codellama_correct,org.apache.jmeter.testelement.property,CollectionProperty,Unutilized Abstraction
+codellama_correct,org.apache.jmeter.testelement.property,CollectionProperty,Insufficient Modularization
+codellama_correct,org.apache.pulsar.client.impl.auth.oauth2.protocol,ClientCredentialsExchanger,Unutilized Abstraction
+codellama_correct,org.apache.pulsar.client.impl.auth.oauth2,Flow,Unutilized Abstraction
+codellama_correct,org.apache.flink.streaming.runtime.io.benchmark,StreamNetworkThroughputBenchmark,Unutilized Abstraction
+codellama_correct,org.apache.flink.streaming.runtime.io.benchmark,LongRecordWriterThread,Unutilized Abstraction
+codellama_correct,org.apache.flink.streaming.runtime.io.benchmark,ReceiverThread,Unutilized Abstraction
+codellama_correct,org.apache.flink.streaming.runtime.io.benchmark,StreamNetworkBenchmarkEnvironment,Unutilized Abstraction
+codellama_correct,org.apache.flink.streaming.runtime.io.benchmark,RecordWriter,Unutilized Abstraction
+codellama_correct,org.apache.flink.streaming.runtime.io.benchmark,RecordReader,Unutilized Abstraction
+codellama_correct,org.apache.flink.streaming.runtime.io.benchmark,LongValue,Unutilized Abstraction
+codellama_correct,org.apache.tomcat.websocket.server,WsRemoteEndpointImplServer,Unutilized Abstraction
+codellama_correct,org.apache.tomcat.websocket.server,WsReadListener,Unutilized Abstraction
+codellama_correct,org.apache.tomcat.websocket.server,WsWriteListener,Unutilized Abstraction
+codellama_correct,org.apache.druid.indexing.common.actions,SegmentAllocateAction,Unutilized Abstraction
+codellama_correct,org.apache.druid.query,JoinDataSourceTest,Unutilized Abstraction
+codellama_correct,org.apache.druid.query,JoinDataSourceTest,Deficient Encapsulation
+codellama_correct,org.apache.druid.query,GroupByMergedQueryRunner,Unutilized Abstraction
+codellama_correct,org.apache.catalina.util,ManifestResource,Unutilized Abstraction
+codellama_correct,org.apache.catalina.util,ManifestResource,Deficient Encapsulation
+codellama_correct,org.apache.coyote,AbstractProtocol,Unutilized Abstraction
+codellama_correct,org.apache.coyote,AbstractProtocol,Insufficient Modularization
+codellama_correct,org.apache.coyote,RequestGroupInfo,Unutilized Abstraction
+codellama_correct,org.apache.jasper.runtime,PrivilegedGetPageContext,Unutilized Abstraction
+codellama_correct,org.apache.jasper.runtime,PrivilegedReleasePageContext,Unutilized Abstraction
+codellama_correct,org.apache.el.lang,FunctionMapperImpl,Unutilized Abstraction
+codellama_correct,org.apache.el.lang,has,Unutilized Abstraction
+codellama_correct,org.apache.el.lang,has,Broken Modularization
+codellama_correct,org.apache.el.lang,has,Unutilized Abstraction
+codellama_correct,org.apache.el.lang,has,Broken Modularization
+codellama_correct,org.apache.el.lang,has,Unutilized Abstraction
+codellama_correct,org.apache.el.lang,has,Broken Modularization
+codellama_correct,org.apache.el.lang,anymore,Unutilized Abstraction
+codellama_correct,org.apache.el.lang,anymore,Broken Modularization
+codellama_correct,org.apache.el.lang,has,Unutilized Abstraction
+codellama_correct,org.apache.el.lang,has,Broken Modularization
+codellama_correct,org.apache.el.lang,has,Unutilized Abstraction
+codellama_correct,org.apache.el.lang,has,Broken Modularization
+codellama_correct,org.apache.el.lang,has,Unutilized Abstraction
+codellama_correct,org.apache.el.lang,has,Broken Modularization
+codellama_correct,org.apache.el.lang,has,Unutilized Abstraction
+codellama_correct,org.apache.el.lang,has,Broken Modularization
+codellama_correct,org.apache.el.lang,has,Unutilized Abstraction
+codellama_correct,org.apache.el.lang,has,Broken Modularization
+codellama_correct,org.apache.el.lang,has,Unutilized Abstraction
+codellama_correct,org.apache.el.lang,has,Broken Modularization
+codellama_correct,org.apache.el.lang,name,Unutilized Abstraction
+codellama_correct,org.apache.el.lang,name,Broken Modularization
+codellama_correct,org.apache.el.lang,has,Unutilized Abstraction
+codellama_correct,org.apache.el.lang,has,Broken Modularization
+codellama_correct,org.apache.el.lang,has,Unutilized Abstraction
+codellama_correct,org.apache.el.lang,has,Broken Modularization
+codellama_correct,org.apache.el.lang,has,Unutilized Abstraction
+codellama_correct,org.apache.el.lang,has,Broken Modularization
+codellama_correct,org.apache.el.lang,has,Unutilized Abstraction
+codellama_correct,org.apache.el.lang,has,Broken Modularization
+codellama_correct,org.apache.el.lang,has,Unutilized Abstraction
+codellama_correct,org.apache.el.lang,has,Broken Modularization
+codellama_correct,org.apache.el.lang,has,Unutilized Abstraction
+codellama_correct,org.apache.el.lang,has,Broken Modularization
+codellama_correct,org.apache.el.lang,has,Unutilized Abstraction
+codellama_correct,org.apache.el.lang,has,Broken Modularization
+codellama_correct,org.apache.el.lang,has,Unutilized Abstraction
+codellama_correct,org.apache.el.lang,has,Broken Modularization
+codellama_correct,org.apache.el.lang,has,Unutilized Abstraction
+codellama_correct,org.apache.el.lang,has,Broken Modularization
+codellama_correct,org.apache.druid.indexing.worker.executor,ExecutorLifecycle,Unutilized Abstraction
+codellama_correct,org.apache.druid.java.util.metrics.cgroups,CpuSetTest,Unutilized Abstraction
+codellama_correct,org.apache.druid.java.util.metrics.cgroups,CpuSetTest,Deficient Encapsulation
+codellama_correct,org.apache.druid.server.coordination,SegmentLoadDropHandlerCacheTest,Unutilized Abstraction
+codellama_correct,org.apache.druid.server.coordination,SegmentLoadDropHandlerCacheTest,Deficient Encapsulation
+codellama_correct,org.apache.druid.benchmark.compression,BaseColumnarLongsFromSegmentsBenchmark,Unutilized Abstraction
+codellama_correct,org.apache.druid.query.groupby.epinephelinae,LimitedTemporaryStorage,Unutilized Abstraction
+codellama_correct,org.apache.druid.query.groupby.epinephelinae,LimitedOutputStream,Unutilized Abstraction
+codellama_correct,org.apache.druid.segment.realtime.plumber,FlushingPlumber,Unutilized Abstraction
+codellama_correct,org.apache.druid.java.util.metrics,CgroupCpuSetMonitorTest,Unutilized Abstraction
+codellama_correct,org.apache.druid.java.util.metrics,CgroupCpuSetMonitorTest,Deficient Encapsulation
+codellama_correct,org.apache.druid.java.util.metrics,CpuAcctDeltaMonitorTest,Unutilized Abstraction
+codellama_correct,org.apache.druid.java.util.metrics,CpuAcctDeltaMonitorTest,Deficient Encapsulation
+codellama_correct,org.apache.druid.indexer.hadoop,FSSpideringIteratorTest,Unutilized Abstraction
+codellama_correct,org.apache.druid.benchmark.indexing,IndexMergeBenchmark,Unutilized Abstraction
+codellama_correct,org.apache.druid.benchmark.indexing,IncrementalIndexReadBenchmark,Unutilized Abstraction
+codellama_correct,org.apache.druid.benchmark.indexing,IndexMergeBenchmark,Unutilized Abstraction
+codellama_correct,org.apache.druid.segment.loading,SegmentLocalCacheManagerConcurrencyTest,Unutilized Abstraction
+codellama_correct,org.apache.druid.segment.loading,SegmentLocalCacheManagerConcurrencyTest,Deficient Encapsulation
+codellama_correct,org.apache.druid.segment.loading,LocalDataSegmentKillerTest,Unutilized Abstraction
+codellama_correct,org.apache.druid.segment.loading,LocalDataSegmentKillerTest,Deficient Encapsulation
+codellama_correct,org.apache.druid.segment.loading,LocalDataSegmentPusherTest,Unutilized Abstraction
+codellama_correct,org.apache.druid.segment.loading,LocalDataSegmentPusherTest,Deficient Encapsulation
+codellama_correct,org.apache.druid.indexing.common.tasklogs,FileTaskLogs,Unutilized Abstraction
+codellama_correct,org.apache.druid.indexing.common.task.batch.parallel,HttpShuffleClient,Unutilized Abstraction
+codellama_correct,org.apache.druid.indexing.common.task.batch.parallel,PartialSegmentMergeTask,Unutilized Abstraction
+codellama_correct,org.apache.druid.server.log,FileRequestLogger,Unutilized Abstraction
+codellama_correct,org.apache.druid.storage.aliyun,OssDataSegmentPuller,Unutilized Abstraction
+codellama_correct,org.apache.druid.math.expr,SingleParam,Unutilized Abstraction
+codellama_correct,org.apache.druid.math.expr,DoubleParam,Unutilized Abstraction
+codellama_correct,org.apache.druid.math.expr,SingleParamMath,Unutilized Abstraction
+codellama_correct,org.apache.druid.math.expr,DoubleParamMath,Unutilized Abstraction
+codellama_correct,org.apache.druid.math.expr,DoubleParamString,Unutilized Abstraction
+codellama_correct,org.apache.druid.math.expr,ParseLong,Unutilized Abstraction
+codellama_correct,org.apache.druid.math.expr,ParseLong,Rebellious Hierarchy
+codellama_correct,org.apache.rocketmq.test.grpc.v2,LocalGrpcIT,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.db.marshal,TimeUUIDType,Deficient Encapsulation
+codellama_correct,org.apache.pulsar.broker.loadbalance.extensions,ExtensibleLoadManagerWrapper,Unutilized Abstraction
+codellama_correct,org.apache.pulsar.tests.integration.functions,PulsarFunctionsTestBase,Unutilized Abstraction
+codellama_correct,org.apache.pulsar.tests.integration.functions,PulsarFunctionsTestBase,Deficient Encapsulation
+codellama_correct,org.apache.pulsar.tests.integration.functions.go,PulsarFunctionsGoTest,Unutilized Abstraction
+codellama_correct,org.apache.rocketmq.store.ha,HAService,Unutilized Abstraction
+codellama_correct,org.apache.rocketmq.namesrv.controller,Controller,Unutilized Abstraction
+codellama_correct,org.apache.hadoop.hdfs.protocolPB,ClientProtocolPB,Cyclic-Dependent Modularization
+codellama_correct,org.apache.hadoop.hdfs.protocolPB,AddBlockRequestProto,Unutilized Abstraction
+codellama_correct,org.apache.hadoop.hdfs.protocolPB,AddBlockRequestProto,Rebellious Hierarchy
+codellama_correct,org.apache.hadoop.hdfs.protocolPB,Builder,Cyclic Hierarchy
+codellama_correct,org.apache.hadoop.hdfs.protocolPB,Builder,Deep Hierarchy
+codellama_correct,org.apache.hadoop.hdfs.protocolPB,Builder,Rebellious Hierarchy
+codellama_correct,org.apache.hadoop.hdfs.protocolPB,Builder,Cyclic-Dependent Modularization
+codellama_correct,org.skywalking.apm.collector.agentserver,AgentServerModuleInstaller,Unutilized Abstraction
+codellama_correct,org.skywalking.apm.collector.agentregister,AgentRegisterModuleInstaller,Unutilized Abstraction
+codellama_correct,org.skywalking.apm.collector.core.framework,Define,Unutilized Abstraction
+codellama_correct,org.skywalking.apm.collector.cluster,ClusterModuleInstaller,Unutilized Abstraction
+codellama_correct,org.skywalking.apm.collector.core.module,ModuleInstaller,Unutilized Abstraction
+codellama_correct,org.skywalking.apm.collector.boot,CollectorStarter,Unutilized Abstraction
+codellama_correct,org.skywalking.apm.collector.stream,StreamModuleDefine,Unutilized Abstraction
+codellama_correct,org.skywalking.apm.collector.ui,UIModuleInstaller,Unutilized Abstraction
+codellama_correct,org.apache.skywalking.oap.server.core.storage.model,ModelInstaller,Unutilized Abstraction
+codellama_correct,org.apache.flink.runtime.scheduler.adaptive,WaitingForResources,Unutilized Abstraction
+codellama_correct,org.apache.flink.runtime.scheduler.adaptive,Factory,Unutilized Abstraction
+codellama_correct,org.apache.flink.runtime.scheduler.adaptive,name,Unutilized Abstraction
+codellama_correct,org.apache.flink.runtime.scheduler.adaptive,name,Broken Modularization
+codellama_correct,com.alibaba.dubbo.rpc,RpcInvocation,Insufficient Modularization
+codellama_correct,org.apache.catalina.startup,ClassLoaderFactory,Unutilized Abstraction
+codellama_correct,org.apache.catalina.startup,CatalinaBaseConfigurationSource,Unutilized Abstraction
+codellama_correct,org.apache.rocketmq.test.schema,SchemaTest,Unutilized Abstraction
+codellama_correct,org.apache.druid.query.aggregation,LongMaxAggregationTest,Unutilized Abstraction
+codellama_correct,org.apache.rocketmq.namesrv,NamesrvStartup,Unutilized Abstraction
+codellama_correct,org.apache.rocketmq.namesrv,NamesrvStartup,Deficient Encapsulation
+codellama_correct,org.apache.jasper.servlet,TestJspServlet,Unutilized Abstraction
+codellama_correct,org.apache.jasper.servlet,Bug56568aServlet,Unutilized Abstraction
+codellama_correct,org.apache.jasper.servlet,JspServletWrapper,Unutilized Abstraction
+codellama_correct,org.apache.hadoop.tools.rumen.state,StateDeserializer,Unutilized Abstraction
+codellama_correct,org.apache.hadoop.yarn.util.timeline,TimelineUtils,Unutilized Abstraction
+codellama_correct,org.apache.rocketmq.proxy.grpc.v2.service.cluster,PullMessageService,Unutilized Abstraction
+codellama_correct,org.apache.skywalking.oap.server.core.remote.selector,RemoteClientSelector,Unutilized Abstraction
+codellama_correct,org.apache.skywalking.oap.server.core.remote.selector,HashCodeSelector,Unutilized Abstraction
+codellama_correct,org.apache.skywalking.oap.server.core.analysis.data,NonMergeDataCache,Unutilized Abstraction
+codellama_correct,org.apache.skywalking.oap.server.core.analysis.data,NonMergeDataCache,Broken Hierarchy
+codellama_correct,org.apache.skywalking.oap.server.core.analysis.data,NonMergeDataCollection,Unutilized Abstraction
+codellama_correct,org.apache.skywalking.oap.server.core.analysis.data,NonMergeDataCollection,Broken Hierarchy
+codellama_correct,org.apache.skywalking.oap.server.core.analysis.data,Window,Unutilized Abstraction
+codellama_correct,org.apache.skywalking.oap.server.core.analysis.data,NonMergeDataCollection,Unutilized Abstraction
+codellama_correct,org.apache.skywalking.oap.server.core.remote.client,RemoteClient,Unutilized Abstraction
+codellama_correct,org.apache.skywalking.oap.server.storage.plugin.elasticsearch,StorageModuleElasticsearchProvider,Unutilized Abstraction
+codellama_correct,org.apache.skywalking.oap.server.core.storage,IRegisterLockDAO,Unutilized Abstraction
+codellama_correct,org.apache.skywalking.oap.server.core.storage,StorageInstallerTestCase,Unutilized Abstraction
+codellama_correct,org.apache.skywalking.oap.server.core.storage,TestStorageInstaller,Unutilized Abstraction
+codellama_correct,org.apache.skywalking.oap.server.core.remote,RemoteSenderService,Unutilized Abstraction
+codellama_correct,org.apache.skywalking.oap.server.core.analysis.worker,AggregatorConsumer,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.io.util,BufferedRandomAccessFileTest,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.io.util,SequentialWriter,Deficient Encapsulation
+codellama_correct,org.apache.cassandra.streaming.compression,CompressedInputStreamTest,Unutilized Abstraction
+codellama_correct,javax.websocket.server,ServerApplicationConfig,Unutilized Abstraction
+codellama_correct,javax.websocket.server,ServerEndpointConfig,Cyclic-Dependent Modularization
+codellama_correct,javax.websocket.server,Builder,Unutilized Abstraction
+codellama_correct,javax.websocket.server,Configurator,Cyclic-Dependent Modularization
+codellama_correct,org.apache.dubbo.rpc.protocol.dubbo.filter,TraceFilter,Unutilized Abstraction
+codellama_correct,org.apache.dubbo.rpc.protocol.dubbo.filter,has,Unutilized Abstraction
+codellama_correct,org.apache.dubbo.rpc.protocol.dubbo.filter,has,Broken Modularization
+codellama_correct,org.apache.dubbo.rpc.protocol.dubbo.filter,has,Unutilized Abstraction
+codellama_correct,org.apache.dubbo.rpc.protocol.dubbo.filter,has,Broken Modularization
+codellama_correct,org.apache.dubbo.rpc.protocol.dubbo.filter,has,Unutilized Abstraction
+codellama_correct,org.apache.dubbo.rpc.protocol.dubbo.filter,has,Broken Modularization
+codellama_correct,org.apache.dubbo.rpc.protocol.dubbo.filter,has,Unutilized Abstraction
+codellama_correct,org.apache.dubbo.rpc.protocol.dubbo.filter,has,Broken Modularization
+codellama_correct,org.apache.dubbo.rpc.protocol.dubbo.filter,has,Unutilized Abstraction
+codellama_correct,org.apache.dubbo.rpc.protocol.dubbo.filter,has,Broken Modularization
+codellama_correct,org.apache.dubbo.rpc.protocol.dubbo.filter,has,Unutilized Abstraction
+codellama_correct,org.apache.dubbo.rpc.protocol.dubbo.filter,has,Broken Modularization
+codellama_correct,org.apache.dubbo.rpc.protocol.dubbo.filter,has,Unutilized Abstraction
+codellama_correct,org.apache.dubbo.rpc.protocol.dubbo.filter,has,Broken Modularization
+codellama_correct,org.apache.dubbo.rpc.protocol.dubbo.filter,has,Unutilized Abstraction
+codellama_correct,org.apache.dubbo.rpc.protocol.dubbo.filter,has,Broken Modularization
+codellama_correct,org.apache.dubbo.rpc.protocol.dubbo.filter,has,Unutilized Abstraction
+codellama_correct,org.apache.dubbo.rpc.protocol.dubbo.filter,has,Broken Modularization
+codellama_correct,org.apache.dubbo.rpc.protocol.dubbo.filter,has,Unutilized Abstraction
+codellama_correct,org.apache.dubbo.rpc.protocol.dubbo.filter,has,Broken Modularization
+codellama_correct,org.apache.dubbo.rpc.protocol.dubbo.filter,has,Unutilized Abstraction
+codellama_correct,org.apache.dubbo.rpc.protocol.dubbo.filter,has,Broken Modularization
+codellama_correct,org.apache.dubbo.rpc.protocol.dubbo.filter,has,Unutilized Abstraction
+codellama_correct,org.apache.dubbo.rpc.protocol.dubbo.filter,has,Broken Modularization
+codellama_correct,org.apache.dubbo.rpc.protocol.dubbo.filter,has,Unutilized Abstraction
+codellama_correct,org.apache.dubbo.rpc.protocol.dubbo.filter,has,Broken Modularization
+codellama_correct,org.apache.dubbo.rpc.protocol.dubbo.filter,has,Unutilized Abstraction
+codellama_correct,org.apache.dubbo.rpc.protocol.dubbo.filter,has,Broken Modularization
+codellama_correct,org.apache.dubbo.rpc.protocol.dubbo.filter,has,Unutilized Abstraction
+codellama_correct,org.apache.dubbo.rpc.protocol.dubbo.filter,has,Broken Modularization
+codellama_correct,org.apache.skywalking.apm.collector.storage.dao.ui,IInstanceMetricUIDAO,Unutilized Abstraction
+codellama_correct,org.apache.flink.table.planner.plan.nodes.exec.stream,WindowTableFunctionJsonPlanTest,Unutilized Abstraction
+codellama_correct,org.apache.skywalking.oap.server.core.analysis.generated.all,Builder,Unutilized Abstraction
+codellama_correct,org.apache.skywalking.oap.server.core.analysis.generated.all,Builder,Unutilized Abstraction
+codellama_correct,org.apache.skywalking.oap.server.core.analysis.generated.all,Builder,Unutilized Abstraction
+codellama_correct,org.apache.skywalking.oap.server.core.analysis.generated.all,Builder,Unutilized Abstraction
+codellama_correct,org.apache.skywalking.oap.server.core.analysis.generated.all,Builder,Unutilized Abstraction
+codellama_correct,org.apache.skywalking.oap.server.core.analysis.generated.all,Builder,Unutilized Abstraction
+codellama_correct,org.apache.skywalking.oap.query.graphql,GraphQLQueryProvider,Unutilized Abstraction
+codellama_correct,org.apache.pulsar.broker.service,MessagePublishBufferThrottleTest,Unutilized Abstraction
+codellama_correct,org.apache.pulsar.broker.service,Subscription,Insufficient Modularization
+codellama_correct,org.apache.catalina.servlets,WebdavServlet,Unutilized Abstraction
+codellama_correct,org.apache.flink.batch.connectors.hive,HiveTableOutputFormatTest,Unutilized Abstraction
+codellama_correct,org.apache.tomcat.util.http.fileupload,FileItem,Unutilized Abstraction
+codellama_correct,org.apache.tomcat.util.http.fileupload,FileItemStream,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.dht,BootStrapperTest,Unutilized Abstraction
+codellama_correct,org.apache.druid.indexing.seekablestream.supervisor,SeekableStreamSupervisorSpec,Unutilized Abstraction
+codellama_correct,org.apache.druid.indexing.kinesis.supervisor,KinesisSupervisorSpec,Unutilized Abstraction
+codellama_correct,org.apache.druid.indexing.kafka.supervisor,KafkaSupervisorSpec,Unutilized Abstraction
+codellama_correct,com.alibaba.rocketmq.client.impl.consumer,MQConsumerInner,Unutilized Abstraction
+codellama_correct,com.alibaba.dubbo.config,ProtocolConfig,Deficient Encapsulation
+codellama_correct,com.alibaba.dubbo.config,ProtocolConfig,Insufficient Modularization
+codellama_correct,com.alibaba.dubbo.config,MethodConfig,Unutilized Abstraction
+codellama_correct,com.alibaba.dubbo.config,MethodConfig,Insufficient Modularization
+codellama_correct,com.alibaba.rocketmq.store,DefaultMessageFilter,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.tools,LoaderOptions,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.tools,LoaderOptions,Deficient Encapsulation
+codellama_correct,org.apache.cassandra.tools,Builder,Multifaceted Abstraction
+codellama_correct,org.apache.cassandra.tools,StandaloneUpgraderTest,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.tools,StandaloneSSTableUtilTest,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.tools,SSTableImportTest,Unutilized Abstraction
+codellama_correct,org.apache.druid.testing.utils,AbstractTestQueryHelper,Unutilized Abstraction
+codellama_correct,org.apache.tomcat.util.openssl,Constants,Unutilized Abstraction
+codellama_correct,org.apache.tomcat.util.openssl,Constants,Deficient Encapsulation
+codellama_correct,org.apache.tomcat.util.openssl,Constants,Broken Modularization
+codellama_correct,org.apache.tomcat.util.openssl,constants$29,Unnecessary Abstraction
+codellama_correct,org.apache.tomcat.util.openssl,constants$29,Unutilized Abstraction
+codellama_correct,org.apache.pulsar.broker.service.nonpersistent,NonPersistentDispatcherSingleActiveConsumer,Unutilized Abstraction
+codellama_correct,org.apache.pulsar.zookeeper,ZooKeeperDataCache,Unutilized Abstraction
+codellama_correct,org.apache.pulsar.zookeeper,and,Broken Modularization
+codellama_correct,org.apache.pulsar.zookeeper,and,Unutilized Abstraction
+codellama_correct,org.apache.pulsar.zookeeper,and,Broken Modularization
+codellama_correct,org.apache.pulsar.zookeeper,and,Unutilized Abstraction
+codellama_correct,org.apache.pulsar.zookeeper,and,Broken Modularization
+codellama_correct,org.skywalking.apm.agent.core.context.trace,ExitSpan,Unutilized Abstraction
+codellama_correct,org.skywalking.apm.agent.core.context.trace,name,Unutilized Abstraction
+codellama_correct,org.skywalking.apm.agent.core.context.trace,name,Broken Modularization
+codellama_correct,org.skywalking.apm.agent.core.context.trace,has,Unnecessary Abstraction
+codellama_correct,org.skywalking.apm.agent.core.context.trace,has,Unutilized Abstraction
+codellama_correct,org.skywalking.apm.agent.core.remote,TraceSegmentServiceClient,Unutilized Abstraction
+codellama_correct,org.apache.jmeter.functions.gui,FunctionHelper,Unutilized Abstraction
+codellama_correct,org.apache.jmeter.functions.gui,HelpListener,Unutilized Abstraction
+codellama_correct,org.apache.flink.runtime.blob,BlobUtilsTest,Unutilized Abstraction
+codellama_correct,org.apache.flink.runtime.blob,BlobUtilsTest,Deficient Encapsulation
+codellama_correct,org.apache.tomcat.util.descriptor,WebXml,Unutilized Abstraction
+codellama_correct,org.apache.tomcat.util.descriptor,WebXml,Insufficient Modularization
+codellama_correct,io.druid.indexing.kafka.supervisor,KafkaSupervisorReport,Unutilized Abstraction
+codellama_correct,io.druid.indexing.kafka.supervisor,KafkaSupervisorReport,Insufficient Modularization
+codellama_correct,io.druid.indexing.kafka.supervisor,TaskReportData,Unutilized Abstraction
+codellama_correct,io.druid.indexing.kafka.supervisor,KafkaSupervisorSpec,Unutilized Abstraction
+codellama_correct,org.apache.catalina.manager,DummyProxySession,Unutilized Abstraction
+codellama_correct,org.apache.catalina.manager,DummyProxySession,Insufficient Modularization
+codellama_correct,org.apache.catalina.manager,HTMLManagerServlet,Unutilized Abstraction
+codellama_correct,org.apache.catalina.manager,JspHelper,Unutilized Abstraction
+codellama_correct,org.apache.catalina.manager,DummyProxySession,Unutilized Abstraction
+codellama_correct,org.apache.catalina.manager,DummyProxySession,Insufficient Modularization
+codellama_correct,org.apache.catalina.manager.host,HostManagerServlet,Unutilized Abstraction
+codellama_correct,org.apache.hadoop.yarn.server.timelineservice.collector,ShutdownHook,Unutilized Abstraction
+codellama_correct,org.apache.catalina.websocket,WsOutbound,Unutilized Abstraction
+codellama_correct,org.apache.catalina.websocket,MessageInbound,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.streaming,StreamReply,Deficient Encapsulation
+codellama_correct,org.apache.cassandra.streaming,FileStatusSerializer,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.streaming,PendingFile,Deficient Encapsulation
+codellama_correct,org.apache.cassandra.streaming,PendingFile,Cyclic-Dependent Modularization
+codellama_correct,org.apache.cassandra.streaming,PendingFileSerializer,Cyclic-Dependent Modularization
+codellama_correct,org.apache.cassandra.streaming,StreamRequestSerializer,Unutilized Abstraction
+codellama_correct,org.apache.skywalking.oap.server.core.analysis,StreamAnnotationListener,Unutilized Abstraction
+codellama_correct,com.alibaba.dubbo.registry.multicast,MutilcastRegistryHeartbeatTest,Unutilized Abstraction
+codellama_correct,org.apache.rocketmq.common,ThreadFactoryImpl,Unutilized Abstraction
+codellama_correct,org.apache.skywalking.apm.plugin.mongodb.v3.define,MongoDBInstrumentation,Unutilized Abstraction
+codellama_correct,org.apache.dubbo.config.dynamic.support.archaius.sources,ZooKeeperConfigurationSource,Unutilized Abstraction
+codellama_correct,org.apache.flink.runtime.io.network.partition,SubpartitionTestBase,Unutilized Abstraction
+codellama_correct,org.apache.flink.runtime.io.network.partition,BufferWritingResultPartition,Unutilized Abstraction
+codellama_correct,org.skywalking.apm.collector.cluster.redis.service,RedisModuleRegisterService,Unutilized Abstraction
+codellama_correct,org.skywalking.apm.collector.cluster.standalone.service,StandaloneModuleRegisterService,Unutilized Abstraction
+codellama_correct,org.apache.catalina.tribes.membership,McastServiceImpl,Unutilized Abstraction
+codellama_correct,org.apache.catalina.tribes.transport,PooledSender,Cyclic-Dependent Modularization
+codellama_correct,org.apache.catalina.tribes.transport,PooledSender,Insufficient Modularization
+codellama_correct,org.apache.catalina.tribes.transport,SenderQueue,Cyclic-Dependent Modularization
+codellama_correct,org.apache.catalina.tribes.transport,name,Unutilized Abstraction
+codellama_correct,org.apache.catalina.tribes.transport,name,Broken Modularization
+codellama_correct,org.apache.tomcat.util.scan,JarFileUrlJar,Unutilized Abstraction
+codellama_correct,org.apache.catalina.loader,WebappClassLoaderBase,Unutilized Abstraction
+codellama_correct,org.apache.catalina.loader,WebappClassLoaderBase,Broken Modularization
+codellama_correct,org.apache.catalina.webresources,TestJarWarResourceSet,Unutilized Abstraction
+codellama_correct,org.apache.pulsar.client.impl,PulsarTestClient,Unutilized Abstraction
+codellama_correct,org.apache.jmeter.protocol.bolt.sampler,AbstractBoltTestElement,Unutilized Abstraction
+codellama_correct,org.apache.tomcat.websocket.pojo,PojoMessageHandlerBase,Unutilized Abstraction
+codellama_correct,org.apache.jmeter.protocol.jms.sampler,FixedQueueExecutor,Unutilized Abstraction
+codellama_correct,com.a.eye.skywalking.storage.data.index,IndexDBConnector,Unutilized Abstraction
+codellama_correct,com.a.eye.skywalking.storage.config,Constants,Deficient Encapsulation
+codellama_correct,com.a.eye.skywalking.storage.config,SQL,Unutilized Abstraction
+codellama_correct,com.a.eye.skywalking.storage.config,SQL,Deficient Encapsulation
+codellama_correct,org.apache.pulsar.broker.loadbalance.extensions.reporter,BrokerLoadDataReporterTest,Unutilized Abstraction
+codellama_correct,org.apache.pulsar.broker.loadbalance.extensions.reporter,have,Unutilized Abstraction
+codellama_correct,org.apache.pulsar.broker.loadbalance.extensions.reporter,have,Unutilized Abstraction
+codellama_correct,org.apache.pulsar.broker.loadbalance.extensions.reporter,BrokerLoadDataReporter,Unutilized Abstraction
+codellama_correct,io.druid.segment,MapVirtualColumnTest,Unutilized Abstraction
+codellama_correct,io.druid.query.select,SelectQueryEngine,Unutilized Abstraction
+codellama_correct,io.druid.query.select,SelectColumnSelectorStrategy,Unutilized Abstraction
+codellama_correct,io.druid.query.select,StringSelectColumnSelectorStrategy,Unutilized Abstraction
+codellama_correct,io.druid.query.select,LongSelectColumnSelectorStrategy,Unutilized Abstraction
+codellama_correct,io.druid.query.select,FloatSelectColumnSelectorStrategy,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.audit,BinAuditLogger,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.audit,WeighableMarshallableMessage,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.audit,FullQueryLoggerTest,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.audit,WeighableMarshallableBatch,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.audit,WeighableMarshallableQuery,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.audit,AuditLogEntry,Insufficient Modularization
+codellama_correct,org.apache.cassandra.audit,Builder,Unutilized Abstraction
+codellama_correct,org.apache.hadoop.ozone.container.common.statemachine,EndpointStateMachine,Insufficient Modularization
+codellama_correct,org.apache.flink.table.runtime.operators.aggregate.window,LocalSlicingWindowAggOperator,Unutilized Abstraction
+codellama_correct,org.apache.flink.table.runtime.operators.aggregate.window.processors,SliceSharedWindowAggProcessor,Unutilized Abstraction
+codellama_correct,org.apache.flink.table.runtime.operators.aggregate.window.processors,SliceSharedWindowAggProcessor,Broken Hierarchy
+codellama_correct,org.apache.flink.table.runtime.operators.aggregate.window.processors,AbstractWindowAggProcessor,Unutilized Abstraction
+codellama_correct,org.apache.flink.table.planner.runtime.stream.jsonplan,WindowAggregateJsonITCase,Unutilized Abstraction
+codellama_correct,org.apache.flink.table.runtime.operators.aggregate.window.buffers,RecordsWindowBuffer,Unutilized Abstraction
+codellama_correct,org.apache.flink.table.runtime.operators.aggregate.window.buffers,Factory,Unutilized Abstraction
+codellama_correct,org.apache.flink.table.runtime.operators.aggregate.window.combines,AggRecordsCombiner,Unutilized Abstraction
+codellama_correct,org.apache.flink.table.runtime.operators.aggregate.window.combines,Factory,Unutilized Abstraction
+codellama_correct,org.apache.flink.table.runtime.operators.aggregate.window.combines,GlobalAggAccCombiner,Unutilized Abstraction
+codellama_correct,org.apache.flink.table.runtime.operators.aggregate.window.combines,Factory,Unutilized Abstraction
+codellama_correct,org.apache.jmeter.gui.util,FilePanel,Unutilized Abstraction
+codellama_correct,org.apache.jmeter.gui.util,FileListPanel,Unutilized Abstraction
+codellama_correct,org.apache.flink.table.filesystem.stream,AbstractStreamingWriter,Unutilized Abstraction
+codellama_correct,org.apache.flink.table.filesystem.stream,was,Unutilized Abstraction
+codellama_correct,org.apache.flink.table.filesystem.stream,was,Unutilized Abstraction
+codellama_correct,org.apache.flink.table.filesystem.stream,StreamingSink,Unutilized Abstraction
+codellama_correct,org.skywalking.apm.collector.client.elasticsearch,ElasticSearchClient,Unutilized Abstraction
+codellama_correct,org.skywalking.apm.collector.client.elasticsearch,AddressPairs,Unutilized Abstraction
+codellama_correct,org.apache.hadoop.hdfs.server.protocol,BlockStorageMovementCommand,Unutilized Abstraction
+codellama_correct,org.apache.hadoop.hdfs.server.protocol,BlockStorageMovementCommand,Broken Hierarchy
+codellama_correct,org.apache.hadoop.hdfs.server.protocol,BlockMovingInfo,Unutilized Abstraction
+codellama_correct,org.apache.hadoop.hdfs.server.protocol,DatanodeProtocol,Unnecessary Abstraction
+codellama_correct,org.apache.hadoop.hdfs.server.protocol,DatanodeProtocol,Unutilized Abstraction
+codellama_correct,org.apache.hadoop.hdfs.server.protocol,DatanodeProtocol,Unnecessary Abstraction
+codellama_correct,org.apache.hadoop.hdfs.server.protocol,DatanodeProtocol,Unutilized Abstraction
+codellama_correct,org.apache.hadoop.hdfs.server.protocol,DatanodeCommand,Unutilized Abstraction
+codellama_correct,org.apache.jmeter.report,DataSet,Unutilized Abstraction
+codellama_correct,org.apache.flink.formats.avro.registry.confluent,DebeziumAvroFormatFactory,Unutilized Abstraction
+codellama_correct,org.apache.flink.formats.avro.registry.confluent,DebeziumAvroFormatFactory,Deficient Encapsulation
+codellama_correct,org.apache.flink.formats.parquet,ParquetFileFormatFactory,Deficient Encapsulation
+codellama_correct,org.apache.flink.formats.parquet,ParquetBulkDecodingFormat,Unutilized Abstraction
+codellama_correct,org.apache.flink.formats.json.maxwell,MaxwellJsonDecodingFormat,Unutilized Abstraction
+codellama_correct,org.apache.flink.formats.json.canal,CanalJsonDecodingFormat,Unutilized Abstraction
+codellama_correct,org.apache.flink.connector.hbase.source,AbstractHBaseDynamicTableSource,Unutilized Abstraction
+codellama_correct,org.apache.flink.table.filesystem,CsvBulkWriter,Unutilized Abstraction
+codellama_correct,org.apache.hadoop.ozone.om,OzoneManager,Broken Modularization
+codellama_correct,org.apache.hadoop.ozone.om,OMDBCheckpointServlet,Unutilized Abstraction
+codellama_correct,org.apache.hadoop.ozone.om.protocol,OzoneManagerHAProtocol,Unutilized Abstraction
+codellama_correct,org.apache.hadoop.ozone,MiniOzoneCluster,Unutilized Abstraction
+codellama_correct,org.apache.hadoop.ozone.om.exceptions,OMException,Unutilized Abstraction
+codellama_correct,org.apache.hadoop.ozone.om.exceptions,OMException,Deficient Encapsulation
+codellama_correct,org.apache.cassandra.db.virtual,SettingsTable,Unutilized Abstraction
+codellama_correct,org.apache.flink.streaming.connectors.pulsar.partitioner,PulsarKeyExtractor,Unutilized Abstraction
+codellama_correct,org.apache.flink.streaming.connectors.pulsar,PulsarConsumerSource,Unutilized Abstraction
+codellama_correct,org.apache.hadoop.yarn.conf,TestYarnConfiguration,Unutilized Abstraction
+codellama_correct,org.apache.hadoop.yarn.server.webproxy.amfilter,AmFilterInitializer,Unutilized Abstraction
+codellama_correct,org.apache.druid.storage.google,GoogleTestUtils,Unutilized Abstraction
+codellama_correct,org.apache.druid.storage.google,GoogleTaskLogs,Unutilized Abstraction
+codellama_correct,org.apache.hadoop.fs,TestGlobPaths,Unutilized Abstraction
+codellama_correct,org.apache.hadoop.fs,RegexPathFilter,Unutilized Abstraction
+codellama_correct,org.apache.hadoop.fs,Globber,Unutilized Abstraction
+codellama_correct,org.apache.jmeter.engine.event,IterationListener,Unutilized Abstraction
+codellama_correct,org.apache.hadoop.hdfs,HDFSPolicyProvider,Unutilized Abstraction
+codellama_correct,org.apache.flink.streaming.runtime.io,RecordWriterOutput,Unutilized Abstraction
+codellama_correct,org.apache.flink.streaming.runtime.tasks,OperatorChainTest,Unutilized Abstraction
+codellama_correct,org.apache.rocketmq.tools.command.broker,BrokerConsumeStatsSubCommad,Unutilized Abstraction
+codellama_correct,org.apache.dubbo.rpc,Listener,Unutilized Abstraction
+codellama_correct,org.apache.dubbo.rpc.protocol,ProtocolFilterWrapper,Unutilized Abstraction
+codellama_correct,org.apache.dubbo.rpc.protocol,AbstractProxyProtocol,Unutilized Abstraction
+codellama_correct,org.apache.dubbo.rpc.protocol,ProxyProtocolServer,Unutilized Abstraction
+codellama_correct,org.apache.dubbo.rpc.protocol,ProtocolFilterWrapper,Unutilized Abstraction
+codellama_correct,org.apache.dubbo.rpc.protocol,CallbackRegistrationInvoker,Unutilized Abstraction
+codellama_correct,org.apache.jmeter.samplers,SampleSender,Unutilized Abstraction
+codellama_correct,org.apache.rocketmq.proxy.grpc.v2.consumer,ReceiveMessageActivity,Unutilized Abstraction
+codellama_correct,org.apache.rocketmq.proxy.grpc.v2.consumer,ReceiveMessageQueueSelector,Unnecessary Abstraction
+codellama_correct,org.apache.rocketmq.proxy.grpc.v2.consumer,ReceiveMessageQueueSelector,Unutilized Abstraction
+codellama_correct,org.apache.rocketmq.proxy.grpc.v2.consumer,ReceiveMessageActivity,Unutilized Abstraction
+codellama_correct,org.apache.pulsar.broker.namespace,OwnedBundle,Unutilized Abstraction
+codellama_correct,org.apache.hadoop.maven.plugin.util,Exec,Unutilized Abstraction
+codellama_correct,org.apache.hadoop.maven.plugin.util,OutputBufferThread,Unutilized Abstraction
+codellama_correct,org.apache.hadoop.yarn.server.nodemanager.containermanager.launcher,ContainersLauncher,Unutilized Abstraction
+codellama_correct,com.alibaba.rocketmq.store.index,IndexService,Unutilized Abstraction
+codellama_correct,io.druid.indexing.common.index,EventReceiver,Unutilized Abstraction
+codellama_correct,io.druid.indexing.common.index,EventReceiverFirehoseFactory,Unutilized Abstraction
+codellama_correct,io.druid.indexing.common.index,EventReceiverFirehose,Unutilized Abstraction
+codellama_correct,io.druid.indexing.common.index,EventReceiverFirehose,Broken Hierarchy
+codellama_correct,io.druid.indexing.common.index,ChatHandler,Unnecessary Abstraction
+codellama_correct,io.druid.indexing.common.index,ChatHandler,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.hadoop,BulkOutputFormat,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.hadoop,NullOutputCommitter,Unutilized Abstraction
+codellama_correct,com.ai.cloud.skywalking.reciever.handler,CollectionServerDataHandler,Unutilized Abstraction
+codellama_correct,org.skywalking.apm.agent.core.jvm,JVMService,Unutilized Abstraction
+codellama_correct,org.apache.rocketmq.proxy.remoting.activity,SendMessageActivity,Unutilized Abstraction
+codellama_correct,websocket.drawboard,DrawboardEndpoint,Unutilized Abstraction
+codellama_correct,org.apache.skywalking.apm.agent.test.helper,KeyValuePair,Unutilized Abstraction
+codellama_correct,org.apache.skywalking.apm.agent.test.helper,AbstractSpan,Unutilized Abstraction
+codellama_correct,org.apache.skywalking.apm.plugin.jedis.v2,JedisMethodInterceptorTest,Unutilized Abstraction
+codellama_correct,org.apache.skywalking.apm.plugin.jedis.v2,JedisMethodInterceptorTest,Deficient Encapsulation
+codellama_correct,org.apache.skywalking.apm.plugin.jdbc,AbstractStatementTest,Unutilized Abstraction
+codellama_correct,org.apache.skywalking.apm.plugin.sofarpc,SofaRpcProviderInterceptorTest,Unutilized Abstraction
+codellama_correct,org.apache.skywalking.apm.plugin.sofarpc,SofaRpcProviderInterceptorTest,Deficient Encapsulation
+codellama_correct,org.apache.skywalking.apm.plugin.httpClient.v4,HttpClientExecuteInterceptorTest,Unutilized Abstraction
+codellama_correct,org.apache.skywalking.apm.plugin.httpClient.v4,HttpClientExecuteInterceptorTest,Deficient Encapsulation
+codellama_correct,org.apache.skywalking.apm.agent.core.context.trace,ExitSpan,Unutilized Abstraction
+codellama_correct,org.apache.hadoop.mapred.nativetask.nonsorttest,Map,Unutilized Abstraction
+codellama_correct,org.apache.hadoop.mapred.nativetask.nonsorttest,KeyHashSumReduce,Unutilized Abstraction
+codellama_correct,org.apache.hadoop.mapred.nativetask.nonsorttest,NonSortTest,Unutilized Abstraction
+codellama_correct,org.apache.hadoop.mapred.nativetask.handlers,BufferPushee,Unutilized Abstraction
+codellama_correct,org.apache.hadoop.mapred.nativetask.handlers,TestNativeCollectorOnlyHandler,Unutilized Abstraction
+codellama_correct,org.apache.hadoop.mapred.nativetask.handlers,IDataLoader,Unutilized Abstraction
+codellama_correct,org.apache.hadoop.mapred.nativetask.handlers,BufferPuller,Unutilized Abstraction
+codellama_correct,org.apache.hadoop.mapred.nativetask.testutil,TestInput,Deficient Encapsulation
+codellama_correct,org.apache.hadoop.mapred.nativetask.testutil,KV,Unnecessary Abstraction
+codellama_correct,org.apache.hadoop.mapred.nativetask.testutil,KV,Deficient Encapsulation
+codellama_correct,org.apache.hadoop.mapred.nativetask.testutil,EnforceNativeOutputCollectorDelegator,Unutilized Abstraction
+codellama_correct,org.apache.hadoop.mapred.nativetask.combinertest,LargeKVCombinerTest,Unutilized Abstraction
+codellama_correct,org.apache.hadoop.mapred.nativetask.combinertest,WordCountWithOldAPI,Unutilized Abstraction
+codellama_correct,org.apache.hadoop.mapred.nativetask.combinertest,TokenizerMapperWithOldAPI,Unutilized Abstraction
+codellama_correct,org.apache.hadoop.mapred.nativetask.combinertest,IntSumReducerWithOldAPI,Unutilized Abstraction
+codellama_correct,org.apache.hadoop.mapred.nativetask.kvtest,ValueMapper,Unutilized Abstraction
+codellama_correct,org.apache.hadoop.mapred.nativetask.kvtest,KVMReducer,Unutilized Abstraction
+codellama_correct,org.apache.hadoop.mapred.nativetask.kvtest,HashSumReducer,Unutilized Abstraction
+codellama_correct,org.apache.hadoop.mapred.nativetask,NativeMapOutputCollectorDelegator,Unutilized Abstraction
+codellama_correct,org.apache.rocketmq.tools.command.consumer,ConsumerStatusSubCommand,Unutilized Abstraction
+codellama_correct,org.apache.rocketmq.example.filter,SqlConsumer,Unutilized Abstraction
+codellama_correct,org.apache.rocketmq.filtersrv,FiltersrvStartup,Deficient Encapsulation
+codellama_correct,org.apache.catalina.ssi,SSICommand,Unutilized Abstraction
+codellama_correct,org.apache.catalina.ssi,ResponseIncludeWrapper,Unutilized Abstraction
+codellama_correct,org.apache.catalina.ssi,SSIPrintenv,Unutilized Abstraction
+codellama_correct,org.apache.catalina.tribes.transport.bio,BioReplicationTask,Unutilized Abstraction
+codellama_correct,org.apache.jmeter.save,DataSource,Unutilized Abstraction
+codellama_correct,org.apache.jmeter.save,DataSource,Deficient Encapsulation
+codellama_correct,io.druid.server.initialization,IndexerZkConfigTest,Unutilized Abstraction
+codellama_correct,org.apache.pulsar.client.impl.schema,KeyValueSchemaTest,Unutilized Abstraction
+codellama_correct,io.druid.query,MetricsEmittingQueryRunner,Unutilized Abstraction
+codellama_correct,com.alibaba.rocketmq.example.notify,Consumer,Unutilized Abstraction
+codellama_correct,org.apache.rocketmq.store.config,MessageStoreConfig,Broken Modularization
+codellama_correct,org.apache.pulsar.tests.integration.messaging,PersistentTopicMessagingTest,Unutilized Abstraction
+codellama_correct,org.apache.rocketmq.logging.inner,LoggingBuilder,Unutilized Abstraction
+codellama_correct,org.apache.rocketmq.logging.inner,LoggingBuilder,Deficient Encapsulation
+codellama_correct,org.apache.rocketmq.logging.inner,AppenderBuilder,Unutilized Abstraction
+codellama_correct,org.apache.rocketmq.logging.inner,AsyncAppender,Deficient Encapsulation
+codellama_correct,org.apache.flink.runtime.io.network.api.writer,BroadcastRecordWriter,Unutilized Abstraction
+codellama_correct,org.apache.flink.runtime.io.network.api.writer,name,Unutilized Abstraction
+codellama_correct,org.apache.flink.runtime.io.network.api.writer,name,Broken Modularization
+codellama_correct,org.apache.flink.runtime.io.network.api.writer,RecordWriterDelegateTest,Unutilized Abstraction
+codellama_correct,org.apache.flink.runtime.io.network.partition.consumer,StreamTestSingleInputGate,Unutilized Abstraction
+codellama_correct,org.apache.flink.runtime.taskmanager,ConsumableNotifyingResultPartitionWriterDecorator,Unutilized Abstraction
+codellama_correct,org.apache.hadoop.hdfs.inotify,RenamedEvent,Unutilized Abstraction
+codellama_correct,org.apache.hadoop.hdfs.inotify,UnlinkEvent,Unutilized Abstraction
+codellama_correct,org.apache.hadoop.hdfs.inotify,Event,Unutilized Abstraction
+codellama_correct,org.apache.hadoop.hdfs.inotify,Event,Insufficient Modularization
+codellama_correct,org.apache.hadoop.hdfs.inotify,CloseEvent,Unutilized Abstraction
+codellama_correct,org.apache.hadoop.hdfs.inotify,CreateEvent,Unutilized Abstraction
+codellama_correct,org.apache.hadoop.hdfs.inotify,MetadataUpdateEvent,Unutilized Abstraction
+codellama_correct,org.apache.hadoop.security,TestUGIWithMiniKdc,Unutilized Abstraction
+codellama_correct,com.ai.cloud.skywalking.web.bo,TraceTreeInfo,Unutilized Abstraction
+codellama_correct,org.apache.tomcat.util.net.jsse,JSSEFactory,Unutilized Abstraction
+codellama_correct,org.apache.tomcat.util.net.jsse,JSSESupport,Unutilized Abstraction
+codellama_correct,org.apache.dubbo.rpc.cluster.directory,StaticDirectoryTest,Unutilized Abstraction
+codellama_correct,org.apache.dubbo.rpc.cluster.directory,AbstractDirectory,Unutilized Abstraction
+codellama_correct,org.apache.dubbo.rpc.cluster.configurator.parser,ConfigParserTest,Unutilized Abstraction
+codellama_correct,org.apache.dubbo.rpc.cluster.router.file,FileRouterFactory,Unutilized Abstraction
+codellama_correct,org.apache.dubbo.rpc.cluster.router.file,FileRouterFactory,Deficient Encapsulation
+codellama_correct,org.apache.dubbo.rpc.cluster.support,FailbackClusterInvoker,Unutilized Abstraction
+codellama_correct,com.ai.cloud.skywalking.context,Span,Insufficient Modularization
+codellama_correct,com.ai.cloud.skywalking.reciever.persistance,PersistenceThread,Imperative Abstraction
+codellama_correct,com.ai.cloud.skywalking.reciever.persistance,PersistenceThread,Unutilized Abstraction
+codellama_correct,com.ai.cloud.skywalking.api,BusinessKeyAppender,Unutilized Abstraction
+codellama_correct,org.apache.flink.streaming.util,MockStreamTask,Unutilized Abstraction
+codellama_correct,com.yahoo.pulsar.admin.cli,CmdClusters,Unutilized Abstraction
+codellama_correct,com.yahoo.pulsar.admin.cli,Get,Unutilized Abstraction
+codellama_correct,com.yahoo.pulsar.admin.cli,Create,Unutilized Abstraction
+codellama_correct,com.yahoo.pulsar.admin.cli,Update,Unutilized Abstraction
+codellama_correct,com.yahoo.pulsar.admin.cli,Delete,Unutilized Abstraction
+codellama_correct,com.yahoo.pulsar.admin.cli,CmdBrokers,Unutilized Abstraction
+codellama_correct,com.yahoo.pulsar.admin.cli,List,Unutilized Abstraction
+codellama_correct,com.yahoo.pulsar.admin.cli,Namespaces,Unutilized Abstraction
+codellama_correct,com.yahoo.pulsar.admin.cli,UpdateConfigurationCmd,Unutilized Abstraction
+codellama_correct,com.yahoo.pulsar.admin.cli,GetAllConfigurationsCmd,Unutilized Abstraction
+codellama_correct,com.yahoo.pulsar.admin.cli,GetUpdatableConfigCmd,Unutilized Abstraction
+codellama_correct,com.yahoo.pulsar.admin.cli,CmdNamespaceIsolationPolicy,Unutilized Abstraction
+codellama_correct,com.yahoo.pulsar.admin.cli,SetPolicy,Unutilized Abstraction
+codellama_correct,com.yahoo.pulsar.admin.cli,GetAllPolicies,Unutilized Abstraction
+codellama_correct,com.yahoo.pulsar.admin.cli,GetPolicy,Unutilized Abstraction
+codellama_correct,com.yahoo.pulsar.admin.cli,DeletePolicy,Unutilized Abstraction
+codellama_correct,has,MessageStore,Unutilized Abstraction
+codellama_correct,has,MessageStore,Insufficient Modularization
+codellama_correct,has,has,Unutilized Abstraction
+codellama_correct,has,has,Unnecessary Abstraction
+codellama_correct,has,has,Unutilized Abstraction
+codellama_correct,com.alibaba.rocketmq.broker.plugin,AbstractPluginMessageStore,Unutilized Abstraction
+codellama_correct,com.alibaba.rocketmq.broker.plugin,AbstractPluginMessageStore,Insufficient Modularization
+codellama_correct,org.apache.cassandra.triggers,TriggersTest,Unutilized Abstraction
+codellama_correct,org.apache.dubbo.spring.boot.actuate.autoconfigure,DubboMetricsAutoConfiguration,Unutilized Abstraction
+codellama_correct,org.apache.dubbo.metrics,AbstractMetricsReporter,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.io,RandomAccessReaderTest,Unutilized Abstraction
+codellama_correct,org.apache.jmeter.timers,GaussianRandomTimer,Unutilized Abstraction
+codellama_correct,org.apache.jmeter.timers,GaussianRandomTimer,Broken Hierarchy
+codellama_correct,org.apache.jmeter.timers,ConstantThroughputTimer,Unutilized Abstraction
+codellama_correct,org.apache.jmeter.timers,ThroughputInfo,Unnecessary Abstraction
+codellama_correct,org.apache.jmeter.timers,BeanShellTimerBeanInfo,Unutilized Abstraction
+codellama_correct,org.apache.jmeter.timers,UniformRandomTimer,Unutilized Abstraction
+codellama_correct,org.apache.jmeter.timers,UniformRandomTimer,Broken Hierarchy
+codellama_correct,org.apache.jmeter.timers,SyncTimerBeanInfo,Unutilized Abstraction
+codellama_correct,org.apache.jmeter.timers,RandomTimer,Unutilized Abstraction
+codellama_correct,org.apache.jmeter.timers,RandomTimer,Deficient Encapsulation
+codellama_correct,org.apache.jmeter.control.gui,RandomControlGui,Unutilized Abstraction
+codellama_correct,org.apache.jmeter.control.gui,ThroughputControllerGui,Unutilized Abstraction
+codellama_correct,org.apache.jmeter.config,CSVDataSet,Unutilized Abstraction
+codellama_correct,org.apache.jmeter.config,CSVDataSet,Broken Modularization
+codellama_correct,org.apache.jmeter.sampler,DebugSamplerBeanInfo,Unutilized Abstraction
+codellama_correct,org.apache.jmeter.modifiers,BeanShellPreProcessor,Unutilized Abstraction
+codellama_correct,org.apache.jmeter.modifiers,BSFPreProcessorBeanInfo,Unutilized Abstraction
+codellama_correct,org.apache.jmeter.modifiers,BeanShellPreProcessorBeanInfo,Unutilized Abstraction
+codellama_correct,org.apache.jmeter.modifiers,CounterConfig,Unutilized Abstraction
+codellama_correct,org.apache.jmeter.modifiers,CounterConfig,Deficient Encapsulation
+codellama_correct,org.apache.jmeter.modifiers,CounterConfig,Insufficient Modularization
+codellama_correct,org.apache.jmeter.sampler.gui,TestActionGui,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.io.sstable,SSTableLoaderTest,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.io.sstable,SSTableLoaderTest,Deficient Encapsulation
+codellama_correct,org.apache.cassandra.io.sstable,TestClient,Unutilized Abstraction
+codellama_correct,org.apache.skywalking.apm.collector.storage.table.alarm,InstanceAlarmList,Unutilized Abstraction
+codellama_correct,org.apache.skywalking.apm.collector.storage.table.alarm,InstanceAlarmList,Broken Hierarchy
+codellama_correct,org.apache.skywalking.apm.collector.storage.table.alarm,InstanceCreator,Unutilized Abstraction
+codellama_correct,org.apache.skywalking.apm.collector.storage.table.alarm,Column,Unutilized Abstraction
+codellama_correct,org.apache.skywalking.apm.collector.storage.table.alarm,InstanceAlarmListTable,Deficient Encapsulation
+codellama_correct,org.apache.skywalking.apm.collector.storage.table.alarm,InstanceAlarmListTable,Broken Modularization
+codellama_correct,org.apache.skywalking.apm.collector.storage.table.alarm,RemoteDataInstanceCreator,Unutilized Abstraction
+codellama_correct,org.apache.skywalking.apm.collector.storage.table.alarm,StreamData,Unutilized Abstraction
+codellama_correct,org.apache.skywalking.apm.collector.storage.table.alarm,NonMergeOperation,Unutilized Abstraction
+codellama_correct,org.apache.skywalking.apm.collector.storage.table.alarm,CoverMergeOperation,Unutilized Abstraction
+codellama_correct,org.apache.skywalking.apm.collector.storage.table.alarm,Operation,Unutilized Abstraction
+codellama_correct,org.apache.skywalking.apm.collector.storage.table.alarm,RemoteData,Unutilized Abstraction
+codellama_correct,org.apache.skywalking.apm.collector.storage.table.alarm,RemoteDataRegisterService,Unutilized Abstraction
+codellama_correct,org.apache.skywalking.apm.collector.storage.table.alarm,RemoteDataInstanceCreator,Unutilized Abstraction
+codellama_correct,org.apache.hadoop.yarn.api.records.impl.pb,ResourcePBImpl,Unutilized Abstraction
+codellama_correct,org.apache.dubbo.remoting.transport.netty4,ClientReconnectTest,Unutilized Abstraction
+codellama_correct,org.apache.dubbo.remoting.transport.netty4,HandlerAdapter,Unutilized Abstraction
+codellama_correct,org.apache.naming.resources,TestNamingContext,Unutilized Abstraction
+codellama_correct,org.apache.naming.resources,Bug4994Servlet,Unutilized Abstraction
+codellama_correct,org.apache.druid.compressedbigdecimal,Utils,Unutilized Abstraction
+codellama_correct,org.apache.druid.compressedbigdecimal,CompressedBigDecimalObjectStrategy,Unutilized Abstraction
+codellama_correct,org.apache.druid.compressedbigdecimal,CompressedBigDecimalJsonSerializer,Unutilized Abstraction
+codellama_correct,org.apache.rocketmq.store.index,IndexFileTest,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.distributed.upgrade,TestVersions,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.distributed.upgrade,TestCase,Unutilized Abstraction
+codellama_correct,org.apache.hadoop.yarn.server.federation.store.records.impl.pb,SubClusterInfoPBImpl,Unutilized Abstraction
+codellama_correct,org.apache.hadoop.yarn.server.federation.store.records.impl.pb,RouterMasterKeyResponsePBImpl,Unutilized Abstraction
+codellama_correct,org.apache.hadoop.yarn.server.federation.store.records.impl.pb,ApplicationHomeSubClusterPBImpl,Unutilized Abstraction
+codellama_correct,org.apache.hadoop.yarn.server.federation.store.records.impl.pb,GetReservationsHomeSubClusterResponsePBImpl,Unutilized Abstraction
+codellama_correct,org.apache.hadoop.yarn.server.federation.store.records.impl.pb,SubClusterHeartbeatRequestPBImpl,Unutilized Abstraction
+codellama_correct,org.apache.hadoop.yarn.server.federation.store.records.impl.pb,ReservationHomeSubClusterPBImpl,Unutilized Abstraction
+codellama_correct,org.apache.hadoop.yarn.server.federation.policies.amrmproxy,TestHomeAMRMProxyPolicy,Unutilized Abstraction
+codellama_correct,org.apache.hadoop.yarn.server.federation.policies.amrmproxy,TestRejectAMRMProxyPolicy,Unutilized Abstraction
+codellama_correct,org.apache.hadoop.yarn.server.federation.policies.router,TestPriorityRouterPolicy,Unutilized Abstraction
+codellama_correct,org.apache.druid.segment.generator,DataGeneratorTest,Unutilized Abstraction
+codellama_correct,org.apache.druid.segment.incremental,IncrementalIndexRowCompTest,Unutilized Abstraction
+codellama_correct,org.apache.druid.segment.incremental,IncrementalIndexRowCompTest,Deficient Encapsulation
+codellama_correct,org.apache.druid.segment.incremental,IncrementalIndexAdapter,Unutilized Abstraction
+codellama_correct,org.apache.druid.segment.incremental,DimensionAccessor,Unutilized Abstraction
+codellama_correct,org.apache.druid.segment.incremental,MutableBitmapValues,Unutilized Abstraction
+codellama_correct,org.apache.druid.segment.incremental,IncrementalIndexIngestionTest,Unutilized Abstraction
+codellama_correct,org.apache.druid.segment.incremental,IncrementalIndexIngestionTest,Deficient Encapsulation
+codellama_correct,org.apache.druid.segment.incremental,IncrementalIndexColumnSelectorFactory,Unutilized Abstraction
+codellama_correct,org.apache.druid.benchmark,IncrementalIndexRowTypeBenchmark,Unutilized Abstraction
+codellama_correct,org.apache.jmeter.resources,PackageTest,Unutilized Abstraction
+codellama_correct,org.apache.hadoop.yarn.util,TestProcfsBasedProcessTree,Unutilized Abstraction
+codellama_correct,org.apache.hadoop.yarn.util,RogueTaskThread,Unutilized Abstraction
+codellama_correct,org.apache.hadoop.yarn.util,TestWindowsBasedProcessTree,Unutilized Abstraction
+codellama_correct,org.apache.hadoop.yarn.util,WindowsBasedProcessTreeTester,Unutilized Abstraction
+codellama_correct,org.apache.hadoop.yarn.util,WindowsBasedProcessTreeTester,Broken Hierarchy
+codellama_correct,org.apache.cassandra.concurrent,StageManager,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.concurrent,DebuggableThreadPoolExecutorTest,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.concurrent,JMXConfigurableThreadPoolExecutor,Unutilized Abstraction
+codellama_correct,org.apache.tomcat.util.bcel.classfile,ConstantInteger,Unutilized Abstraction
+codellama_correct,org.apache.tomcat.util.bcel.classfile,ConstantDouble,Unutilized Abstraction
+codellama_correct,org.apache.tomcat.util.bcel.classfile,ConstantFloat,Unutilized Abstraction
+codellama_correct,org.apache.tomcat.util.bcel.classfile,ConstantLong,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.transport,ProtocolErrorTest,Unutilized Abstraction
+codellama_correct,org.apache.catalina.authenticator,SpnegoAuthenticator,Unutilized Abstraction
+codellama_correct,org.apache.rocketmq.store.queue,RocksDBConsumeQueue,Unutilized Abstraction
+codellama_correct,org.apache.rocketmq.store.queue,ConsumeQueueStoreInterface,Unutilized Abstraction
+codellama_correct,org.apache.rocketmq.store.queue,ConsumeQueueStoreInterface,Insufficient Modularization
+codellama_correct,org.apache.rocketmq.store.queue,ConsumeQueueStoreInterface,Unutilized Abstraction
+codellama_correct,org.apache.rocketmq.store.queue,ConsumeQueueStoreInterface,Insufficient Modularization
+codellama_correct,org.apache.skywalking.oap.server.storage.plugin.influxdb.query,TopNRecordsQuery,Unutilized Abstraction
+codellama_correct,org.apache.flink.runtime.shuffle,ShuffleEnvironment,Unutilized Abstraction
+codellama_correct,org.apache.flink.runtime.io.network,has,Unutilized Abstraction
+codellama_correct,org.apache.flink.runtime.io.network,has,Broken Modularization
+codellama_correct,org.apache.flink.runtime.io.network,has,Unutilized Abstraction
+codellama_correct,org.apache.flink.runtime.io.network,has,Broken Modularization
+codellama_correct,org.apache.flink.runtime.io.network,has,Unutilized Abstraction
+codellama_correct,org.apache.flink.runtime.io.network,has,Broken Modularization
+codellama_correct,org.apache.flink.runtime.io.network,has,Unutilized Abstraction
+codellama_correct,org.apache.flink.runtime.io.network,has,Broken Modularization
+codellama_correct,org.apache.flink.runtime.io.network,has,Unutilized Abstraction
+codellama_correct,org.apache.flink.runtime.io.network,has,Broken Modularization
+codellama_correct,org.apache.flink.runtime.io.network,has,Unutilized Abstraction
+codellama_correct,org.apache.flink.runtime.io.network,has,Broken Modularization
+codellama_correct,org.apache.flink.runtime.io.network,has,Unutilized Abstraction
+codellama_correct,org.apache.flink.runtime.io.network,has,Broken Modularization
+codellama_correct,org.apache.flink.runtime.io.network,has,Unutilized Abstraction
+codellama_correct,org.apache.flink.runtime.io.network,has,Broken Modularization
+codellama_correct,org.apache.flink.runtime.io.network,has,Unutilized Abstraction
+codellama_correct,org.apache.flink.runtime.io.network,has,Broken Modularization
+codellama_correct,org.apache.flink.runtime.io.network,has,Unutilized Abstraction
+codellama_correct,org.apache.flink.runtime.io.network,has,Broken Modularization
+codellama_correct,org.apache.flink.runtime.io.network,has,Unutilized Abstraction
+codellama_correct,org.apache.flink.runtime.io.network,has,Broken Modularization
+codellama_correct,org.apache.flink.runtime.io.network,has,Unutilized Abstraction
+codellama_correct,org.apache.flink.runtime.io.network,has,Broken Modularization
+codellama_correct,com.a.eye.skywalking.storage.data.index.operator,Executor,Cyclic-Dependent Modularization
+codellama_correct,com.a.eye.skywalking.storage.data.index.operator,IndexOperator,Cyclic-Dependent Modularization
+codellama_correct,com.a.eye.skywalking.storage.data.index.operator,IndexOperatorTest,Unutilized Abstraction
+codellama_correct,com.a.eye.skywalking.storage.data.index.operator,Executor,Unutilized Abstraction
+codellama_correct,com.a.eye.skywalking.storage.data.index.operator,IndexOperator,Unutilized Abstraction
+codellama_correct,com.a.eye.skywalking.storage.data.index.operator,IndexOperatorFactory,Unutilized Abstraction
+codellama_correct,com.a.eye.skywalking.storage.data.index.operator,IndexOperatorTest,Unutilized Abstraction
+codellama_correct,com.a.eye.skywalking.storage.data.index.operator,to,Unutilized Abstraction
+codellama_correct,com.a.eye.skywalking.storage.data.index.operator,to,Broken Modularization
+codellama_correct,com.a.eye.skywalking.storage.data.index.operator,to,Unutilized Abstraction
+codellama_correct,com.a.eye.skywalking.storage.data.index.operator,to,Broken Modularization
+codellama_correct,com.a.eye.skywalking.storage.data.index.operator,to,Unutilized Abstraction
+codellama_correct,com.a.eye.skywalking.storage.data.index.operator,to,Broken Modularization
+codellama_correct,com.a.eye.skywalking.storage.data.index.operator,to,Unutilized Abstraction
+codellama_correct,com.a.eye.skywalking.storage.data.index.operator,to,Broken Modularization
+codellama_correct,com.a.eye.skywalking.storage.data.index.operator,IndexOperatorImpl,Unutilized Abstraction
+codellama_correct,com.a.eye.skywalking.storage.data.index.operator,IndexOperatorImpl,Broken Hierarchy
+codellama_correct,com.a.eye.skywalking.storage.data.index.operator,IndexOperator,Unutilized Abstraction
+codellama_correct,org.apache.cassandra.hints,HintsWriter,Cyclic-Dependent Modularization
+codellama_correct,org.apache.cassandra.hints,HintsDescriptor,Cyclic-Dependent Modularization
+codellama_correct,org.apache.hadoop.yarn.server.resourcemanager.scheduler.fair,QueuePlacementRule,Unutilized Abstraction
+codellama_correct,org.apache.hadoop.yarn.server.resourcemanager.scheduler.fair,User,Unutilized Abstraction
+codellama_correct,org.apache.hadoop.yarn.server.resourcemanager.scheduler.fair,PrimaryGroup,Unutilized Abstraction
+codellama_correct,org.apache.hadoop.yarn.server.resourcemanager.scheduler.fair,SecondaryGroupExistingQueue,Unutilized Abstraction
+codellama_correct,org.apache.dubbo.rpc.protocol.grpc.interceptors,GrpcConfigurator,Unutilized Abstraction
+codellama_correct,org.apache.dubbo.rpc.protocol.grpc,GrpcProtocol,Unutilized Abstraction
+codellama_correct,org.apache.dubbo.rpc.protocol.grpc,GrpcProtocol,Deficient Encapsulation
+codellama_correct,org.apache.dubbo.rpc.protocol.grpc,GrpcServerProxyInvoker,Unutilized Abstraction

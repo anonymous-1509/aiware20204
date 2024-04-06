@@ -1,0 +1,3 @@
+Extracting code smells...
+Exception while parsing literal number (during Magic Number detection). For input string: "c000000000000000" under radix 16
+Done.
