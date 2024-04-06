@@ -81,4 +81,8 @@ for project_name in "${project_names[@]}"; do
     fi
 done
 
+<<<<<<< HEAD
 echo "Specified directories moved to $BASE_DIR."
+=======
+echo "Specified directories moved to $BASE_DIR."
+>>>>>>> b30d475 (Data Collection)
