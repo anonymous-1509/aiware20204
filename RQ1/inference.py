@@ -37,7 +37,7 @@ output_dir = "CodeLlama-7B-Instruct-GPTQ"
 # Specify start line if code generation exits with error
 start_line = 1
 
-with open(f"filtered_test_data.jsonl", "r") as test_file, open(f"CodeLlama-7B-Instruct-GPTQ/results_test4k.jsonl", "a") as results_file:
+with open(f"test.jsonl", "r") as test_file, open(f"generated_refactorings.jsonl", "a") as results_file:
     lines = test_file.readlines()
     for i in range(start_line, len(lines)):
         data = json.loads(lines[i])
