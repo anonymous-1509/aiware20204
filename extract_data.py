@@ -81,7 +81,7 @@ def read_java_files(file_path):
 
 def main():
     data_dir = 'projects'
-    output_filename = 'java_code_changes_refactoring.jsonl'
+    output_filename = 'java_code_changes.jsonl'
 
     overall_data = read_overall_data('Overall.zip')
 
