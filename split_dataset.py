@@ -52,9 +52,9 @@ def split_data(input_file_path, train_file_path, test_file_path, validation_file
     
 # Define file paths
 input_file_path = 'java_code_changes.jsonl'
-train_file_path = 'train.jsonl'
-validation_file_path = 'validation.jsonl'
-test_file_path = 'test.jsonl'
+train_file_path = 'RQ2/train.jsonl'
+validation_file_path = 'RQ2/validation.jsonl'
+test_file_path = 'RQ1/test.jsonl'
 
 # Execute data splitting
 split_data(input_file_path, train_file_path, test_file_path, validation_file_path)
