@@ -22,3 +22,6 @@ Depending on the size of the test.jsonl file, this could take several days to we
 
 ## RQ2
 The script we use for fine-tuning is given in RQ2: `fine_tuning.ipynb`
+
+## RQ3
+To generate refactorings with the fine-tuned model, first, adjust the path at the beginning of `inference_finetuned.py`, then run.
