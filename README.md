@@ -13,9 +13,10 @@ To generate refactorings and collect code smells, run the following code:
 cd RQ1
 
 python3 inference.py
-
-extract_code_smells.sh
 ```
+
+Now to extract the number of code smells, run: `extract_code_smells.sh`
+
 
 ### Note
 Depending on the size of the test.jsonl file, this could take several days to weeks. We include our code smell metrics in the RQ1 folder under code_smells.
