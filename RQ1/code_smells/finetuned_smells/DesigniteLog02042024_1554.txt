@@ -1,0 +1,10 @@
+Extracting code smells...
+Exception while parsing literal number (during Magic Number detection). For input string: "0b10000000"
+Exception while parsing literal number (during Magic Number detection). For input string: "0b01000000"
+Exception while parsing literal number (during Magic Number detection). For input string: "0b11110000"
+Exception while parsing literal number (during Magic Number detection). For input string: "0b11110000"
+Exception while parsing literal number (during Magic Number detection). For input string: "0b00010000"
+Exception while parsing literal number (during Magic Number detection). For input string: "0b11100000"
+Exception while parsing literal number (during Magic Number detection). For input string: "0b00100000"
+Exception while parsing literal number (during Magic Number detection). For input string: "0b10000000"
+Done.
