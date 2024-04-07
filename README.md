@@ -3,6 +3,11 @@
 - Python3
 - Pip
 
+### Install Dependencies
+```
+pip install -r  requirements.txt
+```
+
 ## Usage
 To collect the dataset, run:
 `collect_refactorings.sh`
